@@ -5,7 +5,7 @@
 **Publication date:** unknown / to be confirmed  
 **Local filename:** (not committed — media stays local per README)  
 **Editing:** original (per steward download; edit state unverified)  
-**Runtime:** 1:28 (last ASR block)  
+**Runtime:** at least 1:28 in available ASR (recording length unconfirmed)  
 **Timecode basis:** FoxNote ASR blocks (original speed presumed; not audio-verified)  
 **Attribution confidence:** C (FoxNote ASR; provisional)  
 **Rights / redistribution status:** provisional — added at steward instruction 2026-10-08, pending creator consent
@@ -24,6 +24,8 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 - `CLAIM-003-03` (0:36-1:20) — A "Cognition training" program is being prepared on the speaker’s Discord server to teach control of consciousness states that produce abilities, while the speaker reports deliberately inducing opposite conditions in themselves.
 
 ## Uncertain words / missing context
+
+- **Incomplete transcript:** FoxNote explicitly ends mid-sentence after “I've intentionally been partaking”; neither the underlying video's duration nor its missing continuation has been verified.
 
 - ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
 
