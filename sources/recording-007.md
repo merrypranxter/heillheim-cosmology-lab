@@ -22,7 +22,8 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 ## Attributable propositions
 
-- `CLAIM-007-01` — The speaker narrates reviving two drowned grub worms, observing them through a recovery process; one larger grub reacts strongly to the procedure.
+- `CLAIM-007-01` — The speaker narrates reviving two drowned grub worms, observing them through a recovery process; one larger grub reacts strongly to the procedure. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-007-02` (1:58-4:59) — The available timecoded excerpt describes a larger grub moving first and a smaller grub following, with the creator talking about energy transfer, handling, and a drop of water; this does not establish whether the earlier setup summary is the same post. *[voice: posted_recording_voice_unverified; external verification: not verified]*
 
 ## Uncertain words / missing context
 
