@@ -23,6 +23,16 @@
       "kind": "cosmology"
     },
     {
+      "id": "EVT-016",
+      "date_label": "Snowball Earth (hundreds of millions of years ago)",
+      "event": "Ymir mapped to Snowball Earth by FoxNote summaries in REC-030/038; distinct from REC-011's last-glacial-maximum mapping.",
+      "source_ids": [
+        "REC-030",
+        "REC-038"
+      ],
+      "kind": "cosmology"
+    },
+    {
       "id": "EVT-003",
       "date_label": "post-Chicxulub",
       "event": "Genesis 1 framed as compressed record of post-impact ecological recovery (MCE reading).",
@@ -33,11 +43,10 @@
     },
     {
       "id": "EVT-004",
-      "date_label": "last glacial maximum",
-      "event": "Ymir/Snowball Earth correspondence; debris scrubbed from land (Nobel hint).",
+      "date_label": "last glacial maximum (REC-011 explainer)",
+      "event": "Ymir is mapped to the last glacial maximum by REC-011's published explainer; this differs from the Snowball Earth reading in REC-030/038.",
       "source_ids": [
-        "REC-038",
-        "REC-032"
+        "REC-011"
       ],
       "kind": "cosmology"
     },
