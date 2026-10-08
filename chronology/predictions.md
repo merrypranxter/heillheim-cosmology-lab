@@ -14,6 +14,8 @@ Order of source claims matters. We record **when something was said**, **what ou
 | PRED-008 | REC-022 | Undated | Promise to outline Mandela-effect ripple effects; manufactured brand-memory changes. | Claimed disclosure | Unverified |
 | PRED-009 | REC-012 | 35-year horizon | Relativity engineering delivers “700 years of progress in the next 35.” | Forecast | Unverified |
 
+**Aggregation:** PRED-001 and PRED-002 are narrower restatements of material also found in PRED-003. All nine IDs are preserved across Markdown, JSON and CSV; use `normalized_by` to avoid counting these as three independent fulfillments. PRED-008 is a disclosure promise rather than an independent external-event forecast.
+
 ## Verification checklist
 - Locate and preserve the original post link and original date.
 - Find the creator's referenced **July 24** prior recording (also referenced in REC-056).
