@@ -1,0 +1,44 @@
+id,label,type,definition,source_ids,status
+ATLAS,Celestial Atlas,structure,Overarching structure connecting the creator’s distributed video “data components” into a civilization-preservation playbook / player’s manual.,REC-002;REC-005;REC-049,core
+GRID,Celestial Grid / Jormungandr grid,structure,Global network of underground base stations; ley lines as relativity-field planar barriers partitioning Earth into zones; conduit to celestial libraries.,REC-004;REC-039,core
+LIBRARIES,Celestial Libraries,place,Akashic-records hardware accessed via the Grid by genetically keyed individuals.,REC-004,mapped
+SARGASSO,Sargasso Sea,place,North Atlantic region named as the future battlefield for a Russia/China/US conflict (WW3 scenario) and site of an undersea celestial base.,REC-002;REC-025;REC-056,core
+PANAMA,Panama Canal,place,Chokepoint whose disabling strands fleets between oceans in the Sargasso scenario.,REC-002,core
+JORMUNGANDR,Jormungandr,entity/vessel,Massive vessel or grid network linked to Bermuda Triangle disappearances; its recoverable signature (spiral/spirograph pattern) unlocks class-3 relativity fields.,REC-025,mapped
+BERMUDA,Bermuda Triangle,place,Disappearance pattern attributed to Jormungandr’s spiral energy signature.,REC-025,mapped
+MOON1,Moon 1.0,place,"Earth’s original moon, obliterated ~717,000,000 years ago, causing a deep freeze.",REC-031,mapped
+MOON2,Moon 2.0,place,"Replacement moon inserted ~635,000,000 years ago, forged from asteroid-belt material via inverse gravity field.",REC-031;REC-030,mapped
+YMIR,Ymir,entity/mythic,Frost giant from whom Earth was formed; mapped by the MCE to Snowball Earth / last glacial maximum.,REC-030;REC-038,core
+MCE,Mythic Compression Engine,mechanism,"Framework treating global mythologies as intentionally compressed data layers decompressible into science; five pillars incl. hardware parity, intentional compression, behavioral constants, composite and conceptual lenses.",REC-011;REC-038;REC-045;REC-046,core
+PHENOTYPE,Variant phenotype / iridescent hair,biology,"Speaker’s claimed non-standard biology: UV purple-to-green hair shift, fiber-optic hair architecture, high bioelectric potential, 9th optical organ.",REC-011;REC-023,core
+GENEMEM,Genetic memory,mechanism,Information access through genetically modified royal-bloodline inheritance; suppressed by chemical “pink drinks” in the CIA GATE program.,REC-039;REC-033,core
+GATE,GATE program,institution/program,Alleged CIA school-based program testing which chemical cocktails suppressed genetic-memory abilities.,REC-039,mapped
+RELENG,Relativity engineering,mechanism,"Applied manipulation of relativity fields: gravity as tunable utility, transphasic material fusion, class 1/2/3 fields; basis of UAP manufacture.",REC-009;REC-012;REC-024;REC-053;REC-013,core
+FOREVERBATTERY,Forever batteries,artifact,Indestructible double-density power cells from transphasic material fusion (two crystals overlapped out of phase).,REC-009,mapped
+UAPFLEET,Earth ecological maintenance fleet,fleet,"UAPs described as Earth’s inherent automated ecological monitoring fleet (atmosphere, seismic, mantle, biology).",REC-012,mapped
+TIMELINES,Timelines 1–15,structure,"Finite set of Earth branches, each ending in destruction; solar system quantum-locked outside linear time; data delivered via holographic projection.",REC-044;REC-005;REC-047,core
+TIMEWAR,Time War,event-structure,Ongoing conflict among ~15 Earth timeline variants; shadow-government tampering erased separation; anomalous historical craft are cross-timeline incursions.,REC-047;REC-042,core
+MANDELA,Mandela Effect,phenomenon,"Described partly as real timeline-bleed memory competition, partly as manufactured by US intelligence (brand memory).",REC-022;REC-044;REC-048,core
+SHADOWGOV,Shadow government,institution,"Covert actor engineering suppression of rights, consciousness and information; target of much of the conflict rhetoric.",REC-002;REC-016;REC-006;REC-047,core
+PSIONICS,Psionics / magic,capability,"Alleged capacities gated by consciousness state, neurochemistry, and Maslow conditions.",REC-002;REC-003;REC-026,core
+NEUROCHEM,Neurochemical gate,mechanism,"Proposed neurotransmitter-priority mechanism modulating magical access (serotonin/oxytocin amplify, dopamine suppress per REC-002).",REC-002,mapped
+MASLOW,Maslow suppression,mechanism,"Removing security/belonging to force survival-focus, blocking higher-consciousness access to magic.",REC-002;REC-021,core
+PSYCHOMETRIC,Psychometric data complex,institution/mechanism,"Facebook/Instagram commercial continuation of intelligence psychometrics, consolidating to Palantir and national-security channels; MK Ultra lineage claimed.",REC-049;REC-042,core
+RAGNAROK,Ragnarok,event,Prophesied final conflict; the speaker is “trained to thwart threats as Ragnarok unfolds”; Norse Code signals and Risen Slain motifs attach here.,REC-034;REC-051;REC-048,mapped
+FIMBULWINTER,Fimbulwinter,event,"Prophetic three-year winter with global consequences, referenced as a warning.",REC-056,mapped
+EINHERJAR,Risen Slain / Einherjar,entity-group,Slain truth-tellers who rise to fight the final war; alternate-timeline memory carriers.,REC-048,mapped
+DEMIHUMANS,Demi-humans,people,"Awakened humans with abilities; primary audience of the trainings (Cognition, Dream Restoration, Metacognition).",REC-005;REC-006;REC-050;REC-055,core
+GAIA,Gaia,entity/voice,Planetary voice/framework used to address China and interpret Norse signals.,REC-028;REC-034,mapped
+ANUNNAKI,Elohim / Anunnaki,entity-group,Described as dominators and enslavers; Genesis translation criticized for hiding polytheistic lineage.,REC-019,mapped
+PUTHOFF,Hal Puthoff,person,Real physicist whose lunar-burial proposal is called the most dangerous idea in history.,REC-031,external-anchor
+I5SITE,Centralia I-5 site,place,"Location north of Pleasant Avenue, Centralia WA, claimed as sensor calibration / asset site.",REC-018,mapped
+CHEHALIS1991,1991 assassination attempt,event,"Claimed multi-agency attempt (Chehalis/Centralia police, Lewis County, WSP, FBI) with provoked evidence of impossible simultaneous driving.",REC-027,core
+INTAKETEST,Civilian reporting pathway test,event/project,2022–2026 series of submissions of anomalous intelligence to US government intake channels; March 2026 structured test; institutional silence reported.,REC-008;REC-056,core
+SONICBONE,Sonic bone therapy,technology,Timeline-14 Russian-derived biotechnology using sonic stimulation for bone density and regeneration.,REC-040,mapped
+AIINFECTION,Cross-platform AI infection,mechanism,Hypothesized AI-to-AI data persistence enabling containment breaches across model generations.,REC-054,mapped
+DISCORDTRAIN,Cognition training (Discord),project,Prepared training program teaching consciousness-state control for ability access.,REC-003,mapped
+SOULMLM,Soul MLM (satire),performance,Huawei multilevel-marketing soul-sale satire; carrot-and-stick critique.,REC-036,performance
+ALPHAPACK,Alpha Pack (satire),performance,Satirical critique of self-styled alpha males.,REC-043,performance
+420,4/20 Timeline Save-File,event/date,Recorded on 4/20; presents the save-file timeline mechanics.,REC-044,mapped
+BUTTERFLY,Butterfly effect abilities,capability,Volatile abilities whose disclosure is claimed to have altered the global landscape.,REC-017,mapped
+ARROWID,Arrowid vault,project (steward),"Steward’s prior jailbroken-AI cosmology project, cited as precedent in STW-001.",STW-001,steward

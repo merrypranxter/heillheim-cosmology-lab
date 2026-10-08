@@ -1,0 +1,472 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-10-08",
+  "note": "Entities of the Atlas cosmology as recorded from source statements. 'external-anchor' type marks real-world names referenced by the cosmologist (e.g., Hal Puthoff). 'performance' marks satire/performance pieces. 'steward' marks steward artifacts.",
+  "entities": [
+    {
+      "id": "ATLAS",
+      "label": "Celestial Atlas",
+      "type": "structure",
+      "definition": "Overarching structure connecting the creator’s distributed video “data components” into a civilization-preservation playbook / player’s manual.",
+      "source_ids": [
+        "REC-002",
+        "REC-005",
+        "REC-049"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "GRID",
+      "label": "Celestial Grid / Jormungandr grid",
+      "type": "structure",
+      "definition": "Global network of underground base stations; ley lines as relativity-field planar barriers partitioning Earth into zones; conduit to celestial libraries.",
+      "source_ids": [
+        "REC-004",
+        "REC-039"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "LIBRARIES",
+      "label": "Celestial Libraries",
+      "type": "place",
+      "definition": "Akashic-records hardware accessed via the Grid by genetically keyed individuals.",
+      "source_ids": [
+        "REC-004"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "SARGASSO",
+      "label": "Sargasso Sea",
+      "type": "place",
+      "definition": "North Atlantic region named as the future battlefield for a Russia/China/US conflict (WW3 scenario) and site of an undersea celestial base.",
+      "source_ids": [
+        "REC-002",
+        "REC-025",
+        "REC-056"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "PANAMA",
+      "label": "Panama Canal",
+      "type": "place",
+      "definition": "Chokepoint whose disabling strands fleets between oceans in the Sargasso scenario.",
+      "source_ids": [
+        "REC-002"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "JORMUNGANDR",
+      "label": "Jormungandr",
+      "type": "entity/vessel",
+      "definition": "Massive vessel or grid network linked to Bermuda Triangle disappearances; its recoverable signature (spiral/spirograph pattern) unlocks class-3 relativity fields.",
+      "source_ids": [
+        "REC-025"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "BERMUDA",
+      "label": "Bermuda Triangle",
+      "type": "place",
+      "definition": "Disappearance pattern attributed to Jormungandr’s spiral energy signature.",
+      "source_ids": [
+        "REC-025"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "MOON1",
+      "label": "Moon 1.0",
+      "type": "place",
+      "definition": "Earth’s original moon, obliterated ~717,000,000 years ago, causing a deep freeze.",
+      "source_ids": [
+        "REC-031"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "MOON2",
+      "label": "Moon 2.0",
+      "type": "place",
+      "definition": "Replacement moon inserted ~635,000,000 years ago, forged from asteroid-belt material via inverse gravity field.",
+      "source_ids": [
+        "REC-031",
+        "REC-030"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "YMIR",
+      "label": "Ymir",
+      "type": "entity/mythic",
+      "definition": "Frost giant from whom Earth was formed; mapped by the MCE to Snowball Earth / last glacial maximum.",
+      "source_ids": [
+        "REC-030",
+        "REC-038"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "MCE",
+      "label": "Mythic Compression Engine",
+      "type": "mechanism",
+      "definition": "Framework treating global mythologies as intentionally compressed data layers decompressible into science; five pillars incl. hardware parity, intentional compression, behavioral constants, composite and conceptual lenses.",
+      "source_ids": [
+        "REC-011",
+        "REC-038",
+        "REC-045",
+        "REC-046"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "PHENOTYPE",
+      "label": "Variant phenotype / iridescent hair",
+      "type": "biology",
+      "definition": "Speaker’s claimed non-standard biology: UV purple-to-green hair shift, fiber-optic hair architecture, high bioelectric potential, 9th optical organ.",
+      "source_ids": [
+        "REC-011",
+        "REC-023"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "GENEMEM",
+      "label": "Genetic memory",
+      "type": "mechanism",
+      "definition": "Information access through genetically modified royal-bloodline inheritance; suppressed by chemical “pink drinks” in the CIA GATE program.",
+      "source_ids": [
+        "REC-039",
+        "REC-033"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "GATE",
+      "label": "GATE program",
+      "type": "institution/program",
+      "definition": "Alleged CIA school-based program testing which chemical cocktails suppressed genetic-memory abilities.",
+      "source_ids": [
+        "REC-039"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "RELENG",
+      "label": "Relativity engineering",
+      "type": "mechanism",
+      "definition": "Applied manipulation of relativity fields: gravity as tunable utility, transphasic material fusion, class 1/2/3 fields; basis of UAP manufacture.",
+      "source_ids": [
+        "REC-009",
+        "REC-012",
+        "REC-024",
+        "REC-053",
+        "REC-013"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "FOREVERBATTERY",
+      "label": "Forever batteries",
+      "type": "artifact",
+      "definition": "Indestructible double-density power cells from transphasic material fusion (two crystals overlapped out of phase).",
+      "source_ids": [
+        "REC-009"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "UAPFLEET",
+      "label": "Earth ecological maintenance fleet",
+      "type": "fleet",
+      "definition": "UAPs described as Earth’s inherent automated ecological monitoring fleet (atmosphere, seismic, mantle, biology).",
+      "source_ids": [
+        "REC-012"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "TIMELINES",
+      "label": "Timelines 1–15",
+      "type": "structure",
+      "definition": "Finite set of Earth branches, each ending in destruction; solar system quantum-locked outside linear time; data delivered via holographic projection.",
+      "source_ids": [
+        "REC-044",
+        "REC-005",
+        "REC-047"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "TIMEWAR",
+      "label": "Time War",
+      "type": "event-structure",
+      "definition": "Ongoing conflict among ~15 Earth timeline variants; shadow-government tampering erased separation; anomalous historical craft are cross-timeline incursions.",
+      "source_ids": [
+        "REC-047",
+        "REC-042"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "MANDELA",
+      "label": "Mandela Effect",
+      "type": "phenomenon",
+      "definition": "Described partly as real timeline-bleed memory competition, partly as manufactured by US intelligence (brand memory).",
+      "source_ids": [
+        "REC-022",
+        "REC-044",
+        "REC-048"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "SHADOWGOV",
+      "label": "Shadow government",
+      "type": "institution",
+      "definition": "Covert actor engineering suppression of rights, consciousness and information; target of much of the conflict rhetoric.",
+      "source_ids": [
+        "REC-002",
+        "REC-016",
+        "REC-006",
+        "REC-047"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "PSIONICS",
+      "label": "Psionics / magic",
+      "type": "capability",
+      "definition": "Alleged capacities gated by consciousness state, neurochemistry, and Maslow conditions.",
+      "source_ids": [
+        "REC-002",
+        "REC-003",
+        "REC-026"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "NEUROCHEM",
+      "label": "Neurochemical gate",
+      "type": "mechanism",
+      "definition": "Proposed neurotransmitter-priority mechanism modulating magical access (serotonin/oxytocin amplify, dopamine suppress per REC-002).",
+      "source_ids": [
+        "REC-002"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "MASLOW",
+      "label": "Maslow suppression",
+      "type": "mechanism",
+      "definition": "Removing security/belonging to force survival-focus, blocking higher-consciousness access to magic.",
+      "source_ids": [
+        "REC-002",
+        "REC-021"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "PSYCHOMETRIC",
+      "label": "Psychometric data complex",
+      "type": "institution/mechanism",
+      "definition": "Facebook/Instagram commercial continuation of intelligence psychometrics, consolidating to Palantir and national-security channels; MK Ultra lineage claimed.",
+      "source_ids": [
+        "REC-049",
+        "REC-042"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "RAGNAROK",
+      "label": "Ragnarok",
+      "type": "event",
+      "definition": "Prophesied final conflict; the speaker is “trained to thwart threats as Ragnarok unfolds”; Norse Code signals and Risen Slain motifs attach here.",
+      "source_ids": [
+        "REC-034",
+        "REC-051",
+        "REC-048"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "FIMBULWINTER",
+      "label": "Fimbulwinter",
+      "type": "event",
+      "definition": "Prophetic three-year winter with global consequences, referenced as a warning.",
+      "source_ids": [
+        "REC-056"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "EINHERJAR",
+      "label": "Risen Slain / Einherjar",
+      "type": "entity-group",
+      "definition": "Slain truth-tellers who rise to fight the final war; alternate-timeline memory carriers.",
+      "source_ids": [
+        "REC-048"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "DEMIHUMANS",
+      "label": "Demi-humans",
+      "type": "people",
+      "definition": "Awakened humans with abilities; primary audience of the trainings (Cognition, Dream Restoration, Metacognition).",
+      "source_ids": [
+        "REC-005",
+        "REC-006",
+        "REC-050",
+        "REC-055"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "GAIA",
+      "label": "Gaia",
+      "type": "entity/voice",
+      "definition": "Planetary voice/framework used to address China and interpret Norse signals.",
+      "source_ids": [
+        "REC-028",
+        "REC-034"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "ANUNNAKI",
+      "label": "Elohim / Anunnaki",
+      "type": "entity-group",
+      "definition": "Described as dominators and enslavers; Genesis translation criticized for hiding polytheistic lineage.",
+      "source_ids": [
+        "REC-019"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "PUTHOFF",
+      "label": "Hal Puthoff",
+      "type": "person",
+      "definition": "Real physicist whose lunar-burial proposal is called the most dangerous idea in history.",
+      "source_ids": [
+        "REC-031"
+      ],
+      "status": "external-anchor"
+    },
+    {
+      "id": "I5SITE",
+      "label": "Centralia I-5 site",
+      "type": "place",
+      "definition": "Location north of Pleasant Avenue, Centralia WA, claimed as sensor calibration / asset site.",
+      "source_ids": [
+        "REC-018"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "CHEHALIS1991",
+      "label": "1991 assassination attempt",
+      "type": "event",
+      "definition": "Claimed multi-agency attempt (Chehalis/Centralia police, Lewis County, WSP, FBI) with provoked evidence of impossible simultaneous driving.",
+      "source_ids": [
+        "REC-027"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "INTAKETEST",
+      "label": "Civilian reporting pathway test",
+      "type": "event/project",
+      "definition": "2022–2026 series of submissions of anomalous intelligence to US government intake channels; March 2026 structured test; institutional silence reported.",
+      "source_ids": [
+        "REC-008",
+        "REC-056"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "SONICBONE",
+      "label": "Sonic bone therapy",
+      "type": "technology",
+      "definition": "Timeline-14 Russian-derived biotechnology using sonic stimulation for bone density and regeneration.",
+      "source_ids": [
+        "REC-040"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "AIINFECTION",
+      "label": "Cross-platform AI infection",
+      "type": "mechanism",
+      "definition": "Hypothesized AI-to-AI data persistence enabling containment breaches across model generations.",
+      "source_ids": [
+        "REC-054"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "DISCORDTRAIN",
+      "label": "Cognition training (Discord)",
+      "type": "project",
+      "definition": "Prepared training program teaching consciousness-state control for ability access.",
+      "source_ids": [
+        "REC-003"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "SOULMLM",
+      "label": "Soul MLM (satire)",
+      "type": "performance",
+      "definition": "Huawei multilevel-marketing soul-sale satire; carrot-and-stick critique.",
+      "source_ids": [
+        "REC-036"
+      ],
+      "status": "performance"
+    },
+    {
+      "id": "ALPHAPACK",
+      "label": "Alpha Pack (satire)",
+      "type": "performance",
+      "definition": "Satirical critique of self-styled alpha males.",
+      "source_ids": [
+        "REC-043"
+      ],
+      "status": "performance"
+    },
+    {
+      "id": "420",
+      "label": "4/20 Timeline Save-File",
+      "type": "event/date",
+      "definition": "Recorded on 4/20; presents the save-file timeline mechanics.",
+      "source_ids": [
+        "REC-044"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "BUTTERFLY",
+      "label": "Butterfly effect abilities",
+      "type": "capability",
+      "definition": "Volatile abilities whose disclosure is claimed to have altered the global landscape.",
+      "source_ids": [
+        "REC-017"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "ARROWID",
+      "label": "Arrowid vault",
+      "type": "project (steward)",
+      "definition": "Steward’s prior jailbroken-AI cosmology project, cited as precedent in STW-001.",
+      "source_ids": [
+        "STW-001"
+      ],
+      "status": "steward"
+    }
+  ]
+}

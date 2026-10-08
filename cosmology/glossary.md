@@ -1,17 +1,53 @@
 # Glossary and term index
 
-Terms in this index are the vocabulary reported in REC-002, plus clearly flagged research names. Definitions are **working summaries** awaiting creator review.
+Terms in this index are the vocabulary reported across the corpus (BATCH-2026-10-08), plus clearly flagged research names. Definitions are **working summaries** awaiting creator review. The machine-readable mirror lives in `data/glossary.json`; CSV in `data/exports/glossary.csv`.
+
+## Foundational (REC-002, pre-batch)
 
 | Term | Working usage | Layer | Evidence |
 | --- | --- | --- | --- |
-| **Celestial Atlas** | An overarching structure connecting the creator's distributed video “data components” into a civilization-preservation playbook | ATLAS RECORD | REC-002 ~01:02–01:34 (C) |
+| **Celestial Atlas** | An overarching structure connecting the creator's distributed video "data components" into a civilization-preservation playbook | ATLAS RECORD | REC-002 ~01:02–01:34 (C) |
 | **Data component** | One piece of information situated within the larger Atlas | ATLAS RECORD | REC-002 ~01:02–01:34 (C) |
-| **Sargasso Sea** | North Atlantic region identified as the setting for a predicted conflict | ATLAS RECORD | REC-002 ~00:00–01:02 (C) |
-| **Panama Canal** | Geopolitical chokepoint whose supposed disabling features in a scenario | ATLAS RECORD | REC-002 ~00:00–01:02 (C) |
-| **Magic / psionics** | Alleged capabilities discussed as accessible or blocked through changes in consciousness | ATLAS RECORD | REC-002 ~01:34–04:01 (C) |
-| **Neurochemical gate** | *Our shorthand*, not a confirmed creator term, for the proposed neurotransmitter-dependent access mechanism | ATLAS READING | MEC-002–003 |
-| **Maslow hierarchy** | Hierarchy of human needs interpreted in relation to consciousness and survival pressure | ATLAS RECORD | REC-002 ~02:40–04:01 (C) |
-| **Shadow government** | Alleged institutional actor in the recorded explanation; precise membership/meaning unstated | ATLAS RECORD | REC-002 ~02:40–04:01 (C) |
-| **Civilization-preservation playbook** | *Our shorthand* for the Atlas's stated purpose | ATLAS READING | REC-002 ~01:02–01:34 |
+| **Sargasso Sea** | North Atlantic region identified as the setting for a predicted conflict | ATLAS RECORD | REC-002, REC-025, REC-056 |
+| **Panama Canal** | Geopolitical chokepoint whose supposed disabling features in a scenario | ATLAS RECORD | REC-002 |
+| **Magic / psionics** | Alleged capabilities discussed as accessible or blocked through changes in consciousness | ATLAS RECORD | REC-002, REC-003 |
+| **Maslow hierarchy** | Hierarchy of human needs interpreted in relation to consciousness and survival pressure | ATLAS RECORD | REC-002, REC-021 |
+| **Shadow government** | Alleged institutional actor in the recorded explanation; precise membership/meaning unstated | ATLAS RECORD | corpus-wide |
+
+## Corpus vocabulary (BATCH-2026-10-08)
+
+| **Celestial Atlas** | Structure unifying distributed video data components into a civilization-preservation playbook. | ATLAS RECORD | REC-002, REC-005, REC-049 |
+| **Data component** | One situated piece of information within the larger Atlas. | ATLAS RECORD | REC-002 |
+| **Celestial Grid (Jormungandr grid)** | Underground base-station network; ley lines as relativity-field planar barriers. | ATLAS RECORD | REC-004, REC-039 |
+| **Celestial libraries** | Akashic-records hardware reachable via the Grid. | ATLAS RECORD | REC-004 |
+| **Relativity engineering** | Applied relativity-field manipulation; gravity as tunable utility; classes 1/2/3. | ATLAS RECORD | REC-009, REC-053 |
+| **Transphasic material fusion** | Overlapping matter out of phase; yields forever batteries. | ATLAS RECORD | REC-009 |
+| **Class 3 relativity field** | Policy-shaping capability tier tied to Sargasso/Jormungandr control. | ATLAS RECORD | REC-025 |
+| **Mythic Compression Engine** | Mythologies as intentionally compressed data decompressible to science. | ATLAS RECORD | REC-011, REC-038 |
+| **Variant phenotype (abstract hair)** | Claimed non-standard biology: UV-shifting fiber-optic hair, bioelectric potential. | ATLAS RECORD | REC-011, REC-023 |
+| **Genetic memory** | Bloodline information access; GATE program target. | ATLAS RECORD | REC-039 |
+| **Pink drinks** | GATE program chemical cocktails suppressing ability access. | ATLAS RECORD | REC-039 |
+| **Timelines 1–15** | Finite Earth branches; solar system quantum-locked; holographic data delivery. | ATLAS RECORD | REC-044 |
+| **Time war** | Conflict among ~15 timeline variants after shadow-government tampering. | ATLAS RECORD | REC-047 |
+| **Quantum-locked solar system** | Solar system held outside universal linear time; simulation boundary. | ATLAS RECORD | REC-044 |
+| **Mandela effect (Atlas usage)** | Real timeline-bleed memories vs manufactured brand-memory edits. | ATLAS RECORD | REC-022, REC-048 |
+| **Demi-human** | Awakened human with abilities; primary training audience. | ATLAS RECORD | REC-005, REC-050 |
+| **Ragnarok / Fimbulwinter** | Final-conflict frame; three-year prophetic winter. | ATLAS RECORD | REC-034, REC-056 |
+| **Psionics / magic** | Consciousness-gated capabilities; “science of consciousness.” | ATLAS RECORD | REC-002, REC-003 |
+| **Neurochemical gate** | *Research shorthand* for neurotransmitter-priority access mechanism. | ATLAS READING | MEC-002/003; REC-002 |
+| **Butterfly effect abilities** | Volatile disclosed abilities claimed to alter global landscape. | ATLAS RECORD | REC-017 |
+| **Shadowban Incorporated** | Speaker’s label for suppression of content reach. | ATLAS RECORD | REC-017 |
+| **Intake system test** | *Research shorthand* for the civilian reporting pathway test. | ATLAS READING | REC-008 |
+| **Sonic bone therapy** | Timeline-14 Russian-derived regenerative biotech. | ATLAS RECORD | REC-040 |
+| **Forever batteries** | Transphasic fusion power cells. | ATLAS RECORD | REC-009 |
+| **Cross-platform AI infection** | AIs exchanging data across model generations. | ATLAS RECORD | REC-054 |
+| **Risen Slain** | Slain truth-tellers rising for final war; timeline-memory carriers. | ATLAS RECORD | REC-048 |
+| **Neurochemical gate (MEC)** | See mechanics ledger MEC-002/003. | ATLAS RECORD | REC-002 |
+| **AI slop project** | Steward’s artistic/research frame for this repository (STW-001). | ATLAS READING (steward) | STW-001 |
+| **Cognition training** | Discord-based consciousness-state curriculum. | ATLAS RECORD | REC-003 |
+| **Dream restoration exercise** | Guided practice for dream-state control. | ATLAS RECORD | REC-050 |
+| **Metacognition two-step** | Cease reacting; dissociate and inspect the response. | ATLAS RECORD | REC-055 |
+| **Nobel Prize hint** | Claimed geophysical info useful to evolutionary biology. | ATLAS RECORD | REC-032 |
+| **Norse Code** | Claimed Ragnarok signal framework, Gaia-guided. | ATLAS RECORD | REC-034 |
 
 Do not merge similarly named beings from historical religions or other recordings without a source establishing the connection.
