@@ -21,17 +21,17 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 ## Attributable propositions
 
-- `CLAIM-002-01` (~00:00–01:02 (accelerated edit)) — A forthcoming Sargasso Sea conflict is connected to proposed military movements and vulnerability around the Panama Canal.
-- `CLAIM-002-02` (~01:02–01:34 (accelerated edit)) — Different videos are described as data components of a greater structure called the Celestial Atlas, described as a game plan/manual for the preservation of civilization.
-- `CLAIM-002-03` (~02:27–02:40 (accelerated edit)) — Atlas describes certain neurotransmitters as modulators of magical access.
-- `CLAIM-002-04` (~02:40–04:01 (accelerated edit)) — A proposed mechanism by which attacks on civil rights and security create survival-focused conditions and thereby suppress alleged capacities.
-- `CLAIM-002-05` (0:01-1:07) — Three weeks after a July 24 outline, the speaker describes US naval moves (Pacific Fleet carrier to the Atlantic, contract Israeli combatants, second carrier to the Middle East) as unfolding a predicted Sargasso Sea war scenario.
-- `CLAIM-002-06` (0:01-1:07) — Disabling the Panama Canal would strand the fleet for months; the speaker reasons that proper military intelligence would route Atlantic Fleet escorts through the canal for the carrier transit.
-- `CLAIM-002-07` (2:22-3:08) — The videos are described as "data components" of a structure the speaker terms the Celestial Atlas: a full game plan / player’s manual to preserve civilization (or a portion of it), mostly about information distribution.
-- `CLAIM-002-08` (3:14-3:48) — The "magic of consciousness" is described as directly impacted by neurotransmitter balance and priorities; the speaker rejects "light and love" metaphysical approaches as ineffective.
-- `CLAIM-002-09` (3:49-4:15) — The speaker cites Jesus as embodiment of love who nonetheless "believed in corporal punishment," using it to argue love alone does not fix systems.
-- `CLAIM-002-10` (8:17-8:49) — Suppressing people’s security and rights (Maslow-style survival pressure, depleted "spoons") is described as forcing them away from the states of consciousness needed to conduct magic.
-- `CLAIM-002-11` (8:17-8:49) — The speaker concludes that "the systems themselves are integrated" and promises further records on another factor affecting magic.
+- `CLAIM-002-01` (~00:00–01:02 (accelerated edit)) — A forthcoming Sargasso Sea conflict is connected to proposed military movements and vulnerability around the Panama Canal. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-002-02` (~01:02–01:34 (accelerated edit)) — Different videos are described as data components of a greater structure called the Celestial Atlas, described as a game plan/manual for the preservation of civilization. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-002-03` (~02:27–02:40 (accelerated edit)) — Atlas describes certain neurotransmitters as modulators of magical access. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-002-04` (~02:40–04:01 (accelerated edit)) — A proposed mechanism by which attacks on civil rights and security create survival-focused conditions and thereby suppress alleged capacities. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-002-05` (0:01-1:07) — Three weeks after a July 24 outline, the speaker describes US naval moves (Pacific Fleet carrier to the Atlantic, contract Israeli combatants, second carrier to the Middle East) as unfolding a predicted Sargasso Sea war scenario. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-002-06` (0:01-1:07) — Disabling the Panama Canal would strand the fleet for months; the speaker reasons that proper military intelligence would route Atlantic Fleet escorts through the canal for the carrier transit. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-002-07` (2:22-3:08) — The videos are described as "data components" of a structure the speaker terms the Celestial Atlas: a full game plan / player’s manual to preserve civilization (or a portion of it), mostly about information distribution. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-002-08` (3:14-3:48) — The "magic of consciousness" is described as directly impacted by neurotransmitter balance and priorities; the speaker rejects "light and love" metaphysical approaches as ineffective. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-002-09` (3:49-4:15) — The speaker cites Jesus as embodiment of love who nonetheless "believed in corporal punishment," using it to argue love alone does not fix systems. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-002-10` (8:17-8:49) — Suppressing people’s security and rights (Maslow-style survival pressure, depleted "spoons") is described as forcing them away from the states of consciousness needed to conduct magic. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-002-11` (8:17-8:49) — The speaker concludes that "the systems themselves are integrated" and promises further records on another factor affecting magic. *[voice: posted_recording_voice_unverified; external verification: not verified]*
 
 ## Uncertain words / missing context
 
