@@ -46,26 +46,46 @@ node,ALPHAPACK,Alpha Pack (satire),performance,REC-043,performance
 node,420,4/20 Timeline Save-File,event/date,REC-044,mapped
 node,BUTTERFLY,Butterfly effect abilities,capability,REC-017,mapped
 node,ARROWID,Arrowid vault,project (steward),STW-001,steward
-edge,,REC-002-claims,SARGASSO,scenario-setting,CLAIM-002-05/06
+node,REGIONAL_AUTHORITY,Regional bloodline authority,mechanism,REC-004,mapped
+node,GRID_SENSORS,Tri-sensor grid detection proposal,technology,REC-005,mapped
+node,ORACLE,Oracle: time and energy,role,REC-005,mapped
+node,ARCHITECT,Architect: space and matter,role,REC-005,mapped
+node,MCE_PILLARS,Five pillars of Mythic Compression Engine,method,REC-011,mapped
+node,GRID_FORECAST,Grid AI forecasting and sensory feedback,mechanism,REC-039,mapped
+node,TIMELINE14,Timeline 14,structure,REC-039;REC-040,mapped
+node,TIMELINE15,Timeline 15 (current / final according to source),structure,REC-039,mapped
+node,DREAM_RESTORATION,Dream restoration exercise,practice,REC-050,mapped
+node,METACOGNITION,Two-stage metacognition practice,practice,REC-055,mapped
+edge,,ATLAS,SARGASSO,scenario-setting,CLAIM-002-05;CLAIM-002-06
 edge,,PANAMA,SARGASSO,strategic coupling in scenario,CLAIM-002-06
-edge,,MASLOW,CONSCIOUSNESS,conditions access,CLAIM-002-13
-edge,,CONSCIOUSNESS,PSIONICS,enables,CLAIM-002-12/13
-edge,,GRID,LIBRARIES,provides access to,REC-004 claims
-edge,,JORMUNGANDR,SARGASSO,located/near; signature recoverable,REC-025 claims
-edge,,RELENG,FOREVERBATTERY,yields artifact,REC-009
-edge,,RELENG,MOON2,forging mechanism,REC-031
-edge,,MCE,YMIR,decompresses myth to event,REC-038/REC-030
-edge,,MCE,PHENOTYPE,framework explains anomaly,REC-011
-edge,,GENEMEM,GATE,program targets mechanism,REC-039
-edge,,TIMELINES,TIMEWAR,war among branches,REC-047/REC-044
-edge,,TIMEWAR,MANDELA,bleed-through symptom,REC-047/REC-048
-edge,,SHADOWGOV,MASLOW,engineers suppression,REC-002/REC-049
-edge,,SHADOWGOV,TIMEWAR,tampered with celestial tech,REC-047
-edge,,PSYCHOMETRIC,SHADOWGOV,instrument of control,REC-049/REC-042
-edge,,PSIONICS,NEUROCHEM,gated by,REC-002
-edge,,DEMIHUMANS,PSIONICS,primary bearers/audience,REC-050/REC-055
-edge,,RAGNAROK,FIMBULWINTER,preceded by,REC-056
-edge,,EINHERJAR,RAGNAROK,rise to fight,REC-048
-edge,,AIINFECTION,SHADOWGOV,contested domain (hypothesis),REC-054
-edge,,UAPFLEET,RELENG,fleet built on,REC-012
-edge,,SONICBONE,TIMELINES,technology from timeline 14,REC-040
+edge,,MASLOW,CONSCIOUSNESS,conditions access,CLAIM-002-10
+edge,,CONSCIOUSNESS,PSIONICS,enables,CLAIM-002-08;CLAIM-002-10
+edge,,GRID,LIBRARIES,provides access to,CLAIM-004-01;CLAIM-004-02
+edge,,JORMUNGANDR,SARGASSO,located/near; signature recoverable,CLAIM-025-03
+edge,,RELENG,FOREVERBATTERY,yields artifact,CLAIM-009-02
+edge,,RELENG,MOON2,forging mechanism,CLAIM-031-02
+edge,,MCE,YMIR,decompresses myth to event,CLAIM-011-07;CLAIM-038-01;CLAIM-030-01
+edge,,MCE,PHENOTYPE,framework explains anomaly,CLAIM-011-02;CLAIM-011-04
+edge,,GENEMEM,GATE,program targets mechanism,CLAIM-039-02
+edge,,TIMELINES,TIMEWAR,war among branches,CLAIM-047-01;CLAIM-044-02
+edge,,TIMEWAR,MANDELA,bleed-through symptom,CLAIM-047-01;CLAIM-048-01
+edge,,SHADOWGOV,MASLOW,engineers suppression,CLAIM-002-10
+edge,,SHADOWGOV,TIMEWAR,tampered with celestial tech,CLAIM-047-01
+edge,,PSYCHOMETRIC,SHADOWGOV,instrument of control,CLAIM-049-01;CLAIM-042-01
+edge,,PSIONICS,NEUROCHEM,gated by,CLAIM-002-03;CLAIM-002-08
+edge,,DEMIHUMANS,PSIONICS,primary bearers/audience,CLAIM-050-01;CLAIM-055-02
+edge,,RAGNAROK,FIMBULWINTER,preceded by,CLAIM-056-01
+edge,,EINHERJAR,RAGNAROK,rise to fight,CLAIM-048-01
+edge,,AIINFECTION,SHADOWGOV,"thematic adjacency; containment ethics, not demonstrated causality",CLAIM-054-01
+edge,,UAPFLEET,RELENG,fleet built on,CLAIM-012-01;CLAIM-012-02
+edge,,SONICBONE,TIMELINES,technology from timeline 14,CLAIM-040-01
+edge,,GRID,REGIONAL_AUTHORITY,assigns access scope by regional bloodline in account,CLAIM-004-03;CLAIM-004-04
+edge,,GRID_SENSORS,GRID,proposed detection method (summary only),CLAIM-005-04
+edge,,ORACLE,ARCHITECT,complementary force assignments in account (summary only),CLAIM-005-02
+edge,,MCE,MCE_PILLARS,composed of five named analytic pillars,CLAIM-011-05;CLAIM-011-06
+edge,,GRID,GRID_FORECAST,broadcast and return sensory feedback to forecasting AI,CLAIM-039-03
+edge,,GAIA,GENEMEM,separate information source named alongside genetic memory; not identical,CLAIM-039-04
+edge,,TIMELINE14,TIMELINE15,information reportedly transferred between branches,CLAIM-039-05;CLAIM-039-06
+edge,,DREAM_RESTORATION,CONSCIOUSNESS,practice framed as stage-one cognition training,CLAIM-050-02;CLAIM-050-03;CLAIM-050-04
+edge,,METACOGNITION,CONSCIOUSNESS,practice framed as higher-state preparation,CLAIM-055-03;CLAIM-055-04;CLAIM-055-05
+edge,,TIMELINES,TIMELINE15,current final iteration claim,CLAIM-039-06
