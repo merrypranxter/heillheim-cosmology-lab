@@ -8,7 +8,7 @@
 The Mythic Compression Engine (MCE) is the Atlas's hermeneutic technology: mythology as intentionally compressed data. A consistent pipeline appears:
 
 1. **Anomaly** — an observable that mainstream biology cannot place (the speaker's UV-shifting "abstract hair" phenotype, REC-011).
-2. **Compression premise** — mythologies encode real events in symbol (Ymir → Snowball Earth, REC-038; Genesis 1 → post-Chicxulub recovery).
+2. **Compression premise** — mythologies encode real events in symbol (Ymir → Snowball Earth (REC-038 summary) **versus** Ymir → last glacial maximum (REC-011 published explainer); Genesis 1 → post-Chicxulub recovery (REC-011)).
 3. **Decompression method** — a multi-layer decode using "hardware parity, intentional compression, behavioral constants, composite lens, conceptual lens" (five pillars, REC-038 summary).
 4. **Output** — scientific insight and "upgrade templates" (REC-046); the speaker casts themselves as a "mythical encoding specialist."
 
@@ -19,7 +19,7 @@ The Mythic Compression Engine (MCE) is the Atlas's hermeneutic technology: mytho
 
 ## Alternative readings
 
-- The interview format of REC-011 (Speakers 1/2 as explainers) suggests the MCE may be a collaborative or adapted framework rather than solely the creator's coinage (Q-014).
+- The interview format of REC-011 (Speakers 1/2 as explainers) suggests the MCE may be a collaborative or adapted framework rather than solely the creator's coinage (Q-019).
 - "Hardware parity" could mean the body-as-receiver (linking MCE to genetic memory, REC-039) or device hardware; wording needs audio check.
 
 ## What would change this interpretation?
@@ -31,3 +31,7 @@ A creator statement naming the framework's origin and the exact five-pillar word
 1. Who built the MCE framework — you, a collaborator, or a source text?
 2. What would a successful decode look like to a skeptical scientist?
 3. Is the variant phenotype claim offered as proof-of-concept for the engine?
+
+## Unresolved chronology divergence (Q-020)
+
+The REC-011 published explainer (~4:53–5:20) associates Ymir with the **last glacial maximum**. REC-030/REC-038 summary-only exports describe **Snowball Earth, hundreds of millions of years ago**. Do not conflate them, or transfer the REC-011 Genesis example into REC-038 without its original recording.
