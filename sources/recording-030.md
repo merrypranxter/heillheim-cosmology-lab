@@ -6,8 +6,8 @@
 **Local filename:** (not committed — media stays local per README)  
 **Editing:** original (per steward download; edit state unverified)  
 **Runtime:** unknown (summary-only export)  
-**Timecode basis:** FoxNote ASR blocks (original speed presumed; not audio-verified)  
-**Attribution confidence:** C (FoxNote ASR; provisional)  
+**Timecode basis:** FoxNote AI summary only (no source timecodes)  
+**Attribution confidence:** C (machine-generated FoxNote summary, not a source transcript)  
 **Rights / redistribution status:** provisional — added at steward instruction 2026-10-08, pending creator consent
 
 ## Source description
@@ -15,7 +15,8 @@
 The speaker clarifies they are not claiming to be a savior or omniscient, but can retrieve information and assemble evidence. They present a bold claim: in Norse lore, the frost giant Ymir is the origin of Earth, with Earth formed from his body—Midgard from his death, brains becoming clouds, bones becoming mountains, and blood filling rivers and seas. The speaker ties specific data points to this myth, arguing that myth encodes scientific data about Snowball Earth and its aftermath, and that a "mythic compression engine" can decode these layers. They note that the recording of Ymir’s existence and death, and related transformations, was brought out about 14, 1300 years ago by Snorri.
 
 ## Verified wording and timecodes
-Only direct quotes checked against original audio appear here. None yet; see `sources/transcripts/` for the full ASR transcript and `data/claims.json` for atomic propositions.
+
+No original-audio-verifiable direct quotes or source timecodes are available in this export. Recover the posted video before quoting.
 
 ## Attributable propositions
 
@@ -24,7 +25,7 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 ## Uncertain words / missing context
 
 - **Summary-only entry**: FoxNote supplied an AI summary without a transcript. All propositions here are paraphrase-of-paraphrase; treat as low-resolution until the video is transcribed.
-- ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
+- FoxNote's summary is machine-generated paraphrase; it cannot establish exact source wording or audio completeness. Verify with the original recording when available.
 
 ## Connections to existing records
 
