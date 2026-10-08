@@ -1,47 +1,817 @@
 {
-  "project": "Heillheim Cosmology Lab — Celestial Atlas",
-  "source_owner": "@hz.heillheim (handle visible in supplied materials; other identity details not independently checked)",
+  "project": "Heillheim Cosmology Lab — Celestial Atlas Archive",
+  "register_version": "2.0",
+  "updated_at": "2026-10-08",
+  "batch": {
+    "id": "BATCH-2026-10-08",
+    "source": "FoxNote AI export (Hz.pdf, 155 pp.) of TikTok archive by project steward",
+    "foxnote_notes_total": 80,
+    "pdf_chunks_indexed": 114,
+    "distinct_recordings": 55,
+    "steward_artifacts": 1,
+    "duplicates_merged": "see analysis/dedup-report.md",
+    "method": "rule-segmented PDF (horizontal-rule delimiters), transcript/summary re-pairing by content, near-duplicate clustering"
+  },
   "creator_consent": {
     "permission_requested": true,
     "permission_confirmed": false,
-    "invited_to_participate": true,
-    "participation_confirmed": false,
-    "updated_at": "2026-10-08"
+    "requested_via": "steward TikTok direct address (STW-001, recorded consent request)",
+    "updated_at": "2026-10-08",
+    "note": "Full working transcripts were added to this repository at the project steward's explicit instruction on 2026-10-08. Redistribution terms remain unresolved; creator collaboration and preferred credit are still being established. Any creator request to modify or remove material supersedes this batch."
   },
   "items": [
     {
       "id": "REC-001",
       "media_type": "video",
-      "original_filename": "v12044gd0000db3dftnog65lmnfdjuag.mp4",
-      "storage": "local/private; not committed",
-      "duration_seconds_approx": 180,
-      "source_url": null,
-      "capture_date": null,
-      "analysis_status": "visual intake only; audio not transcribed",
+      "title": "Untranscribed 180-second clip (pre-batch)",
+      "analysis_status": "untranscribed",
       "transcription_confidence": "U",
-      "public_note": "Portrait talking-to-camera recording; title not established"
+      "batch": "pre-2026-10-08",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-003",
+      "media_type": "video",
+      "title": "Spontaneous Abilities",
+      "foxnote_titles": [
+        "Spontaneous Abilities"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 1–2",
+      "rights_status": "provisional_pending_creator_consent"
     },
     {
       "id": "REC-002",
       "media_type": "video",
-      "original_filename": "copy_4A6E46A5-2862-4D5C-ADA8-C77B5CF79E75.mov",
-      "storage": "local/private; not committed",
-      "duration_seconds_approx": 241,
-      "source_url": null,
-      "capture_date": null,
-      "visible_title": "Celestial Atlas — Part 1",
-      "analysis_status": "working thematic reading from rapid single-word captions; original-speed audio verification needed",
+      "title": "Moving Pieces on the Board",
+      "foxnote_titles": [
+        "Celestial Atlas",
+        "Strategic Moves"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
       "transcription_confidence": "C",
-      "timecode_basis": "accelerated user-supplied edit, not original recording"
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 2–130",
+      "rights_status": "provisional_pending_creator_consent"
     },
     {
+      "id": "REC-004",
+      "media_type": "video",
+      "title": "Celestial Grid",
+      "foxnote_titles": [
+        "Celestial Grid"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 5–131",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-005",
+      "media_type": "video",
+      "title": "Celestial Atlas Part 3",
+      "foxnote_titles": [
+        "Celestial Atlas",
+        "Celestial Timelines"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 10–133",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-006",
+      "media_type": "video",
+      "title": "Shadow Time",
+      "foxnote_titles": [
+        "Shadow Time",
+        "Time and Shadow"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 11–134",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-007",
+      "media_type": "video",
+      "title": "Grub Revival",
+      "foxnote_titles": [
+        "Revival of Grubs",
+        "Grub Interaction"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 24–26",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-008",
+      "media_type": "video",
+      "title": "Intake System Test",
+      "foxnote_titles": [
+        "Intake System Test"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 26–29",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-009",
+      "media_type": "video",
+      "title": "Relativity Engineering (design manual)",
+      "foxnote_titles": [
+        "Relativity Engineering"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 29–31",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-010",
+      "media_type": "video",
+      "title": "Quantifying the Impossible",
+      "foxnote_titles": [
+        "Quantifying the Impossible"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": true,
+      "source_location": "Hz.pdf pp. 31–49",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-011",
+      "media_type": "video",
+      "title": "Mythic Compression Engine (variant phenotype)",
+      "foxnote_titles": [
+        "Mythic Compression Engine",
+        "Mythic Engine"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 33–48",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-012",
+      "media_type": "video",
+      "title": "Relativity engineer / UAP ecological fleet",
+      "foxnote_titles": [],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 49–51",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-013",
+      "media_type": "video",
+      "title": "Relativity Rights",
+      "foxnote_titles": [
+        "Relativity Rights"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 51–53",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-014",
+      "media_type": "video",
+      "title": "Aldehyde off-gassing / chronic fatigue",
+      "foxnote_titles": [],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": true,
+      "source_location": "Hz.pdf pp. 53–55",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-015",
+      "media_type": "video",
+      "title": "Thermal Regulation (weight loss / ability)",
+      "foxnote_titles": [],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 55–57",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-016",
+      "media_type": "video",
+      "title": "Making Enemies (shadow government baiting)",
+      "foxnote_titles": [],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 57–59",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-017",
+      "media_type": "video",
+      "title": "Relativity Threat (DoD dedication)",
+      "foxnote_titles": [
+        "Relativity Threat"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 59–62",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-018",
+      "media_type": "video",
+      "title": "I-5 Asset Claim / Sensor Calibration",
+      "foxnote_titles": [
+        "I-5 Asset Claim",
+        "Sensor Calibration Site"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 62–63",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-019",
+      "media_type": "video",
+      "title": "Deception in Scripture",
+      "foxnote_titles": [
+        "Deception in Scripture"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 63–65",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-020",
+      "media_type": "video",
+      "title": "Weight Loss Protocols",
+      "foxnote_titles": [
+        "Weight Loss Protocols"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 65–66",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-021",
+      "media_type": "video",
+      "title": "Bodily Autonomy / Maslow suppression",
+      "foxnote_titles": [],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 66–67",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-022",
+      "media_type": "video",
+      "title": "Mandela Ripple Effects",
+      "foxnote_titles": [
+        "Mandela Ripple Effects"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 67–68",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-023",
+      "media_type": "video",
+      "title": "Nonhuman Intervention",
+      "foxnote_titles": [
+        "Nonhuman Intervention"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 68–72",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-024",
+      "media_type": "video",
+      "title": "Relativity Disclosure",
+      "foxnote_titles": [
+        "Relativity Disclosure"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 72–76",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-025",
+      "media_type": "video",
+      "title": "Sargasso Power",
+      "foxnote_titles": [
+        "Sargasso Power"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 76–80",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-026",
+      "media_type": "video",
+      "title": "Psionic Purge",
+      "foxnote_titles": [
+        "Psionic Purge"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 80–81",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-027",
+      "media_type": "video",
+      "title": "Shadow Game (1991 attempt)",
+      "foxnote_titles": [
+        "Shadow Game"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 81–83",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-028",
+      "media_type": "video",
+      "title": "Gaia Addresses China",
+      "foxnote_titles": [],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 83–84",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-029",
+      "media_type": "video",
+      "title": "Thermal Regulation (Mesa heat)",
+      "foxnote_titles": [
+        "Thermal Regulation"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 84–85",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-030",
+      "media_type": "video",
+      "title": "Ymir Explainer (Snowball Earth)",
+      "foxnote_titles": [],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 85–86",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-031",
+      "media_type": "video",
+      "title": "Moon Time Bomb",
+      "foxnote_titles": [
+        "Moon Time Bomb",
+        "Moon Genesis"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": true,
+      "source_location": "Hz.pdf pp. 86–111",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-032",
+      "media_type": "video",
+      "title": "Nobel Prize Hint",
+      "foxnote_titles": [
+        "Nobel Prize Hint"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 88–89",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-033",
+      "media_type": "video",
+      "title": "Royal Bloodlines",
+      "foxnote_titles": [
+        "Royal Bloodlines"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 89–90",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-034",
+      "media_type": "video",
+      "title": "Norse Code",
+      "foxnote_titles": [
+        "Norse Code"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 90–91",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-035",
+      "media_type": "video",
+      "title": "National Security Claims",
+      "foxnote_titles": [
+        "National Security Claims"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 91–92",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-036",
+      "media_type": "video",
+      "title": "Soul Trade (Huawei satire)",
+      "foxnote_titles": [
+        "Soul Trade",
+        "Soul Sale MLM"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 92–96",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-037",
+      "media_type": "video",
+      "title": "Nonhuman Base Atlantic (China)",
+      "foxnote_titles": [
+        "Nonhuman Base Atlantic"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 96–97",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-038",
+      "media_type": "video",
+      "title": "Mythic Compression Engine (Ymir = Snowball Earth)",
+      "foxnote_titles": [
+        "Mythic Compression Engine"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 97–98",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-039",
+      "media_type": "video",
+      "title": "Genetic Memory (GATE program)",
+      "foxnote_titles": [
+        "Genetic Memory"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 98–101",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-040",
+      "media_type": "video",
+      "title": "Sonic Bone Therapy (timeline 14)",
+      "foxnote_titles": [
+        "Sonic Bone Therapy"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 101–104",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-041",
+      "media_type": "video",
+      "title": "Celestial Interface (AI neuroscience)",
+      "foxnote_titles": [
+        "Celestial Interface"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 104–105",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-042",
+      "media_type": "video",
+      "title": "Data Power Play (psychometric classification)",
+      "foxnote_titles": [
+        "Data Power Play"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 105–107",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-043",
+      "media_type": "video",
+      "title": "Alpha Pack (satire)",
+      "foxnote_titles": [
+        "Alpha Pack"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 107–107",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-044",
+      "media_type": "video",
+      "title": "4/20 Timeline Save-File",
+      "foxnote_titles": [],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 108–110",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-045",
+      "media_type": "video",
+      "title": "Mythic Compression Conceptualization",
+      "foxnote_titles": [
+        "Mythical Compression",
+        "Compression Conceptualization"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 111–122",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-046",
+      "media_type": "video",
+      "title": "Mythic Encoding (upgrade templates)",
+      "foxnote_titles": [
+        "Mythic Encoding"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 112–121",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-047",
+      "media_type": "video",
+      "title": "Timeline War",
+      "foxnote_titles": [
+        "Timeline War",
+        "Time War Deck"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 113–126",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-048",
+      "media_type": "video",
+      "title": "Risen Slain",
+      "foxnote_titles": [
+        "Risen Slain"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 134–134",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-049",
+      "media_type": "video",
+      "title": "Celestial Atlas Part 6 (psychometric control)",
+      "foxnote_titles": [
+        "Psychometric Control"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 134–138",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-050",
+      "media_type": "video",
+      "title": "Dream Restoration Exercise",
+      "foxnote_titles": [
+        "Dream Restoration Exercise"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 138–141",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-051",
+      "media_type": "video",
+      "title": "Surveillance Data Threshold",
+      "foxnote_titles": [
+        "Surveillance Data Threshold"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 141–143",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-052",
+      "media_type": "video",
+      "title": "Monopoly Prediction",
+      "foxnote_titles": [
+        "Monopoly Prediction"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 143–144",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-053",
+      "media_type": "video",
+      "title": "Relativity Engineering (continued)",
+      "foxnote_titles": [
+        "Relativity Engineering"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 144–147",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-054",
+      "media_type": "video",
+      "title": "Relativity Tech (AI containment)",
+      "foxnote_titles": [
+        "Relativity Tech"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 147–151",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-055",
+      "media_type": "video",
+      "title": "Metacognition and Control",
+      "foxnote_titles": [
+        "Metacognition and Control"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 151–154",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "REC-056",
+      "media_type": "video",
+      "title": "Unrelated Briefings",
+      "foxnote_titles": [
+        "Unrelated Briefings"
+      ],
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "summary_only",
+      "transcription_confidence": "C",
+      "transcript_truncated": false,
+      "source_location": "Hz.pdf pp. 154–155",
+      "rights_status": "provisional_pending_creator_consent"
+    },
+    {
+      "id": "STW-001",
+      "media_type": "video",
+      "title": "Steward consent monologue (\"rabbit army\")",
+      "batch": "BATCH-2026-10-08",
+      "analysis_status": "transcribed",
+      "transcription_confidence": "C",
+      "attribution": "project steward (merrypranxter) — NOT an Atlas source",
+      "rights_status": "steward-authored",
+      "note": "Archival/provenance artifact only. Never cite as cosmologist speech."
+    }
+  ],
+  "external_sources": [
+    {
       "id": "EXT-001",
-      "media_type": "podcast",
-      "title": "Recovering Deleted History, Non-Human Intelligence and DemiHumans w/ Special Guest Hnoss",
-      "url": "https://podfollow.com/while-we-still-can/episode/9f11f454276feabeebe6e7218bb0beaba3098a92/view",
-      "reported_date": "2026-09-04",
-      "analysis_status": "metadata lead only; episode not transcribed in repository",
-      "verification_note": "Link and episode description are research leads, not evidence supporting extraordinary claims"
+      "type": "podcast",
+      "title": "Recovering Deleted History... w/ Special Guest Hnoss",
+      "date": "2026-09-04",
+      "status": "metadata lead only"
     }
   ]
 }
