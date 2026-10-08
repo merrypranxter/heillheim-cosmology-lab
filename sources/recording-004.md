@@ -19,8 +19,12 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 ## Attributable propositions
 
-- `CLAIM-004-01` — A global network of underground base stations is described as forming the "Celestial Grid": ley lines as planes of relativity that partition Earth into regional zones; certain bloodlines receive genetic access to the grid’s functions.
-- `CLAIM-004-02` — Celestial libraries (Akashic-records hardware) are described as accessible through the grid for those with the correct genetic signature.
+- `CLAIM-004-01` — A global network of underground base stations is described as forming the "Celestial Grid": ley lines as planes of relativity that partition Earth into regional zones; certain bloodlines receive genetic access to the grid’s functions. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-004-02` — Celestial libraries (Akashic-records hardware) are described as accessible through the grid for those with the correct genetic signature. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-004-03` (1:51-2:54) — Bloodlines are described as having region-specific authority and amplified ability within the region of their genetic revision, with other regional lines taking precedence outside it. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-004-04` (1:17-2:08) — The initial revised bloodlines are described as servants/tools for civilization rather than legitimate rulers over it; access to celestial library broadcasts is framed as reciprocal with civilization. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-004-05` (2:08-3:29) — The creator uses an interpretation of early Yahweh/Elohim narratives to illustrate geographically bounded authority before later universalizing religious portrayals. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-004-06` (3:29-4:22 (ASR truncates)) — The speaker refers to Luis Elizondo's Imminent and alleged structural brain differences in participants talented in psionics as a possible modern analogy; the account cuts off. *[voice: posted_recording_voice_unverified; external verification: not verified]*
 
 ## Uncertain words / missing context
 
