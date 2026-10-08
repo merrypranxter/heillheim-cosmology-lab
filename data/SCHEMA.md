@@ -20,7 +20,7 @@ CSV mirrors live in `data/exports/` with one file per JSON collection.
 
 ## nodes.json
 Legacy graph layer. `nodes[]`: `id`, `label`, `type`, `source_ids`, `status`.
-`edges[]`: `from`, `to`, `relationship`, `evidence` (claim IDs or REC IDs).
+`edges[]`: `from`, `to`, `relationship`, `evidence` (**array of resolvable `CLAIM-###-##` IDs**; never slash-delimited or invented shorthand). All endpoints must match node IDs.
 
 ## timeline.json
 `events[]`: `id` (`EVT-###`), `date_label` (as stated by source), `event`, `source_ids`, `kind`
