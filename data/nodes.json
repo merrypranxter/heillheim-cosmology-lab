@@ -462,146 +462,382 @@
         "STW-001"
       ],
       "status": "steward"
+    },
+    {
+      "id": "REGIONAL_AUTHORITY",
+      "label": "Regional bloodline authority",
+      "type": "mechanism",
+      "source_ids": [
+        "REC-004"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "GRID_SENSORS",
+      "label": "Tri-sensor grid detection proposal",
+      "type": "technology",
+      "source_ids": [
+        "REC-005"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "ORACLE",
+      "label": "Oracle: time and energy",
+      "type": "role",
+      "source_ids": [
+        "REC-005"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "ARCHITECT",
+      "label": "Architect: space and matter",
+      "type": "role",
+      "source_ids": [
+        "REC-005"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "MCE_PILLARS",
+      "label": "Five pillars of Mythic Compression Engine",
+      "type": "method",
+      "source_ids": [
+        "REC-011"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "GRID_FORECAST",
+      "label": "Grid AI forecasting and sensory feedback",
+      "type": "mechanism",
+      "source_ids": [
+        "REC-039"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "TIMELINE14",
+      "label": "Timeline 14",
+      "type": "structure",
+      "source_ids": [
+        "REC-039",
+        "REC-040"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "TIMELINE15",
+      "label": "Timeline 15 (current / final according to source)",
+      "type": "structure",
+      "source_ids": [
+        "REC-039"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "DREAM_RESTORATION",
+      "label": "Dream restoration exercise",
+      "type": "practice",
+      "source_ids": [
+        "REC-050"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "METACOGNITION",
+      "label": "Two-stage metacognition practice",
+      "type": "practice",
+      "source_ids": [
+        "REC-055"
+      ],
+      "status": "mapped"
     }
   ],
   "edges": [
     {
-      "from": "REC-002-claims",
+      "from": "ATLAS",
       "to": "SARGASSO",
       "relationship": "scenario-setting",
-      "evidence": "CLAIM-002-05/06"
+      "evidence": [
+        "CLAIM-002-05",
+        "CLAIM-002-06"
+      ]
     },
     {
       "from": "PANAMA",
       "to": "SARGASSO",
       "relationship": "strategic coupling in scenario",
-      "evidence": "CLAIM-002-06"
+      "evidence": [
+        "CLAIM-002-06"
+      ]
     },
     {
       "from": "MASLOW",
       "to": "CONSCIOUSNESS",
       "relationship": "conditions access",
-      "evidence": "CLAIM-002-13"
+      "evidence": [
+        "CLAIM-002-10"
+      ]
     },
     {
       "from": "CONSCIOUSNESS",
       "to": "PSIONICS",
       "relationship": "enables",
-      "evidence": "CLAIM-002-12/13"
+      "evidence": [
+        "CLAIM-002-08",
+        "CLAIM-002-10"
+      ]
     },
     {
       "from": "GRID",
       "to": "LIBRARIES",
       "relationship": "provides access to",
-      "evidence": "REC-004 claims"
+      "evidence": [
+        "CLAIM-004-01",
+        "CLAIM-004-02"
+      ]
     },
     {
       "from": "JORMUNGANDR",
       "to": "SARGASSO",
       "relationship": "located/near; signature recoverable",
-      "evidence": "REC-025 claims"
+      "evidence": [
+        "CLAIM-025-03"
+      ]
     },
     {
       "from": "RELENG",
       "to": "FOREVERBATTERY",
       "relationship": "yields artifact",
-      "evidence": "REC-009"
+      "evidence": [
+        "CLAIM-009-02"
+      ]
     },
     {
       "from": "RELENG",
       "to": "MOON2",
       "relationship": "forging mechanism",
-      "evidence": "REC-031"
+      "evidence": [
+        "CLAIM-031-02"
+      ]
     },
     {
       "from": "MCE",
       "to": "YMIR",
       "relationship": "decompresses myth to event",
-      "evidence": "REC-038/REC-030"
+      "evidence": [
+        "CLAIM-011-07",
+        "CLAIM-038-01",
+        "CLAIM-030-01"
+      ]
     },
     {
       "from": "MCE",
       "to": "PHENOTYPE",
       "relationship": "framework explains anomaly",
-      "evidence": "REC-011"
+      "evidence": [
+        "CLAIM-011-02",
+        "CLAIM-011-04"
+      ]
     },
     {
       "from": "GENEMEM",
       "to": "GATE",
       "relationship": "program targets mechanism",
-      "evidence": "REC-039"
+      "evidence": [
+        "CLAIM-039-02"
+      ]
     },
     {
       "from": "TIMELINES",
       "to": "TIMEWAR",
       "relationship": "war among branches",
-      "evidence": "REC-047/REC-044"
+      "evidence": [
+        "CLAIM-047-01",
+        "CLAIM-044-02"
+      ]
     },
     {
       "from": "TIMEWAR",
       "to": "MANDELA",
       "relationship": "bleed-through symptom",
-      "evidence": "REC-047/REC-048"
+      "evidence": [
+        "CLAIM-047-01",
+        "CLAIM-048-01"
+      ]
     },
     {
       "from": "SHADOWGOV",
       "to": "MASLOW",
       "relationship": "engineers suppression",
-      "evidence": "REC-002/REC-049"
+      "evidence": [
+        "CLAIM-002-10"
+      ]
     },
     {
       "from": "SHADOWGOV",
       "to": "TIMEWAR",
       "relationship": "tampered with celestial tech",
-      "evidence": "REC-047"
+      "evidence": [
+        "CLAIM-047-01"
+      ]
     },
     {
       "from": "PSYCHOMETRIC",
       "to": "SHADOWGOV",
       "relationship": "instrument of control",
-      "evidence": "REC-049/REC-042"
+      "evidence": [
+        "CLAIM-049-01",
+        "CLAIM-042-01"
+      ]
     },
     {
       "from": "PSIONICS",
       "to": "NEUROCHEM",
       "relationship": "gated by",
-      "evidence": "REC-002"
+      "evidence": [
+        "CLAIM-002-03",
+        "CLAIM-002-08"
+      ]
     },
     {
       "from": "DEMIHUMANS",
       "to": "PSIONICS",
       "relationship": "primary bearers/audience",
-      "evidence": "REC-050/REC-055"
+      "evidence": [
+        "CLAIM-050-01",
+        "CLAIM-055-02"
+      ]
     },
     {
       "from": "RAGNAROK",
       "to": "FIMBULWINTER",
       "relationship": "preceded by",
-      "evidence": "REC-056"
+      "evidence": [
+        "CLAIM-056-01"
+      ]
     },
     {
       "from": "EINHERJAR",
       "to": "RAGNAROK",
       "relationship": "rise to fight",
-      "evidence": "REC-048"
+      "evidence": [
+        "CLAIM-048-01"
+      ]
     },
     {
       "from": "AIINFECTION",
       "to": "SHADOWGOV",
-      "relationship": "contested domain (hypothesis)",
-      "evidence": "REC-054"
+      "relationship": "thematic adjacency; containment ethics, not demonstrated causality",
+      "evidence": [
+        "CLAIM-054-01"
+      ]
     },
     {
       "from": "UAPFLEET",
       "to": "RELENG",
       "relationship": "fleet built on",
-      "evidence": "REC-012"
+      "evidence": [
+        "CLAIM-012-01",
+        "CLAIM-012-02"
+      ]
     },
     {
       "from": "SONICBONE",
       "to": "TIMELINES",
       "relationship": "technology from timeline 14",
-      "evidence": "REC-040"
+      "evidence": [
+        "CLAIM-040-01"
+      ]
+    },
+    {
+      "from": "GRID",
+      "to": "REGIONAL_AUTHORITY",
+      "relationship": "assigns access scope by regional bloodline in account",
+      "evidence": [
+        "CLAIM-004-03",
+        "CLAIM-004-04"
+      ]
+    },
+    {
+      "from": "GRID_SENSORS",
+      "to": "GRID",
+      "relationship": "proposed detection method (summary only)",
+      "evidence": [
+        "CLAIM-005-04"
+      ]
+    },
+    {
+      "from": "ORACLE",
+      "to": "ARCHITECT",
+      "relationship": "complementary force assignments in account (summary only)",
+      "evidence": [
+        "CLAIM-005-02"
+      ]
+    },
+    {
+      "from": "MCE",
+      "to": "MCE_PILLARS",
+      "relationship": "composed of five named analytic pillars",
+      "evidence": [
+        "CLAIM-011-05",
+        "CLAIM-011-06"
+      ]
+    },
+    {
+      "from": "GRID",
+      "to": "GRID_FORECAST",
+      "relationship": "broadcast and return sensory feedback to forecasting AI",
+      "evidence": [
+        "CLAIM-039-03"
+      ]
+    },
+    {
+      "from": "GAIA",
+      "to": "GENEMEM",
+      "relationship": "separate information source named alongside genetic memory; not identical",
+      "evidence": [
+        "CLAIM-039-04"
+      ]
+    },
+    {
+      "from": "TIMELINE14",
+      "to": "TIMELINE15",
+      "relationship": "information reportedly transferred between branches",
+      "evidence": [
+        "CLAIM-039-05",
+        "CLAIM-039-06"
+      ]
+    },
+    {
+      "from": "DREAM_RESTORATION",
+      "to": "CONSCIOUSNESS",
+      "relationship": "practice framed as stage-one cognition training",
+      "evidence": [
+        "CLAIM-050-02",
+        "CLAIM-050-03",
+        "CLAIM-050-04"
+      ]
+    },
+    {
+      "from": "METACOGNITION",
+      "to": "CONSCIOUSNESS",
+      "relationship": "practice framed as higher-state preparation",
+      "evidence": [
+        "CLAIM-055-03",
+        "CLAIM-055-04",
+        "CLAIM-055-05"
+      ]
+    },
+    {
+      "from": "TIMELINES",
+      "to": "TIMELINE15",
+      "relationship": "current final iteration claim",
+      "evidence": [
+        "CLAIM-039-06"
+      ]
     }
   ]
 }
