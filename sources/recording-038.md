@@ -6,8 +6,8 @@
 **Local filename:** (not committed — media stays local per README)  
 **Editing:** original (per steward download; edit state unverified)  
 **Runtime:** unknown (summary-only export)  
-**Timecode basis:** FoxNote ASR blocks (original speed presumed; not audio-verified)  
-**Attribution confidence:** C (FoxNote ASR; provisional)  
+**Timecode basis:** FoxNote AI summary only (no source timecodes)  
+**Attribution confidence:** C (machine-generated FoxNote summary, not a source transcript)  
 **Rights / redistribution status:** provisional — added at steward instruction 2026-10-08, pending creator consent
 
 ## Source description
@@ -15,7 +15,8 @@
 The speaker describes a mythical compression engine that processes a collection of global mythologies and decompresses encoded data across multiple layers, yielding scientific insights from the decoding. A key claim is that Ymir corresponds to a real historical state, specifically Snowball Earth, which occurred hundreds of millions of years before humans. By tracing Ymir’s birth and death as both on Earth and tied to the giants born of Ymir, along with the glaciers formed during and after the destruction and their melting, the speaker argues that Jotunheim is on Earth. In this view, the realms of Norse mythology are Earthly states or conditions, and other cultures mentioned are states of Midgard. Consequently, hell is the current state of Earth, from which humanity must fight through the shadow lands to reach the state of Valhalla. The speaker also references technologies aimed at regeneration and reversing life, medical advances to cure disease, and technologies that grant unlimited power—utilizing aluminum, the most abundant resource on Earth, to make further advancements.
 
 ## Verified wording and timecodes
-Only direct quotes checked against original audio appear here. None yet; see `sources/transcripts/` for the full ASR transcript and `data/claims.json` for atomic propositions.
+
+No original-audio-verifiable direct quotes or source timecodes are available in this export. Recover the posted video before quoting.
 
 ## Attributable propositions
 
@@ -27,7 +28,7 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 - **Voice/provenance:** a statement in a published explainer is credited to the explainer voice, not silently converted into a personal first-person claim. MCE chronology differs between REC-011 (last glacial maximum) and REC-038 (Snowball Earth); retain both pending creator clarification.
 
 - **Summary-only entry**: FoxNote supplied an AI summary without a transcript. All propositions here are paraphrase-of-paraphrase; treat as low-resolution until the video is transcribed.
-- ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
+- FoxNote's summary is machine-generated paraphrase; it cannot establish exact source wording or audio completeness. Verify with the original recording when available.
 
 ## Connections to existing records
 
