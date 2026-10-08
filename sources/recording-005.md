@@ -19,7 +19,11 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 ## Attributable propositions
 
-- `CLAIM-005-01` (summary only (no transcript in export)) — Part 3 of the Atlas series is described as tying cosmic forces (time, space, matter, energy) to masculine/feminine division, the role of demi-humans, and Earth’s repeated timeline resets and loops.
+- `CLAIM-005-01` (summary only (no transcript in export)) — Part 3 of the Atlas series is described as tying cosmic forces (time, space, matter, energy) to masculine/feminine division, the role of demi-humans, and Earth’s repeated timeline resets and loops. *[voice: foxnote_summary_paraphrase; external verification: not verified]*
+- `CLAIM-005-02` (FoxNote summary pp. 10–11; no timecodes) — Oracle/feminine aligns with time and energy, architect/masculine with space and matter; the two must cooperate, with demi-humans reportedly amplifying the result. *[voice: foxnote_summary_paraphrase; external verification: not verified]*
+- `CLAIM-005-03` (FoxNote summary pp. 10–11; no timecodes) — A described Druids-versus-Tacitus narrative features a rune of protection and group ritual portrayed as halting an invading army. *[voice: foxnote_summary_paraphrase; external verification: not verified]*
+- `CLAIM-005-04` (FoxNote summary pp. 10–11; no timecodes) — The creator is summarized as proposing a relativity-field detection assembly containing an accelerometer, electrostatic sensor, and magnetic sensor, to locate grid lines. *[voice: foxnote_summary_paraphrase; external verification: not verified]*
+- `CLAIM-005-05` (FoxNote summary pp. 10–11; no timecodes) — Pool demonstrations are described as producing a forward-directed line and an inward-collapsing concentric wave, treated as relativity-field effects. *[voice: foxnote_summary_paraphrase; external verification: not verified]*
 
 ## Uncertain words / missing context
 
