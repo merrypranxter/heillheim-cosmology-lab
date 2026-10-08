@@ -4,6 +4,24 @@
   "verification_policy": "No prediction is marked fulfilled merely because later reports resemble one element. Freeze the prediction record first; add independent event timeline afterward.",
   "predictions": [
     {
+      "id": "PRED-001",
+      "source_id": "REC-002",
+      "date_context": "Speaker references July 24, year not independently established from this edit",
+      "described_event": "Naval assets move between oceans and a conflict occurs around the Sargasso Sea.",
+      "type": "Forecast/scenario with claimed agency",
+      "evidence_status": "Unverified; exact wording pending audio",
+      "normalized_by": "PRED-003"
+    },
+    {
+      "id": "PRED-002",
+      "source_id": "REC-002",
+      "date_context": "No specific future date confirmed",
+      "described_event": "Panama Canal is disabled, constraining movement of naval escorts.",
+      "type": "Conditional scenario/forecast",
+      "evidence_status": "Unverified",
+      "normalized_by": "PRED-003"
+    },
+    {
       "id": "PRED-003",
       "source_id": "REC-002",
       "date_context": "~3 weeks after July 24 outline",
@@ -59,5 +77,6 @@
       "type": "Forecast",
       "evidence_status": "Unverified"
     }
-  ]
+  ],
+  "note": "PRED-001/002 are narrower historical formulations also represented by PRED-003; normalized_by prevents duplication in aggregation."
 }
