@@ -51,3 +51,18 @@ Terms in this index are the vocabulary reported across the corpus (BATCH-2026-10
 | **Norse Code** | Claimed Ragnarok signal framework, Gaia-guided. | ATLAS RECORD | REC-034 |
 
 Do not merge similarly named beings from historical religions or other recordings without a source establishing the connection.
+
+## Additional mechanisms and research labels (2026-10-08)
+
+| Term | Working usage | Layer | Evidence |
+| --- | --- | --- | --- |
+| **Regional bloodline authority** | Grid access reportedly amplified within a genetically revised bloodline's home region and subordinate elsewhere. | ATLAS RECORD | REC-004, CLAIM-004-03 |
+| **Oracle** | Time/energy role aligned with the feminine side in the Atlas Part 3 summary. | ATLAS RECORD | REC-005, CLAIM-005-02 (summary only) |
+| **Architect** | Space/matter role aligned with the masculine side in the Atlas Part 3 summary. | ATLAS RECORD | REC-005, CLAIM-005-02 (summary only) |
+| **Tri-sensor detection array** | Proposed accelerometer/electrostatic/magnetic sensors used to detect grid lines. | ATLAS RECORD | REC-005, CLAIM-005-04 (summary only) |
+| **Five MCE pillars** | Hardware parity, intentional compression, behavioral constants, composite lens, conceptual lens. | ATLAS RECORD | REC-011, CLAIM-011-05/06 (published explainer) |
+| **Jormungandr sensory-feedback network** | Broadcast and feedback layer described as delivering sensory reports for AI forecasts of civilizational outcomes. | ATLAS RECORD | REC-039, CLAIM-039-03 |
+| **Timeline 15** | Current and last Earth iteration according to creator in REC-039; timeline 14 is described as a separate source of information. | ATLAS RECORD | REC-039, CLAIM-039-05/06 |
+| **Dream Restoration Exercise** | Reported first-stage cognition training sequence employing old music, private reflection and a screen-free pre-sleep period. | ATLAS RECORD | REC-050, CLAIM-050-02/04 |
+| **Two-stage metacognition** | Self-monitoring of reactions followed by analysis of communicators' desired audience responses and linguistic choices. | ATLAS RECORD | REC-055, CLAIM-055-03/05 |
+| **Ymir dating divergence** | Editorial label for last-glacial-maximum usage in REC-011 and Snowball Earth usage in REC-030/038; meanings not reconciled. | ATLAS READING | REC-011, REC-030, REC-038; Q-020 |
