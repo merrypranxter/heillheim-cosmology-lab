@@ -6,8 +6,8 @@
 **Local filename:** (not committed — media stays local per README)  
 **Editing:** original (per steward download; edit state unverified)  
 **Runtime:** unknown (summary-only export)  
-**Timecode basis:** FoxNote ASR blocks (original speed presumed; not audio-verified)  
-**Attribution confidence:** C (FoxNote ASR; provisional)  
+**Timecode basis:** FoxNote AI summary only (no source timecodes)  
+**Attribution confidence:** C (machine-generated FoxNote summary, not a source transcript)  
 **Rights / redistribution status:** provisional — added at steward instruction 2026-10-08, pending creator consent
 
 ## Source description
@@ -15,7 +15,8 @@
 - Describe the essence of the source text (header «Overview») The speaker addresses everyone in the United States who has a uterus, using inclusive language about gender. They shift from a discussion of menstruation to a broader fight over bodily autonomy and political control of bodies. They critique right-wing efforts and frame left-leaning religious allies—specifically some Jewish and Christian progressives—as crucial to the struggle. The central claim is that a weapon can be drawn from the Bible: the ritual described in Numbers chapter 5 for abortion, performed under ecclesiastical observation, which the speaker asserts carries the same legal weight as the Eucharist, and perhaps even greater weight because it is scriptural.
 
 ## Verified wording and timecodes
-Only direct quotes checked against original audio appear here. None yet; see `sources/transcripts/` for the full ASR transcript and `data/claims.json` for atomic propositions.
+
+No original-audio-verifiable direct quotes or source timecodes are available in this export. Recover the posted video before quoting.
 
 ## Attributable propositions
 
@@ -24,7 +25,7 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 ## Uncertain words / missing context
 
 - **Summary-only entry**: FoxNote supplied an AI summary without a transcript. All propositions here are paraphrase-of-paraphrase; treat as low-resolution until the video is transcribed.
-- ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
+- FoxNote's summary is machine-generated paraphrase; it cannot establish exact source wording or audio completeness. Verify with the original recording when available.
 
 ## Connections to existing records
 
