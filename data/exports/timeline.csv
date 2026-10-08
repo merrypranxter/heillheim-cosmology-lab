@@ -1,8 +1,9 @@
 id,date_label,event,source_ids,kind
 EVT-001,"~717,000,000 years ago",Obliteration of Moon 1.0; Earth plunged into deep freeze (Snowball Earth era).,REC-031;REC-030,cosmology
 EVT-002,"~635,000,000 years ago",Moon 2.0 forged from asteroid-belt material via type-2 inverse gravity field and inserted into Earth orbit.,REC-031,cosmology
-EVT-003,post-Chicxulub,Genesis 1 framed as compressed record of post-impact ecological recovery (MCE reading).,REC-038,cosmology
-EVT-004,last glacial maximum,Ymir/Snowball Earth correspondence; debris scrubbed from land (Nobel hint).,REC-038;REC-032,cosmology
+EVT-016,Snowball Earth (hundreds of millions of years ago),Ymir mapped to Snowball Earth by FoxNote summaries in REC-030/038; distinct from REC-011's last-glacial-maximum mapping.,REC-030;REC-038,cosmology
+EVT-003,post-Chicxulub,Genesis 1 is mapped by REC-011's published explainer to post-Chicxulub biosphere recovery (an MCE interpretation).,REC-011,cosmology
+EVT-004,last glacial maximum (REC-011 explainer),Ymir is mapped to the last glacial maximum by REC-011's published explainer; this differs from the Snowball Earth reading in REC-030/038.,REC-011,cosmology
 EVT-005,1990s,Ecological collapse predictions fail because Earth’s automated UAP fleet intervened.,REC-012,cosmology
 EVT-006,1991,"Claimed multi-agency assassination attempt in Lewis County, WA; evidence of 3-vehicle simultaneity provoked.",REC-027,biography
 EVT-007,2022–2026,Civilian reporting pathway test: anomalous intelligence submitted to US government intake channels.,REC-008;REC-056,biography
