@@ -35,9 +35,9 @@
     {
       "id": "EVT-003",
       "date_label": "post-Chicxulub",
-      "event": "Genesis 1 framed as compressed record of post-impact ecological recovery (MCE reading).",
+      "event": "Genesis 1 is mapped by REC-011's published explainer to post-Chicxulub biosphere recovery (an MCE interpretation).",
       "source_ids": [
-        "REC-038"
+        "REC-011"
       ],
       "kind": "cosmology"
     },
