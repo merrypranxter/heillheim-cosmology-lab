@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.1",
+  "updated": "2026-10-08",
+  "verification_policy": "No prediction is marked fulfilled merely because later reports resemble one element. Freeze the prediction record first; add independent event timeline afterward.",
+  "predictions": [
+    {
+      "id": "PRED-003",
+      "source_id": "REC-002",
+      "date_context": "~3 weeks after July 24 outline",
+      "described_event": "US Pacific Fleet carrier relocates to Atlantic; Panama Canal disabled; Sargasso Sea war begins (WW3 with Russia+China).",
+      "type": "Forecast/scenario with claimed agency",
+      "evidence_status": "Unverified"
+    },
+    {
+      "id": "PRED-004",
+      "source_id": "REC-025",
+      "date_context": "Undated",
+      "described_event": "Single-actor global power redistribution via control of the Sargasso convergence; failure of US government opposition.",
+      "type": "Forecast with claimed agency",
+      "evidence_status": "Unverified"
+    },
+    {
+      "id": "PRED-005",
+      "source_id": "REC-009",
+      "date_context": "Undated",
+      "described_event": "Reverse-engineered UFO flaws trigger an apocalyptic event “turning the planet inside out” absent intervention.",
+      "type": "Warning/forecast",
+      "evidence_status": "Unverified"
+    },
+    {
+      "id": "PRED-006",
+      "source_id": "REC-031",
+      "date_context": "Undated",
+      "described_event": "Puthoff lunar-nuclear proposal would trigger ultimate planetary disaster.",
+      "type": "Conditional warning",
+      "evidence_status": "Unverified"
+    },
+    {
+      "id": "PRED-007",
+      "source_id": "REC-056",
+      "date_context": "Undated",
+      "described_event": "Fimbulwinter: three-year global winter.",
+      "type": "Prophecy/forecast",
+      "evidence_status": "Unverified"
+    },
+    {
+      "id": "PRED-008",
+      "source_id": "REC-022",
+      "date_context": "Undated",
+      "described_event": "Promise to outline Mandela-effect ripple effects; manufactured brand-memory changes.",
+      "type": "Claimed disclosure",
+      "evidence_status": "Unverified"
+    },
+    {
+      "id": "PRED-009",
+      "source_id": "REC-012",
+      "date_context": "35-year horizon",
+      "described_event": "Relativity engineering delivers “700 years of progress in the next 35.”",
+      "type": "Forecast",
+      "evidence_status": "Unverified"
+    }
+  ]
+}

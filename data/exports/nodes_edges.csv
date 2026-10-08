@@ -1,0 +1,71 @@
+record_type,id,label_or_from,type_or_to,detail_or_relationship,evidence
+node,ATLAS,Celestial Atlas,structure,REC-002;REC-005;REC-049,core
+node,SARGASSO,Sargasso Sea,place,REC-002;REC-025;REC-056,core
+node,PANAMA,Panama Canal,place,REC-002,core
+node,CONSCIOUSNESS,Consciousness states,mechanism,REC-002;REC-055,core
+node,PSIONICS,Magic / psionics,capability,REC-002;REC-003;REC-026,core
+node,MASLOW,Maslow suppression,mechanism,REC-002;REC-021,core
+node,EXP_BELONGING_WAVE,EXP_BELONGING_WAVE (legacy expansion slot),expansion,,reserved
+node,GRID,Celestial Grid / Jormungandr grid,structure,REC-004;REC-039,core
+node,LIBRARIES,Celestial Libraries,place,REC-004,mapped
+node,JORMUNGANDR,Jormungandr,entity/vessel,REC-025,mapped
+node,BERMUDA,Bermuda Triangle,place,REC-025,mapped
+node,MOON1,Moon 1.0,place,REC-031,mapped
+node,MOON2,Moon 2.0,place,REC-031;REC-030,mapped
+node,YMIR,Ymir,entity/mythic,REC-030;REC-038,core
+node,MCE,Mythic Compression Engine,mechanism,REC-011;REC-038;REC-045;REC-046,core
+node,PHENOTYPE,Variant phenotype / iridescent hair,biology,REC-011;REC-023,core
+node,GENEMEM,Genetic memory,mechanism,REC-039;REC-033,core
+node,GATE,GATE program,institution/program,REC-039,mapped
+node,RELENG,Relativity engineering,mechanism,REC-009;REC-012;REC-024;REC-053;REC-013,core
+node,FOREVERBATTERY,Forever batteries,artifact,REC-009,mapped
+node,UAPFLEET,Earth ecological maintenance fleet,fleet,REC-012,mapped
+node,TIMELINES,Timelines 1–15,structure,REC-044;REC-005;REC-047,core
+node,TIMEWAR,Time War,event-structure,REC-047;REC-042,core
+node,MANDELA,Mandela Effect,phenomenon,REC-022;REC-044;REC-048,core
+node,SHADOWGOV,Shadow government,institution,REC-002;REC-016;REC-006;REC-047,core
+node,PSIONICS,Psionics / magic,capability,REC-002;REC-003;REC-026,core
+node,NEUROCHEM,Neurochemical gate,mechanism,REC-002,mapped
+node,MASLOW,Maslow suppression,mechanism,REC-002;REC-021,core
+node,PSYCHOMETRIC,Psychometric data complex,institution/mechanism,REC-049;REC-042,core
+node,RAGNAROK,Ragnarok,event,REC-034;REC-051;REC-048,mapped
+node,FIMBULWINTER,Fimbulwinter,event,REC-056,mapped
+node,EINHERJAR,Risen Slain / Einherjar,entity-group,REC-048,mapped
+node,DEMIHUMANS,Demi-humans,people,REC-005;REC-006;REC-050;REC-055,core
+node,GAIA,Gaia,entity/voice,REC-028;REC-034,mapped
+node,ANUNNAKI,Elohim / Anunnaki,entity-group,REC-019,mapped
+node,PUTHOFF,Hal Puthoff,person,REC-031,external-anchor
+node,I5SITE,Centralia I-5 site,place,REC-018,mapped
+node,CHEHALIS1991,1991 assassination attempt,event,REC-027,core
+node,INTAKETEST,Civilian reporting pathway test,event/project,REC-008;REC-056,core
+node,SONICBONE,Sonic bone therapy,technology,REC-040,mapped
+node,AIINFECTION,Cross-platform AI infection,mechanism,REC-054,mapped
+node,DISCORDTRAIN,Cognition training (Discord),project,REC-003,mapped
+node,SOULMLM,Soul MLM (satire),performance,REC-036,performance
+node,ALPHAPACK,Alpha Pack (satire),performance,REC-043,performance
+node,420,4/20 Timeline Save-File,event/date,REC-044,mapped
+node,BUTTERFLY,Butterfly effect abilities,capability,REC-017,mapped
+node,ARROWID,Arrowid vault,project (steward),STW-001,steward
+edge,,REC-002-claims,SARGASSO,scenario-setting,CLAIM-002-05/06
+edge,,PANAMA,SARGASSO,strategic coupling in scenario,CLAIM-002-06
+edge,,MASLOW,CONSCIOUSNESS,conditions access,CLAIM-002-13
+edge,,CONSCIOUSNESS,PSIONICS,enables,CLAIM-002-12/13
+edge,,GRID,LIBRARIES,provides access to,REC-004 claims
+edge,,JORMUNGANDR,SARGASSO,located/near; signature recoverable,REC-025 claims
+edge,,RELENG,FOREVERBATTERY,yields artifact,REC-009
+edge,,RELENG,MOON2,forging mechanism,REC-031
+edge,,MCE,YMIR,decompresses myth to event,REC-038/REC-030
+edge,,MCE,PHENOTYPE,framework explains anomaly,REC-011
+edge,,GENEMEM,GATE,program targets mechanism,REC-039
+edge,,TIMELINES,TIMEWAR,war among branches,REC-047/REC-044
+edge,,TIMEWAR,MANDELA,bleed-through symptom,REC-047/REC-048
+edge,,SHADOWGOV,MASLOW,engineers suppression,REC-002/REC-049
+edge,,SHADOWGOV,TIMEWAR,tampered with celestial tech,REC-047
+edge,,PSYCHOMETRIC,SHADOWGOV,instrument of control,REC-049/REC-042
+edge,,PSIONICS,NEUROCHEM,gated by,REC-002
+edge,,DEMIHUMANS,PSIONICS,primary bearers/audience,REC-050/REC-055
+edge,,RAGNAROK,FIMBULWINTER,preceded by,REC-056
+edge,,EINHERJAR,RAGNAROK,rise to fight,REC-048
+edge,,AIINFECTION,SHADOWGOV,contested domain (hypothesis),REC-054
+edge,,UAPFLEET,RELENG,fleet built on,REC-012
+edge,,SONICBONE,TIMELINES,technology from timeline 14,REC-040
