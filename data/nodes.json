@@ -255,17 +255,6 @@
       "status": "core"
     },
     {
-      "id": "PSIONICS",
-      "label": "Psionics / magic",
-      "type": "capability",
-      "source_ids": [
-        "REC-002",
-        "REC-003",
-        "REC-026"
-      ],
-      "status": "core"
-    },
-    {
       "id": "NEUROCHEM",
       "label": "Neurochemical gate",
       "type": "mechanism",
@@ -273,16 +262,6 @@
         "REC-002"
       ],
       "status": "mapped"
-    },
-    {
-      "id": "MASLOW",
-      "label": "Maslow suppression",
-      "type": "mechanism",
-      "source_ids": [
-        "REC-002",
-        "REC-021"
-      ],
-      "status": "core"
     },
     {
       "id": "PSYCHOMETRIC",
