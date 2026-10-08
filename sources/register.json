@@ -1,0 +1,47 @@
+{
+  "project": "Heillheim Cosmology Lab — Celestial Atlas",
+  "source_owner": "@hz.heillheim (handle visible in supplied materials; other identity details not independently checked)",
+  "creator_consent": {
+    "permission_requested": true,
+    "permission_confirmed": false,
+    "invited_to_participate": true,
+    "participation_confirmed": false,
+    "updated_at": "2026-10-08"
+  },
+  "items": [
+    {
+      "id": "REC-001",
+      "media_type": "video",
+      "original_filename": "v12044gd0000db3dftnog65lmnfdjuag.mp4",
+      "storage": "local/private; not committed",
+      "duration_seconds_approx": 180,
+      "source_url": null,
+      "capture_date": null,
+      "analysis_status": "visual intake only; audio not transcribed",
+      "transcription_confidence": "U",
+      "public_note": "Portrait talking-to-camera recording; title not established"
+    },
+    {
+      "id": "REC-002",
+      "media_type": "video",
+      "original_filename": "copy_4A6E46A5-2862-4D5C-ADA8-C77B5CF79E75.mov",
+      "storage": "local/private; not committed",
+      "duration_seconds_approx": 241,
+      "source_url": null,
+      "capture_date": null,
+      "visible_title": "Celestial Atlas — Part 1",
+      "analysis_status": "working thematic reading from rapid single-word captions; original-speed audio verification needed",
+      "transcription_confidence": "C",
+      "timecode_basis": "accelerated user-supplied edit, not original recording"
+    },
+    {
+      "id": "EXT-001",
+      "media_type": "podcast",
+      "title": "Recovering Deleted History, Non-Human Intelligence and DemiHumans w/ Special Guest Hnoss",
+      "url": "https://podfollow.com/while-we-still-can/episode/9f11f454276feabeebe6e7218bb0beaba3098a92/view",
+      "reported_date": "2026-09-04",
+      "analysis_status": "metadata lead only; episode not transcribed in repository",
+      "verification_note": "Link and episode description are research leads, not evidence supporting extraordinary claims"
+    }
+  ]
+}

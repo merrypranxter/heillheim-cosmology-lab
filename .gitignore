@@ -1,0 +1,14 @@
+# Raw source media and local-only working transcripts
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.mp3
+*.srt
+*.vtt
+private/
+raw/
+.local/
+.DS_Store
+__pycache__/
+*.pyc

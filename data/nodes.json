@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "nodes": [
+    {
+      "id": "ATLAS",
+      "label": "Celestial Atlas",
+      "type": "framework",
+      "source_ids": [
+        "REC-002"
+      ],
+      "status": "source-reported"
+    },
+    {
+      "id": "SARGASSO",
+      "label": "Sargasso Sea",
+      "type": "location",
+      "source_ids": [
+        "REC-002"
+      ],
+      "status": "real geography; future events unverified"
+    },
+    {
+      "id": "PANAMA",
+      "label": "Panama Canal",
+      "type": "location",
+      "source_ids": [
+        "REC-002"
+      ],
+      "status": "real infrastructure; hypothetical event unverified"
+    },
+    {
+      "id": "CONSCIOUSNESS",
+      "label": "States of consciousness",
+      "type": "concept",
+      "source_ids": [
+        "REC-002"
+      ],
+      "status": "source-reported"
+    },
+    {
+      "id": "PSIONICS",
+      "label": "Magic / psionics",
+      "type": "alleged_capability",
+      "source_ids": [
+        "REC-002"
+      ],
+      "status": "source-reported; extraordinary mechanism unverified"
+    },
+    {
+      "id": "MASLOW",
+      "label": "Maslow hierarchy",
+      "type": "referenced_model",
+      "source_ids": [
+        "REC-002"
+      ],
+      "status": "real model; adaptation needs clarification"
+    },
+    {
+      "id": "EXP_BELONGING_WAVE",
+      "label": "Belonging Wave",
+      "type": "proposed_expansion",
+      "source_ids": [
+        "EXP-001"
+      ],
+      "status": "contributor proposal"
+    }
+  ],
+  "edges": [
+    {
+      "from": "ATLAS",
+      "to": "SARGASSO",
+      "relationship": "contains_claim_about",
+      "evidence": "REC-002"
+    },
+    {
+      "from": "ATLAS",
+      "to": "CONSCIOUSNESS",
+      "relationship": "contains_claim_about",
+      "evidence": "REC-002"
+    },
+    {
+      "from": "CONSCIOUSNESS",
+      "to": "PSIONICS",
+      "relationship": "claimed_modulation",
+      "evidence": "REC-002"
+    },
+    {
+      "from": "MASLOW",
+      "to": "CONSCIOUSNESS",
+      "relationship": "interpreted_as_progression",
+      "evidence": "REC-002"
+    },
+    {
+      "from": "EXP_BELONGING_WAVE",
+      "to": "CONSCIOUSNESS",
+      "relationship": "inspired_by",
+      "evidence": "EXP-001"
+    }
+  ]
+}

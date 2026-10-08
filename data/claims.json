@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "source_edit": "REC-002 accelerated 4:01 user edit",
+  "attribution_confidence": "C",
+  "claims": [
+    {
+      "id": "CLAIM-002-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "00:00–01:02",
+      "summary": "Proposed conflict around Sargasso Sea connected to movements of naval assets and a Panama Canal scenario",
+      "external_verification": "not verified",
+      "needs_audio_check": true
+    },
+    {
+      "id": "CLAIM-002-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "01:02–01:34",
+      "summary": "Individual videos are components of a structure called the Celestial Atlas, framed as a civilization-preservation playbook",
+      "external_verification": "source-attribution only",
+      "needs_audio_check": true
+    },
+    {
+      "id": "CLAIM-002-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "01:34–02:40",
+      "summary": "Consciousness and neurotransmitter conditions allegedly affect access to magic or psionics",
+      "external_verification": "not established",
+      "needs_audio_check": true
+    },
+    {
+      "id": "CLAIM-002-04",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "02:40–04:01",
+      "summary": "Civil-rights restrictions are said to force survival-focused states, allegedly limiting extraordinary capacities",
+      "external_verification": "extraordinary link unsubstantiated",
+      "needs_audio_check": true
+    }
+  ]
+}
