@@ -1,0 +1,124 @@
+# Cross-reference map — themes → recordings
+
+Tags from `data/claims.json`, grouped. Use with `data/exports/claims.csv` for filtering.
+
+- **abilities** (8): REC-003, REC-007, REC-015, REC-017, REC-020, REC-027, REC-029, REC-045
+- **relativity-engineering** (6): REC-009, REC-012, REC-013, REC-024, REC-031, REC-053
+- **uap** (5): REC-009, REC-012, REC-024, REC-035, REC-053
+- **rhetoric** (5): REC-002, REC-016, REC-017, REC-019, REC-047
+- **government** (4): REC-008, REC-010, REC-024, REC-035
+- **mce** (5): REC-011, REC-030, REC-038, REC-045, REC-046
+- **sargasso** (3): REC-002, REC-025, REC-056
+- **magic** (4): REC-002, REC-003, REC-021, REC-055
+- **demi-humans** (5): REC-005, REC-006, REC-050, REC-051, REC-055
+- **prediction** (2): REC-002, REC-025
+- **atlas** (3): REC-002, REC-005, REC-049
+- **timelines** (3): REC-005, REC-044, REC-047
+- **surveillance** (3): REC-017, REC-042, REC-051
+- **mandela** (4): REC-022, REC-044, REC-047, REC-048
+- **consciousness** (3): REC-002, REC-003, REC-055
+- **training** (3): REC-003, REC-050, REC-055
+- **bloodlines** (3): REC-004, REC-033, REC-039
+- **shadow-government** (3): REC-006, REC-016, REC-047
+- **intake** (2): REC-008, REC-056
+- **technology** (2): REC-009, REC-053
+- **warning** (3): REC-009, REC-017, REC-031
+- **resurrection** (2): REC-010, REC-027
+- **history** (3): REC-011, REC-028, REC-047
+- **conflict** (3): REC-017, REC-026, REC-027
+- **intelligence** (3): REC-022, REC-026, REC-027
+- **nonhuman** (2): REC-023, REC-037
+- **ymir** (3): REC-030, REC-032, REC-038
+- **moon** (1): REC-031
+- **ragnarok** (3): REC-034, REC-048, REC-051
+- **psychometrics** (2): REC-042, REC-049
+- **simulation** (1): REC-044
+- **time-war** (1): REC-047
+- **architecture** (1): REC-002
+- **maslow** (2): REC-002, REC-021
+- **suppression** (2): REC-002, REC-024
+- **anecdote** (2): REC-003, REC-007
+- **grid** (1): REC-004
+- **science** (2): REC-010, REC-032
+- **phenotype** (2): REC-011, REC-023
+- **ecology** (1): REC-012
+- **rights** (2): REC-013, REC-021
+- **thermal** (2): REC-015, REC-029
+- **body** (2): REC-015, REC-020
+- **dod** (1): REC-017
+- **jormungandr** (1): REC-025
+- **biography** (1): REC-027
+- **gaia** (2): REC-028, REC-034
+- **china** (2): REC-028, REC-037
+- **norse** (2): REC-030, REC-034
+- **claim** (2): REC-032, REC-035
+- **satire** (2): REC-036, REC-043
+- **genetic-memory** (1): REC-039
+- **ai** (2): REC-041, REC-054
+- **steward** (1): STW-001
+- **provenance** (1): STW-001
+- **military** (1): REC-002
+- **panama** (1): REC-002
+- **neurotransmitter** (1): REC-002
+- **christianity** (1): REC-002
+- **discord** (1): REC-003
+- **ley-lines** (1): REC-004
+- **akashic** (1): REC-004
+- **time** (1): REC-006
+- **regeneration** (1): REC-007
+- **test** (1): REC-008
+- **evidence** (1): REC-010
+- **methodology** (1): REC-010
+- **iridescent-hair** (1): REC-011
+- **biology** (1): REC-011
+- **mythology** (1): REC-011
+- **law** (1): REC-013
+- **health** (1): REC-014
+- **environment** (1): REC-014
+- **location** (1): REC-018
+- **i-5** (1): REC-018
+- **sensors** (1): REC-018
+- **politics** (1): REC-019
+- **religion** (1): REC-019
+- **anunnaki** (1): REC-019
+- **scripture** (1): REC-019
+- **memory** (1): REC-022
+- **intervention** (1): REC-023
+- **power** (1): REC-025
+- **bermuda** (1): REC-025
+- **psionics** (1): REC-026
+- **1991** (1): REC-027
+- **assassination-attempt** (1): REC-027
+- **timeline** (1): REC-031
+- **geology** (1): REC-031
+- **puthoff** (1): REC-031
+- **genetics** (1): REC-033
+- **soul-mln** (1): REC-036
+- **base** (1): REC-037
+- **genesis** (1): REC-038
+- **gate** (1): REC-039
+- **cia** (1): REC-039
+- **timeline-14** (1): REC-040
+- **sonic-bone** (1): REC-040
+- **russia** (1): REC-040
+- **neuroscience** (1): REC-041
+- **interface** (1): REC-041
+- **facebook** (1): REC-042
+- **420** (1): REC-044
+- **quantum-lock** (1): REC-044
+- **encoding** (1): REC-046
+- **templates** (1): REC-046
+- **einherjar** (1): REC-048
+- **palantir** (1): REC-049
+- **mkultra** (1): REC-049
+- **dreams** (1): REC-050
+- **hipaa** (1): REC-051
+- **inequality** (1): REC-052
+- **psychology** (1): REC-052
+- **civilization** (1): REC-052
+- **weapons** (1): REC-053
+- **containment** (1): REC-054
+- **metacognition** (1): REC-055
+- **resistance** (1): REC-055
+- **fimbulwinter** (1): REC-056
+- **consent** (1): STW-001

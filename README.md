@@ -1,54 +1,46 @@
-# THE CELESTIAL ATLAS
-### Heillheim Cosmology Lab
+# Heillheim Cosmology Lab
 
-*A living cartographic archive of an evolving cosmology—its histories, forces, locations, mechanisms, predictions, open questions, and possible futures.*
+A public research and art repository mapping the **Celestial Atlas**: the self-styled cosmology published on TikTok by @hz.heillheim. We treat the material as a living belief system and map it with imaginative commitment, intellectual curiosity, and respect for the person who shared the work.
 
-**Originating voice:** [@hz.heillheim on TikTok](https://www.tiktok.com/@hz.heillheim)  
-**Project steward:** [merrypranxter](https://github.com/merrypranxter)  
-**Status:** Early mapping / invitation to collaborate
+Our task is **cartography**, not diagnosis. Claims of extraordinary events or forces are documented as source statements, not adopted as established facts.
 
-> **Our task is cartography.** We document the Atlas on its own terms, distinguish original testimony from interpretation, and expand its possibilities without silently changing its source.
+## The three-layer map
 
-## Enter the Atlas
+| Layer | What it is | Where |
+| --- | --- | --- |
+| **ATLAS RECORD** | Sourced statements from the creator's recordings and posts, with provenance and confidence | `sources/`, `data/claims.json` |
+| **ATLAS READING** | Interpretation, synthesis and cross-references by contributors | `analysis/`, `cosmology/` |
+| **ATLAS EXPANSION** | Contributor-authored original branches that develop Atlas elements | `atlas-expansions/` |
 
-The Celestial Atlas is approached as a living body of material, not a punchline. We follow its recurring ideas across recordings, preserve its internal logic, and track questions where the map has yet to be drawn. This archive is open to correction and collaboration.
+## Status
 
-The project steward has **requested permission** from @hz.heillheim and **invited him to participate**. Neither permission nor participation should be assumed confirmed until explicitly acknowledged. This repository is not presented as an official or endorsed archive.
+- **Recordings catalogued:** 56 (REC-001…REC-056) + 1 steward artifact (STW-001)
+- **With working transcripts:** 31 (30 timecoded FoxNote ASR + 1 inline; confidence C)
+- **Claims atomized:** see `data/claims.json` (CSV: `data/exports/claims.csv`)
+- **Latest intake:** BATCH-2026-10-08 — 55 distinct recordings resolved from a 155-page FoxNote export ([index](analysis/batch-2026-10-08-index.md), [dedup report](analysis/dedup-report.md))
+- **Open clarifications:** [ledger](analysis/clarification-ledger.md)
 
-## Three layers of the map
+## Consent and rights
 
-| Label | What it means |
-| --- | --- |
-| **ATLAS RECORD** | A source-backed statement, observation, event, or term. Includes provenance and confidence notes. |
-| **ATLAS READING** | Interpretation, synthesis, comparison, structural inference, or unresolved question. |
-| **ATLAS EXPANSION** | A new proposal by a contributor. Creators are credited; expansions are not attributed to the originating speaker unless adopted. |
+- `permission_requested: true` — the steward has publicly invited the creator to participate (see STW-001).
+- `permission_confirmed: false` — approval and involvement are **not yet confirmed**.
+- **2026-10-08 policy note:** full working transcripts were added to this repository at the project steward's explicit instruction. Until the creator states redistribution terms, all material remains `provisional_pending_creator_consent`; any creator request to modify or remove material supersedes this note.
+- Media files (video/audio) are never committed. No private messages, no health speculation, no identifying details beyond the public handle.
 
-Immersive writing is welcome. Source fidelity is mandatory. **A statement made within the Atlas is not, by itself, independent verification of a scientific, historical, or current-events claim.**
+## Start here
 
-## Start exploring
+1. [Project voice charter](PROJECT-VOICE.md) — how we write
+2. [Field guide](docs/FIELD-GUIDE.md) — what lives where, intake pipeline, confidence notation
+3. [Batch index](analysis/batch-2026-10-08-index.md) → [study packet](ghost/study-packet-batch-2026-10-08.md)
+4. [Cosmology overview](cosmology/OVERVIEW.md) → [mechanics](cosmology/mechanics.md) → [glossary](cosmology/glossary.md)
+5. [Predictions](chronology/predictions.md) · [Timeline](chronology/timeline.md)
+6. [Contributing](CONTRIBUTING.md) · [Data schemas](data/SCHEMA.md)
 
-- [The archive's voice and attribution charter](PROJECT-VOICE.md)
-- [Field guide to the repository](docs/FIELD-GUIDE.md)
-- [Source register](sources/register.json)
-- [Recording 001: intake card](sources/recording-001.md)
-- [Recording 002: Celestial Atlas — Part 1](sources/recording-002.md)
-- [The first source dossier](analysis/atlas-recording-002-dossier.md)
-- [Initial cosmology map](cosmology/OVERVIEW.md)
-- [Mechanics ledger](cosmology/mechanics.md)
-- [Entity and concept glossary](cosmology/glossary.md)
-- [Predictions and timelines](chronology/predictions.md)
-- [Contradiction / clarification ledger](analysis/clarification-ledger.md)
-- [Ghost: first cartographic pass](ghost/first-cartography.md)
-- [Expansion: Atlas of Unawakened Worlds](atlas-expansions/atlas-of-unawakened-worlds.md)
+## Directory map
 
-## Public archive / private workroom
-
-This is a **public** repository. Until redistribution terms are clear, keep full source videos, audio, raw downloads, and complete working transcripts outside GitHub. Public notes can reference source IDs and short, contextual descriptions. Do not publish private Discord messages, identifying details beyond public creator handles, or speculation about anyone's health.
-
-Documentation of conflicts, threats, or destructive rhetoric is **analysis, not endorsement**. The archive must not become a recruitment, targeting, or harassment tool.
-
-## How to contribute
-
-Read [CONTRIBUTING.md](CONTRIBUTING.md). Corrections with a timestamp and recording ID are especially valuable. New branches of the Atlas belong under `atlas-expansions/` and should identify their contributor.
-
-*Map first. Interpret carefully. Expand boldly.*
+- `sources/` — register + per-recording cards + working transcripts (`sources/transcripts/`)
+- `data/` — claims, entities, nodes/edges, timeline, predictions, glossary + `exports/` CSVs + `SCHEMA.md`
+- `analysis/` — dossiers, batch index, dedup report, cross-reference map, clarification ledger
+- `cosmology/`, `chronology/` — human-readable map layers
+- `ghost/` — reusable study packets
+- `templates/` — entry forms · `atlas-expansions/` — contributor branches
