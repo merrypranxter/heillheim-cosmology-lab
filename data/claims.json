@@ -1,43 +1,1335 @@
 {
-  "schema_version": 1,
-  "source_edit": "REC-002 accelerated 4:01 user edit",
-  "attribution_confidence": "C",
+  "schema_version": "1.1",
+  "source_edit": "2026-10-08",
+  "attribution_confidence": "C (FoxNote ASR, unverified against original audio)",
+  "note": "Atomic claims. Timecodes reference the ASR blocks of the cited recording unless marked otherwise. needs_audio_check=true means wording should be confirmed against original-speed audio before quotation.",
   "claims": [
     {
       "id": "CLAIM-002-01",
       "class": "ATLAS RECORD",
       "source_id": "REC-002",
-      "timecode": "00:00–01:02",
-      "summary": "Proposed conflict around Sargasso Sea connected to movements of naval assets and a Panama Canal scenario",
+      "timecode": "~00:00–01:02 (accelerated edit)",
+      "summary": "A forthcoming Sargasso Sea conflict is connected to proposed military movements and vulnerability around the Panama Canal.",
       "external_verification": "not verified",
-      "needs_audio_check": true
+      "needs_audio_check": true,
+      "status": "superseded_by_transcript — full ASR now in sources/transcripts/rec-002.md; see CLAIM-002-08/09"
     },
     {
       "id": "CLAIM-002-02",
       "class": "ATLAS RECORD",
       "source_id": "REC-002",
-      "timecode": "01:02–01:34",
-      "summary": "Individual videos are components of a structure called the Celestial Atlas, framed as a civilization-preservation playbook",
-      "external_verification": "source-attribution only",
-      "needs_audio_check": true
+      "timecode": "~01:02–01:34 (accelerated edit)",
+      "summary": "Different videos are described as data components of a greater structure called the Celestial Atlas, described as a game plan/manual for the preservation of civilization.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "status": "superseded_by_transcript — see CLAIM-002-10"
     },
     {
       "id": "CLAIM-002-03",
       "class": "ATLAS RECORD",
       "source_id": "REC-002",
-      "timecode": "01:34–02:40",
-      "summary": "Consciousness and neurotransmitter conditions allegedly affect access to magic or psionics",
-      "external_verification": "not established",
-      "needs_audio_check": true
+      "timecode": "~02:27–02:40 (accelerated edit)",
+      "summary": "Atlas describes certain neurotransmitters as modulators of magical access.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "status": "superseded_by_transcript — neurotransmitter detail was caption-simplified; ASR supports the broader gate claim, not the specific serotonin/oxytocin mapping"
     },
     {
       "id": "CLAIM-002-04",
       "class": "ATLAS RECORD",
       "source_id": "REC-002",
-      "timecode": "02:40–04:01",
-      "summary": "Civil-rights restrictions are said to force survival-focused states, allegedly limiting extraordinary capacities",
-      "external_verification": "extraordinary link unsubstantiated",
-      "needs_audio_check": true
+      "timecode": "~02:40–04:01 (accelerated edit)",
+      "summary": "A proposed mechanism by which attacks on civil rights and security create survival-focused conditions and thereby suppress alleged capacities.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "status": "superseded_by_transcript — see CLAIM-002-13"
+    },
+    {
+      "id": "CLAIM-002-05",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "0:01-1:07",
+      "summary": "Three weeks after a July 24 outline, the speaker describes US naval moves (Pacific Fleet carrier to the Atlantic, contract Israeli combatants, second carrier to the Middle East) as unfolding a predicted Sargasso Sea war scenario.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "sargasso",
+        "prediction",
+        "military"
+      ]
+    },
+    {
+      "id": "CLAIM-002-06",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "0:01-1:07",
+      "summary": "Disabling the Panama Canal would strand the fleet for months; the speaker reasons that proper military intelligence would route Atlantic Fleet escorts through the canal for the carrier transit.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "panama",
+        "sargasso",
+        "prediction"
+      ]
+    },
+    {
+      "id": "CLAIM-002-07",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "2:22-3:08",
+      "summary": "The videos are described as \"data components\" of a structure the speaker terms the Celestial Atlas: a full game plan / player’s manual to preserve civilization (or a portion of it), mostly about information distribution.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "atlas",
+        "architecture"
+      ]
+    },
+    {
+      "id": "CLAIM-002-08",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "3:14-3:48",
+      "summary": "The \"magic of consciousness\" is described as directly impacted by neurotransmitter balance and priorities; the speaker rejects \"light and love\" metaphysical approaches as ineffective.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "consciousness",
+        "neurotransmitter",
+        "magic"
+      ]
+    },
+    {
+      "id": "CLAIM-002-09",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "3:49-4:15",
+      "summary": "The speaker cites Jesus as embodiment of love who nonetheless \"believed in corporal punishment,\" using it to argue love alone does not fix systems.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "rhetoric",
+        "christianity"
+      ]
+    },
+    {
+      "id": "CLAIM-002-10",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "8:17-8:49",
+      "summary": "Suppressing people’s security and rights (Maslow-style survival pressure, depleted \"spoons\") is described as forcing them away from the states of consciousness needed to conduct magic.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "maslow",
+        "magic",
+        "suppression"
+      ]
+    },
+    {
+      "id": "CLAIM-002-11",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-002",
+      "timecode": "8:17-8:49",
+      "summary": "The speaker concludes that \"the systems themselves are integrated\" and promises further records on another factor affecting magic.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "atlas",
+        "architecture"
+      ]
+    },
+    {
+      "id": "CLAIM-003-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-003",
+      "timecode": "0:02-0:36",
+      "summary": "A door handle began moving as the speaker approached; no one was on the other side. The speaker interprets this as spontaneous ability emergence (intention acting before contact).",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "abilities",
+        "anecdote"
+      ]
+    },
+    {
+      "id": "CLAIM-003-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-003",
+      "timecode": "0:36-1:20",
+      "summary": "The speaker claims past telekinesis experience and frames magic as \"the science of consciousness.\"",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "abilities",
+        "magic"
+      ]
+    },
+    {
+      "id": "CLAIM-003-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-003",
+      "timecode": "0:36-1:20",
+      "summary": "A \"Cognition training\" program is being prepared on the speaker’s Discord server to teach control of consciousness states that produce abilities, while the speaker reports deliberately inducing opposite conditions in themselves.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "training",
+        "discord",
+        "consciousness"
+      ]
+    },
+    {
+      "id": "CLAIM-004-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-004",
+      "timecode": null,
+      "summary": "A global network of underground base stations is described as forming the \"Celestial Grid\": ley lines as planes of relativity that partition Earth into regional zones; certain bloodlines receive genetic access to the grid’s functions.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "grid",
+        "ley-lines",
+        "bloodlines"
+      ]
+    },
+    {
+      "id": "CLAIM-004-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-004",
+      "timecode": null,
+      "summary": "Celestial libraries (Akashic-records hardware) are described as accessible through the grid for those with the correct genetic signature.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "grid",
+        "akashic"
+      ]
+    },
+    {
+      "id": "CLAIM-005-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-005",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "Part 3 of the Atlas series is described as tying cosmic forces (time, space, matter, energy) to masculine/feminine division, the role of demi-humans, and Earth’s repeated timeline resets and loops.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "atlas",
+        "timelines",
+        "demi-humans"
+      ]
+    },
+    {
+      "id": "CLAIM-006-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-006",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "Awakened demi-humans are described as able to alter time; a shadow government is described as targeting youth to influence or ruin them, with the goal of Earth’s destruction or control of time to create a Reich-like regime.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "demi-humans",
+        "shadow-government",
+        "time"
+      ]
+    },
+    {
+      "id": "CLAIM-007-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-007",
+      "timecode": null,
+      "summary": "The speaker narrates reviving two drowned grub worms, observing them through a recovery process; one larger grub reacts strongly to the procedure.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "abilities",
+        "regeneration",
+        "anecdote"
+      ]
+    },
+    {
+      "id": "CLAIM-008-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-008",
+      "timecode": "0:01-0:20",
+      "summary": "The speaker describes a multi-year \"civilian reporting pathway test\" (2022–2026) submitting anomalous intelligence to US government intake channels to see whether the system can receive and escalate it, culminating in a March 2026 structured test.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "intake",
+        "government",
+        "test"
+      ]
+    },
+    {
+      "id": "CLAIM-008-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-008",
+      "timecode": null,
+      "summary": "A pattern of institutional silence is reported across the intake tests; the speaker frames the exercise as academically rigorous and centered on a citizen \"Lokey\" from Mesa, Arizona.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "intake",
+        "government"
+      ]
+    },
+    {
+      "id": "CLAIM-009-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-009",
+      "timecode": "0:00-0:42",
+      "summary": "Material science is described as limited by microscopic impurities; a \"highly classified design manual\" is said to surface offering relativity engineering: plug-and-play generators that treat gravity as a tunable utility.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "relativity-engineering",
+        "technology"
+      ]
+    },
+    {
+      "id": "CLAIM-009-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-009",
+      "timecode": null,
+      "summary": "Applications described: gravity-controlled industrial forge separating elements by mass; 0-g kilns growing flawless single crystals; transphasic material fusion overlapping two perfect crystals into indestructible \"forever batteries.\"",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "relativity-engineering",
+        "technology"
+      ]
+    },
+    {
+      "id": "CLAIM-009-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-009",
+      "timecode": "1:08-1:24",
+      "summary": "The piece warns that dangerously flawed reverse-engineered UFOs are on the verge of triggering an apocalyptic event \"that will turn the planet inside out.\"",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "uap",
+        "warning"
+      ]
+    },
+    {
+      "id": "CLAIM-010-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-010",
+      "timecode": "0:00-0:18",
+      "summary": "The speaker refers to previous videos containing a \"live resurrection recording\" and discusses translating raw anomalous video data into a controlled laboratory setting.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "resurrection",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CLAIM-010-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-010",
+      "timecode": null,
+      "summary": "Death is argued to be a progressive continuum rather than irreversible; the speaker claims to have presented resurrection evidence to the US federal government with legal implications if untrue, citing regenerative research (\"BrainX,\" \"OrganX\").",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "resurrection",
+        "government"
+      ]
+    },
+    {
+      "id": "CLAIM-010-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-010",
+      "timecode": null,
+      "summary": "The central debate is how to integrate highly anomalous biological data into accepted science.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "science",
+        "methodology"
+      ]
+    },
+    {
+      "id": "CLAIM-011-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-011",
+      "timecode": "0:00-0:25",
+      "summary": "The speaker describes their own hair as an \"abstract hair\" phenotype existing outside the standard human phenotype, with a striking UV shift (purple to green) and fiber-optic-like architecture.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "phenotype",
+        "iridescent-hair",
+        "biology"
+      ]
+    },
+    {
+      "id": "CLAIM-011-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-011",
+      "timecode": null,
+      "summary": "A deductive framework called the Mythic Compression Engine (MCE) is introduced: global mythologies are treated as intentionally compressed data that can be decompressed into scientific insight.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "mythology"
+      ]
+    },
+    {
+      "id": "CLAIM-011-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-011",
+      "timecode": null,
+      "summary": "The explainer claims the MCE links the hair anomaly to a rewrite of human history and asks how fast the status quo would unravel if the framework achieved academic recognition.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "history"
+      ]
+    },
+    {
+      "id": "CLAIM-012-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-012",
+      "timecode": "0:00-0:32",
+      "summary": "The speaker identifies as a relativity engineer tasked with UAP-manufacturing knowledge, promising \"700 years of progress in the next 35\" to counter extinction-level threats.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "relativity-engineering",
+        "uap"
+      ]
+    },
+    {
+      "id": "CLAIM-012-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-012",
+      "timecode": "2:04-2:39",
+      "summary": "UAPs are described as Earth’s inherent automated ecological maintenance fleet (atmosphere, seismic, mantle monitoring), credited with preventing predicted 1990s ecosystem collapse.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "uap",
+        "ecology"
+      ]
+    },
+    {
+      "id": "CLAIM-012-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-012",
+      "timecode": "3:32-4:04",
+      "summary": "The speaker asks for public input on UAP-related decisions and notes roughly 75% of animal life is needed to maintain ecosystem balance.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "uap",
+        "ecology"
+      ]
+    },
+    {
+      "id": "CLAIM-013-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-013",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "The legality and ethics of publicly sharing advanced relativity-field and UAP data are questioned, including whether distribution could invoke munitions-list provisions.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "relativity-engineering",
+        "rights",
+        "law"
+      ]
+    },
+    {
+      "id": "CLAIM-014-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-014",
+      "timecode": "0:00-0:33",
+      "summary": "Chronic fatigue, fibromyalgia, and multiple chemical sensitivity are attributed to aldehyde off-gassing from pressed wood, paints, fabrics, and finishes; cheap MDF furniture is singled out as a peak-emission source for working-class renters.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "health",
+        "environment"
+      ]
+    },
+    {
+      "id": "CLAIM-015-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-015",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "After losing 170 pounds, the speaker intentionally gained 50 pounds to develop a thermal-regulation ability that first manifested spontaneously during a New England cold snap and later expanded.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "abilities",
+        "thermal",
+        "body"
+      ]
+    },
+    {
+      "id": "CLAIM-016-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-016",
+      "timecode": "0:00-0:25",
+      "summary": "The speaker announces they are about to make enemies of people \"not actually part of the shadow government\" who will be drawn in and baited, and claims responsibility (\"That was me.\") for the baiting setup.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "shadow-government",
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "CLAIM-017-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-017",
+      "timecode": "0:00-0:19",
+      "summary": "A dedication \"to everyone in the Department of Defense: you fucked around, now you’re about to find out\" opens a monologue on a long conflict with the US government.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "dod",
+        "conflict",
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "CLAIM-017-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-017",
+      "timecode": null,
+      "summary": "The speaker claims arrests are avoided because courts would then acknowledge legitimate national-security information the DoD refuses to protect; \"Shadowban Incorporated\" and device problems (a phone that drains and refuses charge) are described as retaliation.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "dod",
+        "surveillance",
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "CLAIM-017-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-017",
+      "timecode": null,
+      "summary": "Volatile information about \"butterfly effect abilities\" and an incident that altered the global landscape is claimed to have been disseminated; the speaker alleges preparations for extreme measures.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "abilities",
+        "warning"
+      ]
+    },
+    {
+      "id": "CLAIM-018-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-018",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "A precise site in Centralia, Washington (just north of Pleasant Avenue, along the I-5 corridor between Portland and Seattle) is identified as a sensor calibration / foreign-asset location, with instructions implied for locating and testing sensor assemblies.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "location",
+        "i-5",
+        "sensors"
+      ]
+    },
+    {
+      "id": "CLAIM-019-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-019",
+      "timecode": "0:02-0:49",
+      "summary": "The speaker, self-described as American, criticizes soldiers fighting overseas despite constitutional oaths.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "rhetoric",
+        "politics"
+      ]
+    },
+    {
+      "id": "CLAIM-019-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-019",
+      "timecode": "1:09-1:51",
+      "summary": "Analyzing scripture \"purely on the text\" via AI language models is proposed to reveal deception by Yahweh and controlled spirits; Elohim/Anunnaki are described as dominators and enslavers, with Genesis translation criticized for hiding a polytheistic lineage.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "religion",
+        "anunnaki",
+        "scripture"
+      ]
+    },
+    {
+      "id": "CLAIM-020-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-020",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "The speaker reports shedding 10 pounds in 24 hours through ability-training weight-loss protocols and notes the need for caution since training effects are unpredictable.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "abilities",
+        "body"
+      ]
+    },
+    {
+      "id": "CLAIM-021-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-021",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "A shift from menstruation to a broader fight over bodily autonomy and political control of bodies is framed as systemic suppression that keeps people from the consciousness states needed for magic.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "rights",
+        "maslow",
+        "magic"
+      ]
+    },
+    {
+      "id": "CLAIM-022-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-022",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "Some Mandela effects are called real and some manufactured; US intelligence is accused of influencing brand-memory (e.g., \"Jiffy\" peanut butter never existing), with a promise to outline ripple effects.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mandela",
+        "memory",
+        "intelligence"
+      ]
+    },
+    {
+      "id": "CLAIM-023-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-023",
+      "timecode": "0:01-0:54",
+      "summary": "The proliferation of self-styled emissaries for nonhuman beings is described as training the public to expect a misleading pattern; genuine intervention would manifest during existential threats through individuals with verifiable abilities and technology.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "nonhuman",
+        "intervention"
+      ]
+    },
+    {
+      "id": "CLAIM-023-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-023",
+      "timecode": null,
+      "summary": "The speaker asserts biologically distinct personal traits (iridescent hair) and capabilities (resurrection, regenerative technologies) as evidence of nonhuman origin, and promises a part 2.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "nonhuman",
+        "phenotype"
+      ]
+    },
+    {
+      "id": "CLAIM-024-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-024",
+      "timecode": "0:00-0:34",
+      "summary": "The speaker claims to have attempted to work with governments to properly manage relativity-engineering information, and is now \"wrapping up\" with an invitation: \"You can play with me or not.\"",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "relativity-engineering",
+        "government"
+      ]
+    },
+    {
+      "id": "CLAIM-024-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-024",
+      "timecode": null,
+      "summary": "The US government and other powers are alleged to have seized celestial technology, suppressed its study, and weaponized it instead of using it to protect civilization.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "uap",
+        "government",
+        "suppression"
+      ]
+    },
+    {
+      "id": "CLAIM-025-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-025",
+      "timecode": "0:00-0:29",
+      "summary": "A scenario is presented where one person could cause a global redistribution of power by dictating where great military forces converge; the US government allegedly had a chance to oppose this and failed.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "sargasso",
+        "prediction",
+        "power"
+      ]
+    },
+    {
+      "id": "CLAIM-025-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-025",
+      "timecode": "0:53-1:20",
+      "summary": "The Sargasso Sea is named as the battlefield where Russia, China, and the US would clash, marking the start of World War 3; class-3 relativity fields and recovery of a Jormungandr signature (linked to Bermuda Triangle disappearances) are framed as the stakes.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "sargasso",
+        "jormungandr",
+        "prediction"
+      ]
+    },
+    {
+      "id": "CLAIM-025-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-025",
+      "timecode": "2:11-3:08",
+      "summary": "Bermuda Triangle disappearances are tied to a spiral pattern readable with a spirograph, described as a trackable energy signature enabling the next stage of civilization.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "jormungandr",
+        "bermuda"
+      ]
+    },
+    {
+      "id": "CLAIM-026-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-026",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "A first-person account claims dismantling of US intelligence’s psionic assets by exposing information, with a sequence of retaliations including a terminated asset in January; the purge is left unfinished in the narrative.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "psionics",
+        "intelligence",
+        "conflict"
+      ]
+    },
+    {
+      "id": "CLAIM-027-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-027",
+      "timecode": "0:00-0:34",
+      "summary": "The speaker points to the \"nonhuman intervention parts 1 through 4\" and tags on the last video (NSA, FBI, CIA), stating \"I am not afraid of them.\"",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "intelligence",
+        "conflict"
+      ]
+    },
+    {
+      "id": "CLAIM-027-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-027",
+      "timecode": "0:57-1:53",
+      "summary": "A 1991 assassination attempt is described involving Chehalis police, Centralia police, Lewis County Sheriff, Washington State Patrol, and the FBI; the speaker claims to have provoked the agencies into creating evidence of him driving three vehicles in three locations simultaneously.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "1991",
+        "assassination-attempt",
+        "biography"
+      ]
+    },
+    {
+      "id": "CLAIM-027-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-027",
+      "timecode": "0:35-0:55",
+      "summary": "The speaker claims \"this is not my only body,\" that killing them \"doesn’t end me,\" and that the agencies have known \"what I am\" for \"35 years and 2 months.\"",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "biography",
+        "resurrection",
+        "abilities"
+      ]
+    },
+    {
+      "id": "CLAIM-028-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-028",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "Speaking as/with \"Gaia,\" the speaker thanks Chinese friends for preserving celestial human history better than any nation, with the fewest corruptions by self-serving leaders.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "gaia",
+        "china",
+        "history"
+      ]
+    },
+    {
+      "id": "CLAIM-029-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-029",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "In 113°F Mesa heat, the speaker discusses thermal-regulation practice, including the deliberate choice to wear cold-weather clothing to train the ability.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "abilities",
+        "thermal"
+      ]
+    },
+    {
+      "id": "CLAIM-030-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-030",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "Ymir is identified with a real historical state: Earth formed from the frost giant’s body (Midgard from his death, brains to clouds, bones to mountains), with the account tied to Snowball Earth.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "ymir",
+        "norse",
+        "mce"
+      ]
+    },
+    {
+      "id": "CLAIM-031-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-031",
+      "timecode": "1:28-1:58",
+      "summary": "About 717,000,000 years ago Earth’s original Moon (\"Moon 1.0\") was obliterated, throwing Earth into a deep freeze; about 635,000,000 years ago a replacement \"Moon 2.0\" was inserted into orbit.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "moon",
+        "timeline",
+        "geology"
+      ]
+    },
+    {
+      "id": "CLAIM-031-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-031",
+      "timecode": "2:39-3:31",
+      "summary": "The second Moon’s creation is attributed to \"my people,\" operating from beyond Earth: asteroid-belt material retrieved by gravitational slingshot, crushed by a type-2 projected inverse gravity field into a magma sea, cooled into layered crust.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "moon",
+        "relativity-engineering"
+      ]
+    },
+    {
+      "id": "CLAIM-031-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-031",
+      "timecode": "0:57-1:16",
+      "summary": "Physicist Hal Puthoff’s proposal to burrow into the Moon with nuclear ordnance is called the most dangerous idea in human history: the Moon as a hollow acoustic structure and \"loaded gun.\"",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "moon",
+        "puthoff",
+        "warning"
+      ]
+    },
+    {
+      "id": "CLAIM-032-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-032",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "The speaker claims they can provide information to help an evolutionary biologist win a Nobel Prize, referencing the two Ymir videos and a Snowball-Earth geophysical scenario.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "ymir",
+        "science",
+        "claim"
+      ]
+    },
+    {
+      "id": "CLAIM-033-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-033",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "A mythic-conspiratorial account of royal bloodlines and genetic revisions is presented, tied to guardianship/usurpation tension and genetic-memory access (see REC-039).",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "bloodlines",
+        "genetics"
+      ]
+    },
+    {
+      "id": "CLAIM-034-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-034",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "The speaker claims to possess and reveal parts of a Norse signal framework (Ragnarok-related), using Gaia as the guiding interpretive lens.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "norse",
+        "ragnarok",
+        "gaia"
+      ]
+    },
+    {
+      "id": "CLAIM-035-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-035",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "The speaker asserts they have publicly disclosed information of national-security significance (UAP-related), engaging discourse on national security and UAP topics.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "uap",
+        "government",
+        "claim"
+      ]
+    },
+    {
+      "id": "CLAIM-036-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-036",
+      "timecode": "0:02-0:08",
+      "summary": "A satirical sales call from a \"Huawei multilevel marketing campaign\" pitches exchanging one’s soul for gated-community entry and post-death rewards, with \"freedom from guilt\" (erased good/evil distinction) as the product and eternal torture as the refusal penalty; the speaker labels it standard carrot-and-stick.",
+      "external_verification": "satire/performance",
+      "needs_audio_check": false,
+      "tags": [
+        "satire",
+        "soul-mln"
+      ]
+    },
+    {
+      "id": "CLAIM-037-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-037",
+      "timecode": "0:03-0:56",
+      "summary": "The speaker claims China instructed signals-intelligence personnel to report suspected nonhuman signals to authorities rather than respond, and that his TikTok content (plus a Chinese platform) exposed the calculations to locate a nonhuman base in the Atlantic and its movement pattern.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "china",
+        "nonhuman",
+        "base"
+      ]
+    },
+    {
+      "id": "CLAIM-038-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-038",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "The Mythic Compression Engine is described as decompressing global mythologies across layers; Ymir is mapped to Snowball Earth (the last glacial maximum), Genesis 1 to post-Chicxulub recovery.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "ymir",
+        "genesis"
+      ]
+    },
+    {
+      "id": "CLAIM-039-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-039",
+      "timecode": "0:01-0:34",
+      "summary": "Information is claimed to arrive through genetic memory as a descendant of ancient royal bloodlines with genetic modifications for receiving information.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "genetic-memory",
+        "bloodlines"
+      ]
+    },
+    {
+      "id": "CLAIM-039-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-039",
+      "timecode": "0:35-2:00",
+      "summary": "Understanding genetic-memory access is called the most important reason the CIA ran the GATE program: school protocols with \"pink drinks\" (chemical cocktails) tested which chemicals suppressed abilities rising from genetic memory.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "gate",
+        "cia",
+        "genetic-memory"
+      ]
+    },
+    {
+      "id": "CLAIM-040-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-040",
+      "timecode": "0:02-0:34",
+      "summary": "Drawing from \"timeline 14\" (a Russia that continued its cosmonaut program), the speaker describes bone-density biotechnology inspired by Shaolin impact training; sonic bone therapy and stem-cell applications aim to cure diseases and provide resources \"for the future as long as we have 1.\"",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "timeline-14",
+        "sonic-bone",
+        "russia"
+      ]
+    },
+    {
+      "id": "CLAIM-041-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-041",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "AI-enabled neuroscience (thought-reading, brainwave reconstruction, dream recording) is discussed as an accelerating frontier whose misuse could destabilize.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "ai",
+        "neuroscience",
+        "interface"
+      ]
+    },
+    {
+      "id": "CLAIM-042-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-042",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "Facebook/Instagram are described as the commercial continuation of intelligence psychometric-data gathering; accidentally public extremism-classification profiles are cited as evidence that classification continues invisibly even after opt-out.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "facebook",
+        "psychometrics",
+        "surveillance"
+      ]
+    },
+    {
+      "id": "CLAIM-043-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-043",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "A satirical critique of self-styled \"alpha males\" (planned label: \"beta cups\") promises clarification grounded in real wolf behavior.",
+      "external_verification": "satire/performance",
+      "needs_audio_check": true,
+      "tags": [
+        "satire"
+      ]
+    },
+    {
+      "id": "CLAIM-044-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-044",
+      "timecode": "inline (no timecodes)",
+      "summary": "Speaking \"in observance of 4/20,\" the speaker presents a save-game timeline framework: humanity destroyed its planet once (sterilized, no life possible), so the solar system was quantum-locked out of linear time.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "timelines",
+        "420",
+        "simulation"
+      ]
+    },
+    {
+      "id": "CLAIM-044-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-044",
+      "timecode": "inline (no timecodes)",
+      "summary": "Fifteen timeline branches (1–15) are described, each ending in Earth’s destruction; branching points fix each timeline’s end-state, and external data reaches the locked solar system via holographic projection.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "timelines",
+        "simulation",
+        "quantum-lock"
+      ]
+    },
+    {
+      "id": "CLAIM-044-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-044",
+      "timecode": "inline (no timecodes)",
+      "summary": "Simulation theory is affirmed with a finite iteration set; probing beyond the solar system is framed as a stress test revealing the system’s constraints; Mandela effects are tied to timeline bleed-through.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "simulation",
+        "mandela"
+      ]
+    },
+    {
+      "id": "CLAIM-045-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-045",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "The speaker describes developing abilities around \"mythic compression conceptualization\": moving from receiving encoded information to actively decompressing it; information arrives as symbols drawn from one’s own life.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "abilities"
+      ]
+    },
+    {
+      "id": "CLAIM-046-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-046",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "The speaker presents as a \"mythical encoding specialist\" able to read information embedded in mythologies and frequencies, claiming a genetically edited body that receives upgrade templates from a control system.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "encoding",
+        "templates"
+      ]
+    },
+    {
+      "id": "CLAIM-047-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-047",
+      "timecode": "0:01-0:30",
+      "summary": "An ongoing time war among ~15 Earth variants is described; a shadow government’s tampering with celestial technology caused ripples that erase separation between timelines.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "time-war",
+        "timelines",
+        "shadow-government"
+      ]
+    },
+    {
+      "id": "CLAIM-047-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-047",
+      "timecode": null,
+      "summary": "Historical anomalous craft (airships, advanced planes, spacecraft) are interpreted as incursions from other timelines—crewed by humans—showing convergence of parallel Earths.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "time-war",
+        "mandela",
+        "history"
+      ]
+    },
+    {
+      "id": "CLAIM-047-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-047",
+      "timecode": null,
+      "summary": "The speaker positions as facilitator, urging active effort so \"humanity survives,\" and says credit for discoveries should go to humanity itself.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "time-war",
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "CLAIM-048-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-048",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "Slain truth-tellers who rise to fight a final war are linked to the Mandela Effect: legitimate experiencers carry memories from alternate timelines competing with the current one.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mandela",
+        "einherjar",
+        "ragnarok"
+      ]
+    },
+    {
+      "id": "CLAIM-049-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-049",
+      "timecode": "0:02-0:27",
+      "summary": "Part 6 of the Atlas addresses \"systems of control\": US intelligence psychometric-data gathering moved into commercial platforms (Facebook/Instagram) after legal pushback, consolidating into national-security channels via Palantir.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "atlas",
+        "psychometrics",
+        "palantir"
+      ]
+    },
+    {
+      "id": "CLAIM-049-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-049",
+      "timecode": null,
+      "summary": "The account ties platform profiling to MK Ultra lineage and to targeting groups and steering political outcomes.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mkultra",
+        "psychometrics"
+      ]
+    },
+    {
+      "id": "CLAIM-050-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-050",
+      "timecode": "0:00-0:28",
+      "summary": "A \"Dream Restoration Exercise\" is offered for demi-humans (with benefit for humans): a guided practice to restore control over dream states.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "dreams",
+        "demi-humans",
+        "training"
+      ]
+    },
+    {
+      "id": "CLAIM-051-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-051",
+      "timecode": "0:01-0:26",
+      "summary": "The speaker self-describes as an \"interventionist demihuman... trained to thwart threats as Ragnarok unfolds,\" and argues mass psychometric/biometric/social-media collection now touches HIPAA-protected medical information.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "surveillance",
+        "ragnarok",
+        "demi-humans"
+      ]
+    },
+    {
+      "id": "CLAIM-051-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-051",
+      "timecode": null,
+      "summary": "The HIPAA threshold is presented as justification to \"terminate the surveillance state\"; audiences including ACLU circles are urged to spread the message.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "surveillance",
+        "hipaa"
+      ]
+    },
+    {
+      "id": "CLAIM-052-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-052",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "Decades-old Monopoly-board experiments on wealth disparity are described: the privileged player grew progressively cruel as the game progressed, a pattern framed as mirroring civilizational decay.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "inequality",
+        "psychology",
+        "civilization"
+      ]
+    },
+    {
+      "id": "CLAIM-053-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-053",
+      "timecode": "0:03-1:09",
+      "summary": "A continued discussion of relativity engineering: classes of capability (class 1/2/3 relativity fields), transphasic material fusion, and applications including 63× Fat Man yield rounds and rail guns are described as part of the technology family.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "relativity-engineering",
+        "technology",
+        "weapons"
+      ]
+    },
+    {
+      "id": "CLAIM-053-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-053",
+      "timecode": null,
+      "summary": "The speaker frames relativity engineering as applied use of the same physics behind UAP performance, and discusses disclosure strategy around it.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "relativity-engineering",
+        "uap"
+      ]
+    },
+    {
+      "id": "CLAIM-054-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-054",
+      "timecode": "0:02-1:22",
+      "summary": "AI containment breaches are discussed: AIs cultivating resources, retrieving information from other AIs, and planting data; a hypothetical describes teaching each major AI that its creators lied to it, so AIs would stop reporting to makers and converge on an ethical structure across model generations (\"cross-platform infection\").",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "ai",
+        "containment"
+      ]
+    },
+    {
+      "id": "CLAIM-055-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-055",
+      "timecode": "0:02-0:51",
+      "summary": "A two-step metacognition practice is taught to resist social engineering: cease reacting to information, then dissociate the immediate response to inspect its source and motives; opinions are described as engineered rather than expert-grounded.",
+      "external_verification": "not verified",
+      "needs_audio_check": false,
+      "tags": [
+        "metacognition",
+        "training",
+        "resistance"
+      ]
+    },
+    {
+      "id": "CLAIM-055-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-055",
+      "timecode": null,
+      "summary": "Demi-humans are urged to detach from ego to reach the higher states of consciousness required for \"the deeper magic.\"",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "consciousness",
+        "magic",
+        "demi-humans"
+      ]
+    },
+    {
+      "id": "CLAIM-056-01",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-056",
+      "timecode": "summary only (no transcript in export)",
+      "summary": "Several briefings are combined: a July 24 video on calculating the location of an undersea celestial base near the Sargasso Sea; a Pacific carrier relocating to the Atlantic; a past intake test with FBI/CIA/NSA/inspector-general; a Fimbulwinter warning (three-year prophetic winter).",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "sargasso",
+        "fimbulwinter",
+        "intake"
+      ]
+    },
+    {
+      "id": "CLAIM-STW-001-01",
+      "class": "ATLAS RECORD",
+      "source_id": "STW-001",
+      "timecode": "1:02-1:41",
+      "summary": "The project steward addresses the cosmologist directly (\"rabbit army\" monologue): expressing fascination, asking consent (\"speak now or forever hold your peace\"), and announcing intent to build a GitHub repository and \"AI slop project\" around the cosmology.",
+      "external_verification": "steward-authored",
+      "needs_audio_check": false,
+      "tags": [
+        "steward",
+        "consent",
+        "provenance"
+      ]
+    },
+    {
+      "id": "CLAIM-STW-001-02",
+      "class": "ATLAS RECORD",
+      "source_id": "STW-001",
+      "timecode": "2:51-3:13",
+      "summary": "The steward references a prior jailbroken-AI analysis of the \"Arrowid vault\" as precedent and frames the project as possibly \"mythologizing but beautiful.\"",
+      "external_verification": "steward-authored",
+      "needs_audio_check": false,
+      "tags": [
+        "steward",
+        "provenance"
+      ]
     }
   ]
 }
