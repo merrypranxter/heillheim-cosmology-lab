@@ -6,8 +6,8 @@
 **Local filename:** (not committed — media stays local per README)  
 **Editing:** original (per steward download; edit state unverified)  
 **Runtime:** unknown (summary-only export)  
-**Timecode basis:** FoxNote ASR blocks (original speed presumed; not audio-verified)  
-**Attribution confidence:** C (FoxNote ASR; provisional)  
+**Timecode basis:** FoxNote AI summary only (no source timecodes)  
+**Attribution confidence:** C (machine-generated FoxNote summary, not a source transcript)  
 **Rights / redistribution status:** provisional — added at steward instruction 2026-10-08, pending creator consent
 
 ## Source description
@@ -15,7 +15,8 @@
 A summary-only address voiced in relation to Gaia thanks Chinese audiences for preserving parts of celestial-human history, then compares preservation, cultural memory, and purported historical losses across cultures. Its rhetorical address and references to traditional or physical artifacts should be retained without treating the summary's historical assessments as independently checked facts. Obtain the audio to distinguish the creator's words from FoxNote's explanatory framing.
 
 ## Verified wording and timecodes
-Only direct quotes checked against original audio appear here. None yet; see `sources/transcripts/` for the full ASR transcript and `data/claims.json` for atomic propositions.
+
+No original-audio-verifiable direct quotes or source timecodes are available in this export. Recover the posted video before quoting.
 
 ## Attributable propositions
 
@@ -24,7 +25,7 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 ## Uncertain words / missing context
 
 - **Summary-only entry**: FoxNote supplied an AI summary without a transcript. All propositions here are paraphrase-of-paraphrase; treat as low-resolution until the video is transcribed.
-- ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
+- FoxNote's summary is machine-generated paraphrase; it cannot establish exact source wording or audio completeness. Verify with the original recording when available.
 
 ## Connections to existing records
 
