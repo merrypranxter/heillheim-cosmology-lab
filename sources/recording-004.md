@@ -5,7 +5,7 @@
 **Publication date:** unknown / to be confirmed  
 **Local filename:** (not committed — media stays local per README)  
 **Editing:** original (per steward download; edit state unverified)  
-**Runtime:** 4:22 (last ASR block)  
+**Runtime:** at least 4:22 in available ASR (recording length unconfirmed)  
 **Timecode basis:** FoxNote ASR blocks (original speed presumed; not audio-verified)  
 **Attribution confidence:** C (FoxNote ASR; provisional)  
 **Rights / redistribution status:** provisional — added at steward instruction 2026-10-08, pending creator consent
@@ -23,6 +23,8 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 - `CLAIM-004-02` — Celestial libraries (Akashic-records hardware) are described as accessible through the grid for those with the correct genetic signature.
 
 ## Uncertain words / missing context
+
+- **Incomplete transcript:** available FoxNote text ends in the unfinished clause “And, of course, that”; do not treat this as the recording's confirmed ending.
 
 - ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
 
