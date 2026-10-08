@@ -21,9 +21,11 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 - `CLAIM-012-01` (0:00-0:32) — The speaker identifies as a relativity engineer tasked with UAP-manufacturing knowledge, promising "700 years of progress in the next 35" to counter extinction-level threats.
 - `CLAIM-012-02` (2:04-2:39) — UAPs are described as Earth’s inherent automated ecological maintenance fleet (atmosphere, seismic, mantle monitoring), credited with preventing predicted 1990s ecosystem collapse.
-- `CLAIM-012-03` (3:32-4:04) — The speaker asks for public input on UAP-related decisions and notes roughly 75% of animal life is needed to maintain ecosystem balance.
+- `CLAIM-012-03` (3:32-4:15) — The speaker asserts that 75% of animal life has been exterminated since their birth on January 30, 1975, and that remaining animal life is needed to sustain ecosystem balance. **Source-reported statistic; not externally verified.**
 
 ## Uncertain words / missing context
+
+- The 75% figure is a **claim made in the recording**, not a verified global wildlife measurement; the original wording concerns the *lost* animal life, not the fraction allegedly needed.
 
 - ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
 
