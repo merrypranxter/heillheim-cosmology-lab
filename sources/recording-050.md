@@ -19,7 +19,10 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 ## Attributable propositions
 
-- `CLAIM-050-01` (0:00-0:28) — A "Dream Restoration Exercise" is offered for demi-humans (with benefit for humans): a guided practice to restore control over dream states.
+- `CLAIM-050-01` (0:00-0:28) — A "Dream Restoration Exercise" is offered for demi-humans (with benefit for humans): a guided practice to restore control over dream states. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-050-02` (1:07-2:18) — Dream Restoration step 1: recall the period of life with the most unusual experiences, then compile a music playlist from that time, including less memorable adjacent songs. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-050-03` (2:18-3:46) — Dream Restoration step 2: spend the hour before bed away from screens with the playlist and privacy, recall experiences and one's learned interpretations, then go to sleep without resuming media. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-050-04` (3:46-5:38) — The creator presents the preceding process as the first stage of consciousness training for recalling dreams, while advising participants to keep their experiences private if they wish. *[voice: posted_recording_voice_unverified; external verification: not verified]*
 
 ## Uncertain words / missing context
 
