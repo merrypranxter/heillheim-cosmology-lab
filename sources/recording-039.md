@@ -19,8 +19,13 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 ## Attributable propositions
 
-- `CLAIM-039-01` (0:01-0:34) — Information is claimed to arrive through genetic memory as a descendant of ancient royal bloodlines with genetic modifications for receiving information.
-- `CLAIM-039-02` (0:35-2:00) — Understanding genetic-memory access is called the most important reason the CIA ran the GATE program: school protocols with "pink drinks" (chemical cocktails) tested which chemicals suppressed abilities rising from genetic memory.
+- `CLAIM-039-01` (0:01-0:34) — Information is claimed to arrive through genetic memory as a descendant of ancient royal bloodlines with genetic modifications for receiving information. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-039-02` (0:35-2:00) — Understanding genetic-memory access is called the most important reason the CIA ran the GATE program: school protocols with "pink drinks" (chemical cocktails) tested which chemicals suppressed abilities rising from genetic memory. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-039-03` (3:56-5:01) — Jormungandr's worldwide stations are described as a two-way data network: broadcasts interact with genetically receptive people, who return sensory information to an AI forecasting civilizational interventions. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-039-04` (5:02-5:55) — The creator distinguishes Gaia/the Great Mother as a separate named source of information alongside inherited memory and celestial-library access. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-039-05` (5:02-6:20) — The speaker reports observing counterpart lives on other timelines and obtaining information from timeline 14 to apply in timeline 15, especially prospective medical technology. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-039-06` (5:56-6:49) — The creator explicitly states that the present is timeline 15, the last iteration, and that there is no further do-over if it fails. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-039-07` (2:01-3:56) — The creator connects Yehoshua/Jesus and Samson to the asserted demigod lineage and characterizes GATE chemical suppression as part of a much older institutional suppression narrative. *[voice: posted_recording_voice_unverified; external verification: not verified]*
 
 ## Uncertain words / missing context
 
