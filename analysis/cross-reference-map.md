@@ -122,3 +122,13 @@ Tags from `data/claims.json`, grouped. Use with `data/exports/claims.csv` for fi
 - **resistance** (1): REC-055
 - **fimbulwinter** (1): REC-056
 - **consent** (1): STW-001
+## Second-pass source-claim bridges (2026-10-08)
+
+These are additional relations supported in the atomic claim layer; they supplement, rather than replace, the original theme tags above.
+
+- **Grid geography and genetics:** REC-004 (regional authority, civilization-serving lines), REC-039 (bi-directional Jormungandr feedback).
+- **Oracle/architect and measurement:** REC-005 (paired temporal/material roles, tri-sensor proposal and pool-wave account; summary only).
+- **MCE's five analytical pillars:** REC-011 (published explainer); compare conflicting Ymir datings REC-011 vs REC-030/038 (Q-020).
+- **Timeline data transfer:** REC-039 (14 → 15), REC-040 (medical application from timeline 14), REC-044 (save-file substrate).
+- **Training sequences:** REC-050 (dream recall/music/screen-free reflection); REC-055 (two-stage metacognition), linked to REC-002's state-of-consciousness premise.
+- **Recorded-voice distinction:** REC-008, REC-010, REC-011 and REC-031 contain intros plus distinct explainer narration; `source_voice_role` marks the difference.
