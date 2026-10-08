@@ -44,3 +44,11 @@ Verification policy: freeze the prediction record before any fulfillment judgmen
 `REC-###` recordings · `STW-###` steward artifacts (never Atlas sources) · `EXT-###` external leads
 · `CLAIM-###-##` claims · `EVT-###` timeline · `PRED-###` predictions · `Q-###` clarifications
 · `MEC-###` mechanisms · `EXP-###` contributor expansions · `BATCH-YYYY-MM-DD` intake batches.
+
+## Second-pass provenance fields (2026-10-08)
+
+- `claims[].source_voice_role`: distinguishes creator introduction, published explainer narration, FoxNote summary-only paraphrase, satirical performance, steward direct speech, and unverified post voice. The role classifies **available material**, not the underlying creator's private intent.
+- `claims[].normalized_by`: optional existing claim ID identifying a more detailed restatement, without deleting earlier references.
+- Summary-only claims use `timecode` text beginning `FoxNote summary` and must not be rendered as verbatim quotations.
+- `register.items[].source_evidence_basis`: `foxnote_asr_provisional` / `foxnote_summary_only` / `untranscribed`.
+- `register.items[].original_posted_at`, `video_url`, `video_id`, `media_sha256`, `asr_checked_by`: `null` until independently recovered; do not infer publication dates from archive date.
