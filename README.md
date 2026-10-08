@@ -34,7 +34,8 @@ Our task is **cartography**, not diagnosis. Claims of extraordinary events or fo
 3. [Batch index](analysis/batch-2026-10-08-index.md) → [study packet](ghost/study-packet-batch-2026-10-08.md)
 4. [Cosmology overview](cosmology/OVERVIEW.md) → [mechanics](cosmology/mechanics.md) → [glossary](cosmology/glossary.md)
 5. [Predictions](chronology/predictions.md) · [Timeline](chronology/timeline.md)
-6. [Contributing](CONTRIBUTING.md) · [Data schemas](data/SCHEMA.md)
+6. **[External Context Concordance](research/external-context/README.md)** — 12 subject dossiers connecting Atlas terms to Norse sources, geology, experimental science, historical programs, ethics, ecology and other real-world research; includes an evidence matrix and citation register.
+7. [Contributing](CONTRIBUTING.md) · [Data schemas](data/SCHEMA.md)
 
 ## Directory map
 
@@ -42,9 +43,14 @@ Our task is **cartography**, not diagnosis. Claims of extraordinary events or fo
 - `data/` — claims, entities, nodes/edges, timeline, predictions, glossary + `exports/` CSVs + `SCHEMA.md`
 - `analysis/` — dossiers, batch index, dedup report, cross-reference map, clarification ledger
 - `cosmology/`, `chronology/` — human-readable map layers
+- `research/external-context/` — **ATLAS READING**: verified external reference register, master concept crosswalk, research-method guide, 12 scholarly context dossiers and research gaps
 - `ghost/` — reusable study packets
 - `templates/` — entry forms · `atlas-expansions/` — contributor branches
 
 ## Source fidelity notes (2026-10-08)
 
 An independent pass corrected mistaken descriptions, transcript-completeness metadata, an inverted wildlife statistic, mislabeled narrator voice and graph/prediction exports. **The 55-record intake deduplication remains provisional**: REC-007 may combine two posts; original TikTok IDs and dates were not preserved. Summary-only records are explicitly weaker source evidence than timecoded ASR. For diagnostics and remaining questions, see [`analysis/source-fidelity-repair-log.md`](analysis/source-fidelity-repair-log.md) and the [clarification ledger](analysis/clarification-ledger.md).
+
+## External contextual research intake (2026-10-08)
+
+A Perplexity Deep Research concordance and attached Gemini concept extraction were reconciled with the actual source-record IDs rather than pasted as first-person creator statements. The added [research companion](research/external-context/README.md) distinguishes documented outside literature, useful analogies, provisional source attributions, and proposed connections that current evidence does not establish. All original source cards and claims remain intact. The initial edition is a reference map, **not** independent verification of every citation in the original 300+ search-result bibliography.
