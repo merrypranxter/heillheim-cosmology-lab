@@ -19,9 +19,12 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 ## Attributable propositions
 
-- `CLAIM-038-01` (summary only (no transcript in export)) — The Mythic Compression Engine is described as decompressing global mythologies across layers; Ymir is mapped to Snowball Earth (the last glacial maximum), Genesis 1 to post-Chicxulub recovery.
+- `CLAIM-038-01` (FoxNote summary pp. 97–98; no source audio) — A FoxNote summary reports an MCE reading identifying Ymir with Snowball Earth hundreds of millions of years ago, associating the Norse realms with Earth's historical conditions. *[voice: foxnote_summary_paraphrase; external verification: not verified]*
+- `CLAIM-038-02` (FoxNote summary pp. 97–98; no timecodes) — The summary frames Jotunheim, Midgard, Hel and Valhalla as terrestrial conditions or states within the MCE reading, and mentions regenerative and power technologies. *[voice: foxnote_summary_paraphrase; external verification: not verified]*
 
 ## Uncertain words / missing context
+
+- **Voice/provenance:** a statement in a published explainer is credited to the explainer voice, not silently converted into a personal first-person claim. MCE chronology differs between REC-011 (last glacial maximum) and REC-038 (Snowball Earth); retain both pending creator clarification.
 
 - **Summary-only entry**: FoxNote supplied an AI summary without a transcript. All propositions here are paraphrase-of-paraphrase; treat as low-resolution until the video is transcribed.
 - ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
