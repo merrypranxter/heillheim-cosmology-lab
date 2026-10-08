@@ -1,6 +1,6 @@
 # Heillheim Cosmology Lab
 
-A public research and art repository mapping the **Celestial Atlas**: the self-styled cosmology published on TikTok by @hz.heillheim. We treat the material as a living belief system and map it with imaginative commitment, intellectual curiosity, and respect for the person who shared the work.
+A public research and art repository mapping the **Celestial Atlas**: the Celestial Atlas described in videos published by @hz.heillheim. We treat the material as a living belief system and map it with imaginative commitment, intellectual curiosity, and respect for the person who shared the work.
 
 Our task is **cartography**, not diagnosis. Claims of extraordinary events or forces are documented as source statements, not adopted as established facts.
 
@@ -15,9 +15,9 @@ Our task is **cartography**, not diagnosis. Claims of extraordinary events or fo
 ## Status
 
 - **Recordings catalogued:** 56 (REC-001…REC-056) + 1 steward artifact (STW-001)
-- **With working transcripts:** 31 (30 timecoded FoxNote ASR + 1 inline; confidence C)
-- **Claims atomized:** see `data/claims.json` (CSV: `data/exports/claims.csv`)
-- **Latest intake:** BATCH-2026-10-08 — 55 distinct recordings resolved from a 155-page FoxNote export ([index](analysis/batch-2026-10-08-index.md), [dedup report](analysis/dedup-report.md))
+- **With working transcripts:** 31 (30 timecoded FoxNote ASR + 1 inline; provisional confidence C); five ASR records have known text cutoffs (REC-003/004/010/014/031).
+- **Claims atomized:** 127 including second-pass repairs; see `data/claims.json` (CSV: `data/exports/claims.csv`)
+- **Latest intake:** BATCH-2026-10-08 — 55 provisionally distinct recordings catalogued from a 155-page FoxNote export ([index](analysis/batch-2026-10-08-index.md), [dedup report](analysis/dedup-report.md))
 - **Open clarifications:** [ledger](analysis/clarification-ledger.md)
 
 ## Consent and rights
@@ -44,3 +44,7 @@ Our task is **cartography**, not diagnosis. Claims of extraordinary events or fo
 - `cosmology/`, `chronology/` — human-readable map layers
 - `ghost/` — reusable study packets
 - `templates/` — entry forms · `atlas-expansions/` — contributor branches
+
+## Source fidelity notes (2026-10-08)
+
+An independent pass corrected mistaken descriptions, transcript-completeness metadata, an inverted wildlife statistic, mislabeled narrator voice and graph/prediction exports. **The 55-record intake deduplication remains provisional**: REC-007 may combine two posts; original TikTok IDs and dates were not preserved. Summary-only records are explicitly weaker source evidence than timecoded ASR. For diagnostics and remaining questions, see [`analysis/source-fidelity-repair-log.md`](analysis/source-fidelity-repair-log.md) and the [clarification ledger](analysis/clarification-ledger.md).
