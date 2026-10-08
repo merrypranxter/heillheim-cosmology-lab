@@ -12,7 +12,9 @@
       "summary": "A forthcoming Sargasso Sea conflict is connected to proposed military movements and vulnerability around the Panama Canal.",
       "external_verification": "not verified",
       "needs_audio_check": true,
-      "status": "superseded_by_transcript — full ASR now in sources/transcripts/rec-002.md; see CLAIM-002-08/09"
+      "status": "superseded_by_transcript — full ASR now in sources/transcripts/rec-002.md; see CLAIM-002-08/09",
+      "source_voice_role": "posted_recording_voice_unverified",
+      "normalized_by": "CLAIM-002-05"
     },
     {
       "id": "CLAIM-002-02",
@@ -22,7 +24,9 @@
       "summary": "Different videos are described as data components of a greater structure called the Celestial Atlas, described as a game plan/manual for the preservation of civilization.",
       "external_verification": "not verified",
       "needs_audio_check": true,
-      "status": "superseded_by_transcript — see CLAIM-002-10"
+      "status": "superseded_by_transcript — see CLAIM-002-10",
+      "source_voice_role": "posted_recording_voice_unverified",
+      "normalized_by": "CLAIM-002-07"
     },
     {
       "id": "CLAIM-002-03",
@@ -32,7 +36,9 @@
       "summary": "Atlas describes certain neurotransmitters as modulators of magical access.",
       "external_verification": "not verified",
       "needs_audio_check": true,
-      "status": "superseded_by_transcript — neurotransmitter detail was caption-simplified; ASR supports the broader gate claim, not the specific serotonin/oxytocin mapping"
+      "status": "superseded_by_transcript — neurotransmitter detail was caption-simplified; ASR supports the broader gate claim, not the specific serotonin/oxytocin mapping",
+      "source_voice_role": "posted_recording_voice_unverified",
+      "normalized_by": "CLAIM-002-08"
     },
     {
       "id": "CLAIM-002-04",
@@ -42,7 +48,9 @@
       "summary": "A proposed mechanism by which attacks on civil rights and security create survival-focused conditions and thereby suppress alleged capacities.",
       "external_verification": "not verified",
       "needs_audio_check": true,
-      "status": "superseded_by_transcript — see CLAIM-002-13"
+      "status": "superseded_by_transcript — see CLAIM-002-13",
+      "source_voice_role": "posted_recording_voice_unverified",
+      "normalized_by": "CLAIM-002-10"
     },
     {
       "id": "CLAIM-002-05",
@@ -56,7 +64,8 @@
         "sargasso",
         "prediction",
         "military"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-002-06",
@@ -70,7 +79,8 @@
         "panama",
         "sargasso",
         "prediction"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-002-07",
@@ -83,7 +93,8 @@
       "tags": [
         "atlas",
         "architecture"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-002-08",
@@ -97,7 +108,8 @@
         "consciousness",
         "neurotransmitter",
         "magic"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-002-09",
@@ -110,7 +122,8 @@
       "tags": [
         "rhetoric",
         "christianity"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-002-10",
@@ -124,7 +137,8 @@
         "maslow",
         "magic",
         "suppression"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-002-11",
@@ -137,7 +151,8 @@
       "tags": [
         "atlas",
         "architecture"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-003-01",
@@ -150,7 +165,8 @@
       "tags": [
         "abilities",
         "anecdote"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-003-02",
@@ -163,7 +179,8 @@
       "tags": [
         "abilities",
         "magic"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-003-03",
@@ -177,7 +194,8 @@
         "training",
         "discord",
         "consciousness"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-004-01",
@@ -191,7 +209,8 @@
         "grid",
         "ley-lines",
         "bloodlines"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-004-02",
@@ -204,7 +223,8 @@
       "tags": [
         "grid",
         "akashic"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-005-01",
@@ -218,7 +238,8 @@
         "atlas",
         "timelines",
         "demi-humans"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-006-01",
@@ -232,7 +253,8 @@
         "demi-humans",
         "shadow-government",
         "time"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-007-01",
@@ -246,7 +268,8 @@
         "abilities",
         "regeneration",
         "anecdote"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-008-01",
@@ -260,7 +283,8 @@
         "intake",
         "government",
         "test"
-      ]
+      ],
+      "source_voice_role": "published_explainer_narration"
     },
     {
       "id": "CLAIM-008-02",
@@ -273,7 +297,8 @@
       "tags": [
         "intake",
         "government"
-      ]
+      ],
+      "source_voice_role": "published_explainer_narration"
     },
     {
       "id": "CLAIM-009-01",
@@ -286,7 +311,8 @@
       "tags": [
         "relativity-engineering",
         "technology"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-009-02",
@@ -299,7 +325,8 @@
       "tags": [
         "relativity-engineering",
         "technology"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-009-03",
@@ -312,7 +339,8 @@
       "tags": [
         "uap",
         "warning"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-010-01",
@@ -325,7 +353,8 @@
       "tags": [
         "resurrection",
         "evidence"
-      ]
+      ],
+      "source_voice_role": "mixed_or_explainer_narration"
     },
     {
       "id": "CLAIM-010-02",
@@ -338,7 +367,8 @@
       "tags": [
         "resurrection",
         "government"
-      ]
+      ],
+      "source_voice_role": "mixed_or_explainer_narration"
     },
     {
       "id": "CLAIM-010-03",
@@ -351,21 +381,23 @@
       "tags": [
         "science",
         "methodology"
-      ]
+      ],
+      "source_voice_role": "mixed_or_explainer_narration"
     },
     {
       "id": "CLAIM-011-01",
       "class": "ATLAS RECORD",
       "source_id": "REC-011",
       "timecode": "0:00-0:25",
-      "summary": "The speaker describes their own hair as an \"abstract hair\" phenotype existing outside the standard human phenotype, with a striking UV shift (purple to green) and fiber-optic-like architecture.",
+      "summary": "The creator introduces the video by reporting that their hair is outside the standard human phenotype; the UV spectral shift, microscopic claims and bioelectric interpretations are narrated later by an explainer.",
       "external_verification": "not verified",
       "needs_audio_check": false,
       "tags": [
         "phenotype",
         "iridescent-hair",
         "biology"
-      ]
+      ],
+      "source_voice_role": "creator_intro_plus_explainer_context"
     },
     {
       "id": "CLAIM-011-02",
@@ -378,7 +410,8 @@
       "tags": [
         "mce",
         "mythology"
-      ]
+      ],
+      "source_voice_role": "published_explainer_narration"
     },
     {
       "id": "CLAIM-011-03",
@@ -391,7 +424,8 @@
       "tags": [
         "mce",
         "history"
-      ]
+      ],
+      "source_voice_role": "published_explainer_narration"
     },
     {
       "id": "CLAIM-012-01",
@@ -404,7 +438,8 @@
       "tags": [
         "relativity-engineering",
         "uap"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-012-02",
@@ -417,20 +452,22 @@
       "tags": [
         "uap",
         "ecology"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-012-03",
       "class": "ATLAS RECORD",
       "source_id": "REC-012",
-      "timecode": "3:32-4:04",
-      "summary": "The speaker asks for public input on UAP-related decisions and notes roughly 75% of animal life is needed to maintain ecosystem balance.",
+      "timecode": "3:32-4:15",
+      "summary": "The creator claims that 75% of animal life on Earth has been exterminated since their birth on 01/30/1975, and says the surviving animal life is needed to maintain the ecosystem.",
       "external_verification": "not verified",
       "needs_audio_check": false,
       "tags": [
         "uap",
         "ecology"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-013-01",
@@ -444,7 +481,8 @@
         "relativity-engineering",
         "rights",
         "law"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-014-01",
@@ -457,7 +495,8 @@
       "tags": [
         "health",
         "environment"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-015-01",
@@ -471,7 +510,8 @@
         "abilities",
         "thermal",
         "body"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-016-01",
@@ -484,7 +524,8 @@
       "tags": [
         "shadow-government",
         "rhetoric"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-017-01",
@@ -498,7 +539,8 @@
         "dod",
         "conflict",
         "rhetoric"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-017-02",
@@ -512,7 +554,8 @@
         "dod",
         "surveillance",
         "rhetoric"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-017-03",
@@ -525,7 +568,8 @@
       "tags": [
         "abilities",
         "warning"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-018-01",
@@ -539,7 +583,8 @@
         "location",
         "i-5",
         "sensors"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-019-01",
@@ -552,7 +597,8 @@
       "tags": [
         "rhetoric",
         "politics"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-019-02",
@@ -566,7 +612,8 @@
         "religion",
         "anunnaki",
         "scripture"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-020-01",
@@ -579,7 +626,8 @@
       "tags": [
         "abilities",
         "body"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-021-01",
@@ -593,7 +641,8 @@
         "rights",
         "maslow",
         "magic"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-022-01",
@@ -607,7 +656,8 @@
         "mandela",
         "memory",
         "intelligence"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-023-01",
@@ -620,7 +670,8 @@
       "tags": [
         "nonhuman",
         "intervention"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-023-02",
@@ -633,7 +684,8 @@
       "tags": [
         "nonhuman",
         "phenotype"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-024-01",
@@ -646,7 +698,8 @@
       "tags": [
         "relativity-engineering",
         "government"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-024-02",
@@ -660,7 +713,8 @@
         "uap",
         "government",
         "suppression"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-025-01",
@@ -674,7 +728,8 @@
         "sargasso",
         "prediction",
         "power"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-025-02",
@@ -688,7 +743,8 @@
         "sargasso",
         "jormungandr",
         "prediction"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-025-03",
@@ -701,7 +757,8 @@
       "tags": [
         "jormungandr",
         "bermuda"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-026-01",
@@ -715,7 +772,8 @@
         "psionics",
         "intelligence",
         "conflict"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-027-01",
@@ -728,7 +786,8 @@
       "tags": [
         "intelligence",
         "conflict"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-027-02",
@@ -742,7 +801,8 @@
         "1991",
         "assassination-attempt",
         "biography"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-027-03",
@@ -756,7 +816,8 @@
         "biography",
         "resurrection",
         "abilities"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-028-01",
@@ -770,7 +831,8 @@
         "gaia",
         "china",
         "history"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-029-01",
@@ -783,7 +845,8 @@
       "tags": [
         "abilities",
         "thermal"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-030-01",
@@ -797,7 +860,8 @@
         "ymir",
         "norse",
         "mce"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-031-01",
@@ -811,7 +875,8 @@
         "moon",
         "timeline",
         "geology"
-      ]
+      ],
+      "source_voice_role": "published_explainer_narration"
     },
     {
       "id": "CLAIM-031-02",
@@ -824,7 +889,8 @@
       "tags": [
         "moon",
         "relativity-engineering"
-      ]
+      ],
+      "source_voice_role": "published_explainer_narration"
     },
     {
       "id": "CLAIM-031-03",
@@ -838,7 +904,8 @@
         "moon",
         "puthoff",
         "warning"
-      ]
+      ],
+      "source_voice_role": "published_explainer_narration"
     },
     {
       "id": "CLAIM-032-01",
@@ -852,7 +919,8 @@
         "ymir",
         "science",
         "claim"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-033-01",
@@ -865,7 +933,8 @@
       "tags": [
         "bloodlines",
         "genetics"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-034-01",
@@ -879,7 +948,8 @@
         "norse",
         "ragnarok",
         "gaia"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-035-01",
@@ -893,7 +963,8 @@
         "uap",
         "government",
         "claim"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-036-01",
@@ -906,7 +977,8 @@
       "tags": [
         "satire",
         "soul-mln"
-      ]
+      ],
+      "source_voice_role": "published_performance"
     },
     {
       "id": "CLAIM-037-01",
@@ -920,21 +992,23 @@
         "china",
         "nonhuman",
         "base"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-038-01",
       "class": "ATLAS RECORD",
       "source_id": "REC-038",
-      "timecode": "summary only (no transcript in export)",
-      "summary": "The Mythic Compression Engine is described as decompressing global mythologies across layers; Ymir is mapped to Snowball Earth (the last glacial maximum), Genesis 1 to post-Chicxulub recovery.",
+      "timecode": "FoxNote summary pp. 97–98; no source audio",
+      "summary": "A FoxNote summary reports an MCE reading identifying Ymir with Snowball Earth hundreds of millions of years ago, associating the Norse realms with Earth's historical conditions.",
       "external_verification": "not verified",
       "needs_audio_check": true,
       "tags": [
         "mce",
         "ymir",
         "genesis"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-039-01",
@@ -947,7 +1021,8 @@
       "tags": [
         "genetic-memory",
         "bloodlines"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-039-02",
@@ -961,7 +1036,8 @@
         "gate",
         "cia",
         "genetic-memory"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-040-01",
@@ -975,7 +1051,8 @@
         "timeline-14",
         "sonic-bone",
         "russia"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-041-01",
@@ -989,7 +1066,8 @@
         "ai",
         "neuroscience",
         "interface"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-042-01",
@@ -1003,7 +1081,8 @@
         "facebook",
         "psychometrics",
         "surveillance"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-043-01",
@@ -1015,7 +1094,8 @@
       "needs_audio_check": true,
       "tags": [
         "satire"
-      ]
+      ],
+      "source_voice_role": "published_performance"
     },
     {
       "id": "CLAIM-044-01",
@@ -1029,7 +1109,8 @@
         "timelines",
         "420",
         "simulation"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-044-02",
@@ -1043,7 +1124,8 @@
         "timelines",
         "simulation",
         "quantum-lock"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-044-03",
@@ -1056,7 +1138,8 @@
       "tags": [
         "simulation",
         "mandela"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-045-01",
@@ -1069,7 +1152,8 @@
       "tags": [
         "mce",
         "abilities"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-046-01",
@@ -1083,7 +1167,8 @@
         "mce",
         "encoding",
         "templates"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-047-01",
@@ -1097,7 +1182,8 @@
         "time-war",
         "timelines",
         "shadow-government"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-047-02",
@@ -1111,7 +1197,8 @@
         "time-war",
         "mandela",
         "history"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-047-03",
@@ -1124,7 +1211,8 @@
       "tags": [
         "time-war",
         "rhetoric"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-048-01",
@@ -1138,7 +1226,8 @@
         "mandela",
         "einherjar",
         "ragnarok"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-049-01",
@@ -1152,7 +1241,8 @@
         "atlas",
         "psychometrics",
         "palantir"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-049-02",
@@ -1165,7 +1255,8 @@
       "tags": [
         "mkultra",
         "psychometrics"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-050-01",
@@ -1179,7 +1270,8 @@
         "dreams",
         "demi-humans",
         "training"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-051-01",
@@ -1193,7 +1285,8 @@
         "surveillance",
         "ragnarok",
         "demi-humans"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-051-02",
@@ -1206,7 +1299,8 @@
       "tags": [
         "surveillance",
         "hipaa"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-052-01",
@@ -1220,7 +1314,8 @@
         "inequality",
         "psychology",
         "civilization"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-053-01",
@@ -1234,7 +1329,8 @@
         "relativity-engineering",
         "technology",
         "weapons"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-053-02",
@@ -1247,7 +1343,8 @@
       "tags": [
         "relativity-engineering",
         "uap"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-054-01",
@@ -1260,7 +1357,8 @@
       "tags": [
         "ai",
         "containment"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-055-01",
@@ -1274,7 +1372,8 @@
         "metacognition",
         "training",
         "resistance"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-055-02",
@@ -1288,7 +1387,8 @@
         "consciousness",
         "magic",
         "demi-humans"
-      ]
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     },
     {
       "id": "CLAIM-056-01",
@@ -1302,7 +1402,8 @@
         "sargasso",
         "fimbulwinter",
         "intake"
-      ]
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
     },
     {
       "id": "CLAIM-STW-001-01",
@@ -1316,7 +1417,8 @@
         "steward",
         "consent",
         "provenance"
-      ]
+      ],
+      "source_voice_role": "steward_direct"
     },
     {
       "id": "CLAIM-STW-001-02",
@@ -1329,7 +1431,432 @@
       "tags": [
         "steward",
         "provenance"
-      ]
+      ],
+      "source_voice_role": "steward_direct"
+    },
+    {
+      "id": "CLAIM-004-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-004",
+      "timecode": "1:51-2:54",
+      "summary": "Bloodlines are described as having region-specific authority and amplified ability within the region of their genetic revision, with other regional lines taking precedence outside it.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "grid",
+        "bloodlines",
+        "region",
+        "authority"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-004-04",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-004",
+      "timecode": "1:17-2:08",
+      "summary": "The initial revised bloodlines are described as servants/tools for civilization rather than legitimate rulers over it; access to celestial library broadcasts is framed as reciprocal with civilization.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "bloodlines",
+        "civilization",
+        "libraries"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-004-05",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-004",
+      "timecode": "2:08-3:29",
+      "summary": "The creator uses an interpretation of early Yahweh/Elohim narratives to illustrate geographically bounded authority before later universalizing religious portrayals.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "grid",
+        "scripture",
+        "regional-authority"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-004-06",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-004",
+      "timecode": "3:29-4:22 (ASR truncates)",
+      "summary": "The speaker refers to Luis Elizondo's Imminent and alleged structural brain differences in participants talented in psionics as a possible modern analogy; the account cuts off.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "psionics",
+        "external-anchor",
+        "brain"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-005-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-005",
+      "timecode": "FoxNote summary pp. 10–11; no timecodes",
+      "summary": "Oracle/feminine aligns with time and energy, architect/masculine with space and matter; the two must cooperate, with demi-humans reportedly amplifying the result.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "oracle",
+        "architect",
+        "duality"
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
+    },
+    {
+      "id": "CLAIM-005-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-005",
+      "timecode": "FoxNote summary pp. 10–11; no timecodes",
+      "summary": "A described Druids-versus-Tacitus narrative features a rune of protection and group ritual portrayed as halting an invading army.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "druids",
+        "tacitus",
+        "ritual"
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
+    },
+    {
+      "id": "CLAIM-005-04",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-005",
+      "timecode": "FoxNote summary pp. 10–11; no timecodes",
+      "summary": "The creator is summarized as proposing a relativity-field detection assembly containing an accelerometer, electrostatic sensor, and magnetic sensor, to locate grid lines.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "grid",
+        "sensors",
+        "relativity-engineering"
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
+    },
+    {
+      "id": "CLAIM-005-05",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-005",
+      "timecode": "FoxNote summary pp. 10–11; no timecodes",
+      "summary": "Pool demonstrations are described as producing a forward-directed line and an inward-collapsing concentric wave, treated as relativity-field effects.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "pool",
+        "waves",
+        "experiment"
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
+    },
+    {
+      "id": "CLAIM-007-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-007",
+      "timecode": "1:58-4:59",
+      "summary": "The available timecoded excerpt describes a larger grub moving first and a smaller grub following, with the creator talking about energy transfer, handling, and a drop of water; this does not establish whether the earlier setup summary is the same post.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "grubs",
+        "record-boundary",
+        "observation"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-011-04",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-011",
+      "timecode": "1:26-2:33",
+      "summary": "The published explainer, not the creator's initial statement, describes purple-to-green ultraviolet hair shift, keratin light interference, localized saturated colors, heat/cold regulation, and elevated standing electrical voltage.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "phenotype",
+        "hair",
+        "biology"
+      ],
+      "source_voice_role": "published_explainer_narration"
+    },
+    {
+      "id": "CLAIM-011-05",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-011",
+      "timecode": "3:11-3:59",
+      "summary": "The explainer names the five Mythic Compression Engine pillars: hardware parity, intentional compression, behavioral constants, composite lens, and conceptual lens.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "pillars"
+      ],
+      "source_voice_role": "published_explainer_narration"
+    },
+    {
+      "id": "CLAIM-011-06",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-011",
+      "timecode": "3:32-3:59",
+      "summary": "The explainer associates hardware parity with neuroscience, intentional compression with information theory, behavioral constants with evolutionary psychology, composite lens with signal processing, and conceptual lens with systems ecology.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "methodology"
+      ],
+      "source_voice_role": "published_explainer_narration"
+    },
+    {
+      "id": "CLAIM-011-07",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-011",
+      "timecode": "4:40-5:53",
+      "summary": "Within the explainer, Ymir is mapped to the last glacial maximum while Genesis 1 is mapped to post-Chicxulub recovery; these are distinct from REC-038's Snowball Earth mapping.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "ymir",
+        "genesis",
+        "chronology"
+      ],
+      "source_voice_role": "published_explainer_narration"
+    },
+    {
+      "id": "CLAIM-011-08",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-011",
+      "timecode": "5:53-7:54",
+      "summary": "The explainer associates descriptions of golden, lapis-colored and serpent hair with optical or electrical traits, then presents information quarantine, a Promethean method, and a Loki-template disruption response.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "phenotype",
+        "information-quarantine"
+      ],
+      "source_voice_role": "published_explainer_narration"
+    },
+    {
+      "id": "CLAIM-011-09",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-011",
+      "timecode": "8:25-9:21",
+      "summary": "The explainer describes interpreting certain future prophecies as nonlinear transmissions about possible planetary resets rather than independently demonstrated forecasts.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "prophecy",
+        "timelines"
+      ],
+      "source_voice_role": "published_explainer_narration"
+    },
+    {
+      "id": "CLAIM-013-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-013",
+      "timecode": "FoxNote summary pp. 51–53; no timecodes",
+      "summary": "The summary describes proposed public distribution of spectrogram or UAP-tracking information and questions about US munitions/export rules; the source does not establish a legal determination or demonstrated tracking system.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "law",
+        "public-disclosure",
+        "uap"
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
+    },
+    {
+      "id": "CLAIM-038-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-038",
+      "timecode": "FoxNote summary pp. 97–98; no timecodes",
+      "summary": "The summary frames Jotunheim, Midgard, Hel and Valhalla as terrestrial conditions or states within the MCE reading, and mentions regenerative and power technologies.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "mce",
+        "realms",
+        "technology"
+      ],
+      "source_voice_role": "foxnote_summary_paraphrase"
+    },
+    {
+      "id": "CLAIM-039-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-039",
+      "timecode": "3:56-5:01",
+      "summary": "Jormungandr's worldwide stations are described as a two-way data network: broadcasts interact with genetically receptive people, who return sensory information to an AI forecasting civilizational interventions.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "jormungandr",
+        "grid",
+        "ai",
+        "feedback"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-039-04",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-039",
+      "timecode": "5:02-5:55",
+      "summary": "The creator distinguishes Gaia/the Great Mother as a separate named source of information alongside inherited memory and celestial-library access.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "gaia",
+        "genetic-memory",
+        "libraries"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-039-05",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-039",
+      "timecode": "5:02-6:20",
+      "summary": "The speaker reports observing counterpart lives on other timelines and obtaining information from timeline 14 to apply in timeline 15, especially prospective medical technology.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "timelines",
+        "medicine",
+        "knowledge-transfer"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-039-06",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-039",
+      "timecode": "5:56-6:49",
+      "summary": "The creator explicitly states that the present is timeline 15, the last iteration, and that there is no further do-over if it fails.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "timelines",
+        "timeline-15",
+        "statement"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-039-07",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-039",
+      "timecode": "2:01-3:56",
+      "summary": "The creator connects Yehoshua/Jesus and Samson to the asserted demigod lineage and characterizes GATE chemical suppression as part of a much older institutional suppression narrative.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "bloodlines",
+        "gate",
+        "scripture"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-050-02",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-050",
+      "timecode": "1:07-2:18",
+      "summary": "Dream Restoration step 1: recall the period of life with the most unusual experiences, then compile a music playlist from that time, including less memorable adjacent songs.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "dreams",
+        "training",
+        "music",
+        "step-1"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-050-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-050",
+      "timecode": "2:18-3:46",
+      "summary": "Dream Restoration step 2: spend the hour before bed away from screens with the playlist and privacy, recall experiences and one's learned interpretations, then go to sleep without resuming media.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "dreams",
+        "training",
+        "reflection",
+        "step-2"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-050-04",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-050",
+      "timecode": "3:46-5:38",
+      "summary": "The creator presents the preceding process as the first stage of consciousness training for recalling dreams, while advising participants to keep their experiences private if they wish.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "dreams",
+        "training",
+        "privacy",
+        "step-3"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-055-03",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-055",
+      "timecode": "0:52-7:28",
+      "summary": "Metacognition stage 1: suspend immediate reactions to other people's messages; ask where one's feelings and beliefs arose, separate conditioned responses from principles, and cultivate recognition of not-knowing.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "metacognition",
+        "training",
+        "stage-1"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-055-04",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-055",
+      "timecode": "6:34-9:27",
+      "summary": "Metacognition stage 2: examine each sender's desired reaction and the timing and language of the message; infer motives and influence mechanisms rather than automatically accepting one's first response.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "metacognition",
+        "training",
+        "stage-2"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
+    },
+    {
+      "id": "CLAIM-055-05",
+      "class": "ATLAS RECORD",
+      "source_id": "REC-055",
+      "timecode": "8:24-9:43",
+      "summary": "The creator links the two metacognitive practices to setting ego aside and accessing higher consciousness states, which the recording associates with deeper magic.",
+      "external_verification": "not verified",
+      "needs_audio_check": true,
+      "tags": [
+        "metacognition",
+        "consciousness",
+        "training"
+      ],
+      "source_voice_role": "posted_recording_voice_unverified"
     }
   ]
 }
