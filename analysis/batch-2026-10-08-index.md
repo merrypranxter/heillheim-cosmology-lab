@@ -1,16 +1,16 @@
 # Batch index — BATCH-2026-10-08 (FoxNote intake)
 
 **Source material:** steward's TikTok archive of @hz.heillheim, run through FoxNote AI (summaries + ASR transcripts), exported as `Hz.pdf`.
-**Result:** 55 distinct recordings catalogued (REC-002 retained and upgraded with its full transcript; REC-003…REC-056 new) plus steward artifact STW-001.
+**Result:** 55 *provisionally distinct* recordings catalogued (REC-002 retained and upgraded with its full transcript; REC-003…REC-056 new) plus steward artifact STW-001.
 **Companion files:** [dedup report](dedup-report.md) · [cross-reference map](cross-reference-map.md) · [clarification ledger](clarification-ledger.md)
 
 ## Master table
 
 | REC | Working title | Transcript | Truncated | FoxNote title(s) | Primary tags |
 | --- | --- | --- | --- | --- | --- |
-| REC-003 | Spontaneous Abilities | yes | no | Spontaneous Abilities | abilities, anecdote, consciousness, discord, magic, training |
+| REC-003 | Spontaneous Abilities | yes | **yes** | Spontaneous Abilities | abilities, anecdote, consciousness, discord, magic, training |
 | REC-002 | Moving Pieces on the Board | yes | no | Celestial Atlas, Strategic Moves | architecture, atlas, christianity, consciousness, magic, maslow |
-| REC-004 | Celestial Grid | yes | no | Celestial Grid | akashic, bloodlines, grid, ley-lines |
+| REC-004 | Celestial Grid | yes | **yes** | Celestial Grid | akashic, bloodlines, grid, ley-lines |
 | REC-005 | Celestial Atlas Part 3 | no | no | Celestial Atlas, Celestial Timelines | atlas, demi-humans, timelines |
 | REC-006 | Shadow Time | no | no | Shadow Time, Time and Shadow | demi-humans, shadow-government, time |
 | STW-001 | Steward consent monologue (STW-001) | yes (inline) | no | (untitled) | steward, consent, provenance |
@@ -68,7 +68,13 @@
 ## Intake notes
 
 - 30 recordings carry timecoded ASR transcripts; 25 are summary-only (FoxNote failed or was skipped) — these are the priority re-transcription targets.
-- 3 transcripts truncate mid-content in the export (REC-009 cluster check the card; flagged `transcript_truncated` in the register).
+- **Five** timecoded transcripts are flagged incomplete/cut off in the available FoxNote export: REC-003, REC-004, REC-010, REC-014, REC-031. This does **not** establish that the original posted video ended at that point. Check the register for precise notes.
 - REC-001 (pre-batch, untranscribed 180s clip) remains open (Q-007).
 - STW-001 is a steward artifact: provenance only, never an Atlas source.
 - All material: confidence C pending audio verification. See PROJECT-VOICE.md for attribution rules.
+
+## Second-pass source-fidelity correction (2026-10-08)
+
+- REC-007 currently unifies a preparation summary and later interaction transcript; these are **unresolved candidate segments**, not a proven duplicate video. The count of 55 from this batch is therefore provisional until media IDs are available.
+- Source descriptions that were cut at about 1,200 characters were replaced with complete summaries, retaining voice distinctions and summary-only qualifications.
+- New claim records encode regional-grid authority, oracle/architect mechanics, MCE methodology, feedback/AI forecasting, timeline 15, dream training and metacognition. See `data/claims.json` and validation script.
