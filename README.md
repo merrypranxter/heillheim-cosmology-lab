@@ -47,6 +47,12 @@ Our task is **cartography**, not diagnosis. Claims of extraordinary events or fo
 - `ghost/` — reusable study packets
 - `templates/` — entry forms · `atlas-expansions/` — contributor branches
 
+## External knowledge concordance
+
+The [External Context and Conceptual Concordance](research/external-context/README.md) links the creator's source records to historical texts, public documents and scientific research **without merging these into the original ATLAS RECORD**. It includes a [master concept index](research/external-context/master-concordance.md), [twelve research dossiers](research/external-context/dossiers/), [external citation register](research/external-context/source-register.md), [verification matrix](research/external-context/verification-matrix.md), and [research gaps](research/external-context/research-gaps.md).
+
+**Research intake (2026-10-08):** Gemini concept extraction + steward-supplied Perplexity Deep Research. The latter did not directly inspect original repository IDs; our concordance corrects that and marks unchecked references as leads. Reviewed external sources are labelled VERIFIED-READ only within the narrow claim checked. This is a working scholarly apparatus, not independent confirmation of all source-reported mechanisms.
+
 ## Source fidelity notes (2026-10-08)
 
 An independent pass corrected mistaken descriptions, transcript-completeness metadata, an inverted wildlife statistic, mislabeled narrator voice and graph/prediction exports. **The 55-record intake deduplication remains provisional**: REC-007 may combine two posts; original TikTok IDs and dates were not preserved. Summary-only records are explicitly weaker source evidence than timecoded ASR. For diagnostics and remaining questions, see [`analysis/source-fidelity-repair-log.md`](analysis/source-fidelity-repair-log.md) and the [clarification ledger](analysis/clarification-ledger.md).
