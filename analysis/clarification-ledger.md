@@ -23,4 +23,10 @@ Questions are not defects: they are the unfinished borders of the map.
 | Q-017 | REC-053 | Which specific capabilities fall under class 1 / 2 / 3 relativity fields? | The class ladder underpins the Sargasso stakes claim | Open |
 | Q-018 | STW-001 | Has the creator responded to the consent request in any channel? | Governs redistribution status of this batch | Steward to update |
 
+| Q-019 | REC-011 / REC-038 | Who originated the five-pillar MCE framework: creator, explainer, collaborator, or cited source? | Prevents wrongly crediting explainer narration as creator's own research | Open |
+| Q-020 | REC-011 / REC-030 / REC-038 | Does Ymir map to Snowball Earth, the last glacial maximum, or two distinct interpretive layers? | Distinct geological time spans must not be merged | Open |
+| Q-021 | REC-007 | Are *Revival of Grubs* and *Grub Interaction* one post or separate clips? | Dedup count depends on original media IDs | Open |
+| Q-022 | REC-008 / 010 / 011 / 031 | Which assertions are from creator's spoken introduction and which from published explainer narration? | Proper source-voice attribution | Open |
+| Q-023 | REC-013 | Which jurisdictions and export-control question is the speaker raising? | Avoids mistaking questions for legal conclusions | Open |
+
 When resolved, **do not delete** the old question. Add the correction date, provenance and exact wording.
