@@ -10,7 +10,8 @@
     "distinct_recordings": 55,
     "steward_artifacts": 1,
     "duplicates_merged": "see analysis/dedup-report.md",
-    "method": "rule-segmented PDF (horizontal-rule delimiters), transcript/summary re-pairing by content, near-duplicate clustering"
+    "method": "rule-segmented PDF (horizontal-rule delimiters), transcript/summary re-pairing by content, near-duplicate clustering",
+    "distinct_recordings_note": "55 provisional; REC-007 (and other summary-only near-duplicates) require original media IDs to confirm dedup"
   },
   "creator_consent": {
     "permission_requested": true,
@@ -27,7 +28,13 @@
       "analysis_status": "untranscribed",
       "transcription_confidence": "U",
       "batch": "pre-2026-10-08",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "untranscribed",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-003",
@@ -39,9 +46,16 @@
       "batch": "BATCH-2026-10-08",
       "analysis_status": "transcribed",
       "transcription_confidence": "C",
-      "transcript_truncated": false,
+      "transcript_truncated": true,
       "source_location": "Hz.pdf pp. 1–2",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "transcript_boundary_note": "Explicit FoxNote end-of-transcript note, cuts mid-sentence",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-002",
@@ -56,7 +70,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 2–130",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-004",
@@ -68,9 +88,16 @@
       "batch": "BATCH-2026-10-08",
       "analysis_status": "transcribed",
       "transcription_confidence": "C",
-      "transcript_truncated": false,
+      "transcript_truncated": true,
       "source_location": "Hz.pdf pp. 5–131",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "transcript_boundary_note": "Ends after unfinished clause at 4:22; recording ending unknown",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-005",
@@ -85,7 +112,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 10–133",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-006",
@@ -100,7 +133,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 11–134",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-007",
@@ -115,7 +154,14 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 24–26",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "record_boundary_status": "candidate_overmerge: early grubs summary vs later interaction ASR (REC-007-A/B segments unresolved)",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-008",
@@ -129,7 +175,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 26–29",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-009",
@@ -143,7 +195,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 29–31",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-010",
@@ -157,7 +215,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": true,
       "source_location": "Hz.pdf pp. 31–49",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-011",
@@ -172,7 +236,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 33–48",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-012",
@@ -184,7 +254,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 49–51",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-013",
@@ -198,7 +274,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 51–53",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-014",
@@ -210,7 +292,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": true,
       "source_location": "Hz.pdf pp. 53–55",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-015",
@@ -222,7 +310,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 55–57",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-016",
@@ -234,7 +328,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 57–59",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-017",
@@ -248,7 +348,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 59–62",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-018",
@@ -263,7 +369,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 62–63",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-019",
@@ -277,7 +389,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 63–65",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-020",
@@ -291,7 +409,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 65–66",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-021",
@@ -303,7 +427,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 66–67",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-022",
@@ -317,7 +447,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 67–68",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-023",
@@ -331,7 +467,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 68–72",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-024",
@@ -345,7 +487,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 72–76",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-025",
@@ -359,7 +507,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 76–80",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-026",
@@ -373,7 +527,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 80–81",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-027",
@@ -387,7 +547,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 81–83",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-028",
@@ -399,7 +565,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 83–84",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-029",
@@ -413,7 +585,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 84–85",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-030",
@@ -425,7 +603,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 85–86",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-031",
@@ -440,7 +624,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": true,
       "source_location": "Hz.pdf pp. 86–111",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-032",
@@ -454,7 +644,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 88–89",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-033",
@@ -468,7 +664,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 89–90",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-034",
@@ -482,7 +684,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 90–91",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-035",
@@ -496,7 +704,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 91–92",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-036",
@@ -511,7 +725,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 92–96",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-037",
@@ -525,7 +745,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 96–97",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-038",
@@ -539,7 +765,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 97–98",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-039",
@@ -553,7 +785,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 98–101",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-040",
@@ -567,7 +805,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 101–104",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-041",
@@ -581,7 +825,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 104–105",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-042",
@@ -595,7 +845,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 105–107",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-043",
@@ -609,7 +865,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 107–107",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-044",
@@ -621,7 +883,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 108–110",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-045",
@@ -636,7 +904,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 111–122",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-046",
@@ -650,7 +924,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 112–121",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-047",
@@ -665,7 +945,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 113–126",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-048",
@@ -679,7 +965,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 134–134",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-049",
@@ -693,7 +985,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 134–138",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-050",
@@ -707,7 +1005,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 138–141",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-051",
@@ -721,7 +1025,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 141–143",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-052",
@@ -735,7 +1045,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 143–144",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-053",
@@ -749,7 +1065,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 144–147",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-054",
@@ -763,7 +1085,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 147–151",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-055",
@@ -777,7 +1105,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 151–154",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "REC-056",
@@ -791,7 +1125,13 @@
       "transcription_confidence": "C",
       "transcript_truncated": false,
       "source_location": "Hz.pdf pp. 154–155",
-      "rights_status": "provisional_pending_creator_consent"
+      "rights_status": "provisional_pending_creator_consent",
+      "source_evidence_basis": "foxnote_summary_only",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     },
     {
       "id": "STW-001",
@@ -802,7 +1142,13 @@
       "transcription_confidence": "C",
       "attribution": "project steward (merrypranxter) — NOT an Atlas source",
       "rights_status": "steward-authored",
-      "note": "Archival/provenance artifact only. Never cite as cosmologist speech."
+      "note": "Archival/provenance artifact only. Never cite as cosmologist speech.",
+      "source_evidence_basis": "foxnote_asr_provisional",
+      "video_url": null,
+      "video_id": null,
+      "original_posted_at": null,
+      "media_sha256": null,
+      "asr_checked_by": null
     }
   ],
   "external_sources": [
