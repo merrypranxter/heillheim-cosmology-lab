@@ -19,7 +19,8 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 ## Attributable propositions
 
-- `CLAIM-013-01` (summary only (no transcript in export)) — The legality and ethics of publicly sharing advanced relativity-field and UAP data are questioned, including whether distribution could invoke munitions-list provisions.
+- `CLAIM-013-01` (summary only (no transcript in export)) — The legality and ethics of publicly sharing advanced relativity-field and UAP data are questioned, including whether distribution could invoke munitions-list provisions. *[voice: foxnote_summary_paraphrase; external verification: not verified]*
+- `CLAIM-013-02` (FoxNote summary pp. 51–53; no timecodes) — The summary describes proposed public distribution of spectrogram or UAP-tracking information and questions about US munitions/export rules; the source does not establish a legal determination or demonstrated tracking system. *[voice: foxnote_summary_paraphrase; external verification: not verified]*
 
 ## Uncertain words / missing context
 
