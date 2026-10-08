@@ -12,7 +12,7 @@
 
 ## Source description
 
-The speaker presents a conspiratorial narrative about the Moon’s origin, claiming the original Moon was destroyed and replaced in a grand geophysical event. Specifically, the 717000000 years ago date marks the destruction, and 635000000 years ago marks the introduction of the replacement Moon. The account attributes the creation of the 2nd moon to “my people,” who supposedly operated from beyond Earth to retrieve material from the asteroid belt using a gravitational slingshot, assembling it into a mass near Earth. A type 2 projected inverse gravity field is then used to crush the gathered material, melting surface rocks into a sea of magma. After the field is turned off, the Moon cools in the vacuum of space, forming crusts through thermal contraction, which leads to layered rock formation, buckling, and the emergence of ridges that become mountains. The Moon is eventually captured by Earth, though the process continues to unfold. The narrative ends abruptly while beginning to explain a shell around the Moon’s exterior.
+The creator introduces the account by linking Ymir's death in the Atlas to the placement of a replacement Moon. The following **published explainer narration** develops the proposed Moon 1.0/2.0 sequence: loss of an earlier Moon around 717 million years ago, a proposed deep freeze, assembly of a second Moon around 635 million years ago with a class-2 projected inverse-gravity field, and subsequent crust formation. The explainer also attributes catastrophic risk to a proposal associated with Hal Puthoff involving nuclear intervention in the Moon. The text cuts off while describing the later Moon structure. These are concepts conveyed in the posted explainer; no independently verified physical mechanism or Moon chronology is established by the recording.
 
 ## Verified wording and timecodes
 Only direct quotes checked against original audio appear here. None yet; see `sources/transcripts/rec-031.md` for the full ASR transcript and `data/claims.json` for atomic propositions.
@@ -24,6 +24,8 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 - `CLAIM-031-03` (0:57-1:16) — Physicist Hal Puthoff’s proposal to burrow into the Moon with nuclear ordnance is called the most dangerous idea in human history: the Moon as a hollow acoustic structure and "loaded gun."
 
 ## Uncertain words / missing context
+
+- **Speaker roles:** The creator speaks in the introductory portion (Speaker 0); the detailed timeline, mechanisms and Puthoff warning are from the posted explainer narrator (Speaker 1), not direct on-camera testimony. See `source_voice_role` in the claim records.
 
 - **Transcription cuts off mid-content in the export.** Content after the cut is missing.
 - ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
