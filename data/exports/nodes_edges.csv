@@ -24,9 +24,7 @@ node,TIMELINES,Timelines 1–15,structure,REC-044;REC-005;REC-047,core
 node,TIMEWAR,Time War,event-structure,REC-047;REC-042,core
 node,MANDELA,Mandela Effect,phenomenon,REC-022;REC-044;REC-048,core
 node,SHADOWGOV,Shadow government,institution,REC-002;REC-016;REC-006;REC-047,core
-node,PSIONICS,Psionics / magic,capability,REC-002;REC-003;REC-026,core
 node,NEUROCHEM,Neurochemical gate,mechanism,REC-002,mapped
-node,MASLOW,Maslow suppression,mechanism,REC-002;REC-021,core
 node,PSYCHOMETRIC,Psychometric data complex,institution/mechanism,REC-049;REC-042,core
 node,RAGNAROK,Ragnarok,event,REC-034;REC-051;REC-048,mapped
 node,FIMBULWINTER,Fimbulwinter,event,REC-056,mapped
