@@ -1,7 +1,7 @@
 # Dedup report — BATCH-2026-10-08
 
 **FoxNote export:** 155-page PDF (`Hz.pdf`), segmented by horizontal-rule delimiters into **114 chunks** (36 transcript chunks, 78 summary chunks).
-**Resolved to:** **55 distinct recordings** (REC-002 + REC-003…REC-056) **+ 1 steward artifact** (STW-001).
+**Provisionally resolved to:** **55 distinct recordings** (REC-002 + REC-003…REC-056) **+ 1 steward artifact** (STW-001).
 
 Method: rule segmentation → transcript/summary re-pairing by content (adjacency was unreliable; several notes carry the summary before the transcript or lack titles) → near-duplicate clustering by title + overview text + ASR identity.
 
@@ -15,7 +15,7 @@ Method: rule segmentation → transcript/summary re-pairing by content (adjacenc
 | Thermal Regulation, weight/ability (REC-015) | 2 | “Thermal Control”, “Thermal Regulation” | two summary notes, no transcript |
 | Soul Trade satire (REC-036) | 3 | “Soul Trade”, “Soul Sale MLM” | same Huawei-MLM call; one transcript |
 | I-5 site (REC-018) | 2 | “I-5 Asset Claim”, “Sensor Calibration Site” | same Centralia location note |
-| Grub revival (REC-007) | 3 | “Revival of Grubs”, “Grub Interaction” | same event; one transcript |
+| Grub revival (REC-007) | 3 | “Revival of Grubs”, “Grub Interaction” | **UNRESOLVED:** initial drowned-grubs/preparation summary vs later interaction transcript; may be one post or two. Preserve REC-007-A/REC-007-B as *candidate* source segments pending media IDs. |
 | Mythic Encoding pair (REC-046 / REC-045) | 4 | “Mythic Encoding” ×2 / “Mythical Compression”, “Compression Conceptualization” | two distinct videos, each with two summary notes |
 | Celestial Grid (REC-004) | 3 | “Celestial Grid” ×2 (two templates) | one transcript + duplicate summary |
 | Atlas Part 3 (REC-005) / Shadow Time (REC-006) | 4 | “Celestial Atlas”/“Celestial Timelines”; “Shadow Time”/“Time and Shadow” | paired duplicate summaries, no transcripts |
