@@ -12,6 +12,9 @@
 
 ## Source description
 
+**Record boundary unresolved:** FoxNote's *Revival of Grubs* summary describes finding the submerged grubs and planned government outreach, whereas its *Grub Interaction* ASR begins later, during movement and handling. Both may represent one recording, two connected videos, or a clipped segment; no distinct TikTok IDs are available. The summary is **not** a transcript of the available timecoded portion.
+
+
 The narrator describes fishing two drowned grub worms out of a pool with the aim of reviving them rather than letting them stay dead. They note the worms are currently nonfunctional and plan to restore them to life to draw attention and demonstrate abilities. The speaker mentions they have already sent video footage to the Director of National Intelligence's Office showing they are biologically different, but not yet displaying actual abilities. They intend to send more contacts on Wednesday to escalate attention. The process involves placing the grubs on their left hand to assess their life force potential: one grub appears stronger than the other, and the speaker prepares to focus on reviving the second by first testing the stronger one. The passage ends mid-assessment.
 
 ## Verified wording and timecodes
@@ -22,6 +25,8 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 - `CLAIM-007-01` — The speaker narrates reviving two drowned grub worms, observing them through a recovery process; one larger grub reacts strongly to the procedure.
 
 ## Uncertain words / missing context
+
+- **Possible over-merge (candidate A/B):** preserve early setup summary as `REC-007-A` and later interaction transcript as `REC-007-B` *candidate segments only*, not confirmed separate recordings or official new REC IDs. Obtain the original video IDs before splitting the record.
 
 - ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
 
