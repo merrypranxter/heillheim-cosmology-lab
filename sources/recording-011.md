@@ -19,11 +19,19 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 ## Attributable propositions
 
-- `CLAIM-011-01` (0:00-0:25) — The speaker describes their own hair as an "abstract hair" phenotype existing outside the standard human phenotype, with a striking UV shift (purple to green) and fiber-optic-like architecture.
-- `CLAIM-011-02` — A deductive framework called the Mythic Compression Engine (MCE) is introduced: global mythologies are treated as intentionally compressed data that can be decompressed into scientific insight.
-- `CLAIM-011-03` — The explainer claims the MCE links the hair anomaly to a rewrite of human history and asks how fast the status quo would unravel if the framework achieved academic recognition.
+- `CLAIM-011-01` (0:00-0:25) — The creator introduces the video by reporting that their hair is outside the standard human phenotype; the UV spectral shift, microscopic claims and bioelectric interpretations are narrated later by an explainer. *[voice: creator_intro_plus_explainer_context; external verification: not verified]*
+- `CLAIM-011-02` — A deductive framework called the Mythic Compression Engine (MCE) is introduced: global mythologies are treated as intentionally compressed data that can be decompressed into scientific insight. *[voice: published_explainer_narration; external verification: not verified]*
+- `CLAIM-011-03` — The explainer claims the MCE links the hair anomaly to a rewrite of human history and asks how fast the status quo would unravel if the framework achieved academic recognition. *[voice: published_explainer_narration; external verification: not verified]*
+- `CLAIM-011-04` (1:26-2:33) — The published explainer, not the creator's initial statement, describes purple-to-green ultraviolet hair shift, keratin light interference, localized saturated colors, heat/cold regulation, and elevated standing electrical voltage. *[voice: published_explainer_narration; external verification: not verified]*
+- `CLAIM-011-05` (3:11-3:59) — The explainer names the five Mythic Compression Engine pillars: hardware parity, intentional compression, behavioral constants, composite lens, and conceptual lens. *[voice: published_explainer_narration; external verification: not verified]*
+- `CLAIM-011-06` (3:32-3:59) — The explainer associates hardware parity with neuroscience, intentional compression with information theory, behavioral constants with evolutionary psychology, composite lens with signal processing, and conceptual lens with systems ecology. *[voice: published_explainer_narration; external verification: not verified]*
+- `CLAIM-011-07` (4:40-5:53) — Within the explainer, Ymir is mapped to the last glacial maximum while Genesis 1 is mapped to post-Chicxulub recovery; these are distinct from REC-038's Snowball Earth mapping. *[voice: published_explainer_narration; external verification: not verified]*
+- `CLAIM-011-08` (5:53-7:54) — The explainer associates descriptions of golden, lapis-colored and serpent hair with optical or electrical traits, then presents information quarantine, a Promethean method, and a Loki-template disruption response. *[voice: published_explainer_narration; external verification: not verified]*
+- `CLAIM-011-09` (8:25-9:21) — The explainer describes interpreting certain future prophecies as nonlinear transmissions about possible planetary resets rather than independently demonstrated forecasts. *[voice: published_explainer_narration; external verification: not verified]*
 
 ## Uncertain words / missing context
+
+- **Voice/provenance:** a statement in a published explainer is credited to the explainer voice, not silently converted into a personal first-person claim. MCE chronology differs between REC-011 (last glacial maximum) and REC-038 (Snowball Earth); retain both pending creator clarification.
 
 - ASR wording is machine-generated; phrases marked uncertain in the export were preserved in the transcript file. Confirm any quotation against original-speed audio (needs_audio_check in claims.json).
 
