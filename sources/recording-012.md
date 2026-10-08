@@ -19,9 +19,9 @@ Only direct quotes checked against original audio appear here. None yet; see `so
 
 ## Attributable propositions
 
-- `CLAIM-012-01` (0:00-0:32) — The speaker identifies as a relativity engineer tasked with UAP-manufacturing knowledge, promising "700 years of progress in the next 35" to counter extinction-level threats.
-- `CLAIM-012-02` (2:04-2:39) — UAPs are described as Earth’s inherent automated ecological maintenance fleet (atmosphere, seismic, mantle monitoring), credited with preventing predicted 1990s ecosystem collapse.
-- `CLAIM-012-03` (3:32-4:15) — The speaker asserts that 75% of animal life has been exterminated since their birth on January 30, 1975, and that remaining animal life is needed to sustain ecosystem balance. **Source-reported statistic; not externally verified.**
+- `CLAIM-012-01` (0:00-0:32) — The speaker identifies as a relativity engineer tasked with UAP-manufacturing knowledge, promising "700 years of progress in the next 35" to counter extinction-level threats. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-012-02` (2:04-2:39) — UAPs are described as Earth’s inherent automated ecological maintenance fleet (atmosphere, seismic, mantle monitoring), credited with preventing predicted 1990s ecosystem collapse. *[voice: posted_recording_voice_unverified; external verification: not verified]*
+- `CLAIM-012-03` (3:32-4:15) — The creator claims that 75% of animal life on Earth has been exterminated since their birth on 01/30/1975, and says the surviving animal life is needed to maintain the ecosystem. *[voice: posted_recording_voice_unverified; external verification: not verified]*
 
 ## Uncertain words / missing context
 
