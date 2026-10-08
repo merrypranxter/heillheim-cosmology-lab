@@ -1,0 +1,13 @@
+name: Validate Celestial Atlas
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  source-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check source and export parity
+        run: python3 scripts/validate_atlas.py
