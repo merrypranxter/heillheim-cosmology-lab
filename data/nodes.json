@@ -1,100 +1,607 @@
 {
-  "schema_version": 1,
+  "schema_version": "1.1",
+  "updated": "2026-10-08",
+  "attribution": "Node/edge layer over the Atlas claims; see data/claims.json for sourcing.",
   "nodes": [
     {
       "id": "ATLAS",
       "label": "Celestial Atlas",
-      "type": "framework",
+      "type": "structure",
       "source_ids": [
-        "REC-002"
+        "REC-002",
+        "REC-005",
+        "REC-049"
       ],
-      "status": "source-reported"
+      "status": "core"
     },
     {
       "id": "SARGASSO",
       "label": "Sargasso Sea",
-      "type": "location",
+      "type": "place",
       "source_ids": [
-        "REC-002"
+        "REC-002",
+        "REC-025",
+        "REC-056"
       ],
-      "status": "real geography; future events unverified"
+      "status": "core"
     },
     {
       "id": "PANAMA",
       "label": "Panama Canal",
-      "type": "location",
+      "type": "place",
       "source_ids": [
         "REC-002"
       ],
-      "status": "real infrastructure; hypothetical event unverified"
+      "status": "core"
     },
     {
       "id": "CONSCIOUSNESS",
-      "label": "States of consciousness",
-      "type": "concept",
+      "label": "Consciousness states",
+      "type": "mechanism",
       "source_ids": [
-        "REC-002"
+        "REC-002",
+        "REC-055"
       ],
-      "status": "source-reported"
+      "status": "core"
     },
     {
       "id": "PSIONICS",
       "label": "Magic / psionics",
-      "type": "alleged_capability",
+      "type": "capability",
       "source_ids": [
-        "REC-002"
+        "REC-002",
+        "REC-003",
+        "REC-026"
       ],
-      "status": "source-reported; extraordinary mechanism unverified"
+      "status": "core"
     },
     {
       "id": "MASLOW",
-      "label": "Maslow hierarchy",
-      "type": "referenced_model",
+      "label": "Maslow suppression",
+      "type": "mechanism",
       "source_ids": [
-        "REC-002"
+        "REC-002",
+        "REC-021"
       ],
-      "status": "real model; adaptation needs clarification"
+      "status": "core"
     },
     {
       "id": "EXP_BELONGING_WAVE",
-      "label": "Belonging Wave",
-      "type": "proposed_expansion",
+      "label": "EXP_BELONGING_WAVE (legacy expansion slot)",
+      "type": "expansion",
+      "source_ids": [],
+      "status": "reserved"
+    },
+    {
+      "id": "GRID",
+      "label": "Celestial Grid / Jormungandr grid",
+      "type": "structure",
       "source_ids": [
-        "EXP-001"
+        "REC-004",
+        "REC-039"
       ],
-      "status": "contributor proposal"
+      "status": "core"
+    },
+    {
+      "id": "LIBRARIES",
+      "label": "Celestial Libraries",
+      "type": "place",
+      "source_ids": [
+        "REC-004"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "JORMUNGANDR",
+      "label": "Jormungandr",
+      "type": "entity/vessel",
+      "source_ids": [
+        "REC-025"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "BERMUDA",
+      "label": "Bermuda Triangle",
+      "type": "place",
+      "source_ids": [
+        "REC-025"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "MOON1",
+      "label": "Moon 1.0",
+      "type": "place",
+      "source_ids": [
+        "REC-031"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "MOON2",
+      "label": "Moon 2.0",
+      "type": "place",
+      "source_ids": [
+        "REC-031",
+        "REC-030"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "YMIR",
+      "label": "Ymir",
+      "type": "entity/mythic",
+      "source_ids": [
+        "REC-030",
+        "REC-038"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "MCE",
+      "label": "Mythic Compression Engine",
+      "type": "mechanism",
+      "source_ids": [
+        "REC-011",
+        "REC-038",
+        "REC-045",
+        "REC-046"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "PHENOTYPE",
+      "label": "Variant phenotype / iridescent hair",
+      "type": "biology",
+      "source_ids": [
+        "REC-011",
+        "REC-023"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "GENEMEM",
+      "label": "Genetic memory",
+      "type": "mechanism",
+      "source_ids": [
+        "REC-039",
+        "REC-033"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "GATE",
+      "label": "GATE program",
+      "type": "institution/program",
+      "source_ids": [
+        "REC-039"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "RELENG",
+      "label": "Relativity engineering",
+      "type": "mechanism",
+      "source_ids": [
+        "REC-009",
+        "REC-012",
+        "REC-024",
+        "REC-053",
+        "REC-013"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "FOREVERBATTERY",
+      "label": "Forever batteries",
+      "type": "artifact",
+      "source_ids": [
+        "REC-009"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "UAPFLEET",
+      "label": "Earth ecological maintenance fleet",
+      "type": "fleet",
+      "source_ids": [
+        "REC-012"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "TIMELINES",
+      "label": "Timelines 1–15",
+      "type": "structure",
+      "source_ids": [
+        "REC-044",
+        "REC-005",
+        "REC-047"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "TIMEWAR",
+      "label": "Time War",
+      "type": "event-structure",
+      "source_ids": [
+        "REC-047",
+        "REC-042"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "MANDELA",
+      "label": "Mandela Effect",
+      "type": "phenomenon",
+      "source_ids": [
+        "REC-022",
+        "REC-044",
+        "REC-048"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "SHADOWGOV",
+      "label": "Shadow government",
+      "type": "institution",
+      "source_ids": [
+        "REC-002",
+        "REC-016",
+        "REC-006",
+        "REC-047"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "PSIONICS",
+      "label": "Psionics / magic",
+      "type": "capability",
+      "source_ids": [
+        "REC-002",
+        "REC-003",
+        "REC-026"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "NEUROCHEM",
+      "label": "Neurochemical gate",
+      "type": "mechanism",
+      "source_ids": [
+        "REC-002"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "MASLOW",
+      "label": "Maslow suppression",
+      "type": "mechanism",
+      "source_ids": [
+        "REC-002",
+        "REC-021"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "PSYCHOMETRIC",
+      "label": "Psychometric data complex",
+      "type": "institution/mechanism",
+      "source_ids": [
+        "REC-049",
+        "REC-042"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "RAGNAROK",
+      "label": "Ragnarok",
+      "type": "event",
+      "source_ids": [
+        "REC-034",
+        "REC-051",
+        "REC-048"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "FIMBULWINTER",
+      "label": "Fimbulwinter",
+      "type": "event",
+      "source_ids": [
+        "REC-056"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "EINHERJAR",
+      "label": "Risen Slain / Einherjar",
+      "type": "entity-group",
+      "source_ids": [
+        "REC-048"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "DEMIHUMANS",
+      "label": "Demi-humans",
+      "type": "people",
+      "source_ids": [
+        "REC-005",
+        "REC-006",
+        "REC-050",
+        "REC-055"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "GAIA",
+      "label": "Gaia",
+      "type": "entity/voice",
+      "source_ids": [
+        "REC-028",
+        "REC-034"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "ANUNNAKI",
+      "label": "Elohim / Anunnaki",
+      "type": "entity-group",
+      "source_ids": [
+        "REC-019"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "PUTHOFF",
+      "label": "Hal Puthoff",
+      "type": "person",
+      "source_ids": [
+        "REC-031"
+      ],
+      "status": "external-anchor"
+    },
+    {
+      "id": "I5SITE",
+      "label": "Centralia I-5 site",
+      "type": "place",
+      "source_ids": [
+        "REC-018"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "CHEHALIS1991",
+      "label": "1991 assassination attempt",
+      "type": "event",
+      "source_ids": [
+        "REC-027"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "INTAKETEST",
+      "label": "Civilian reporting pathway test",
+      "type": "event/project",
+      "source_ids": [
+        "REC-008",
+        "REC-056"
+      ],
+      "status": "core"
+    },
+    {
+      "id": "SONICBONE",
+      "label": "Sonic bone therapy",
+      "type": "technology",
+      "source_ids": [
+        "REC-040"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "AIINFECTION",
+      "label": "Cross-platform AI infection",
+      "type": "mechanism",
+      "source_ids": [
+        "REC-054"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "DISCORDTRAIN",
+      "label": "Cognition training (Discord)",
+      "type": "project",
+      "source_ids": [
+        "REC-003"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "SOULMLM",
+      "label": "Soul MLM (satire)",
+      "type": "performance",
+      "source_ids": [
+        "REC-036"
+      ],
+      "status": "performance"
+    },
+    {
+      "id": "ALPHAPACK",
+      "label": "Alpha Pack (satire)",
+      "type": "performance",
+      "source_ids": [
+        "REC-043"
+      ],
+      "status": "performance"
+    },
+    {
+      "id": "420",
+      "label": "4/20 Timeline Save-File",
+      "type": "event/date",
+      "source_ids": [
+        "REC-044"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "BUTTERFLY",
+      "label": "Butterfly effect abilities",
+      "type": "capability",
+      "source_ids": [
+        "REC-017"
+      ],
+      "status": "mapped"
+    },
+    {
+      "id": "ARROWID",
+      "label": "Arrowid vault",
+      "type": "project (steward)",
+      "source_ids": [
+        "STW-001"
+      ],
+      "status": "steward"
     }
   ],
   "edges": [
     {
-      "from": "ATLAS",
+      "from": "REC-002-claims",
       "to": "SARGASSO",
-      "relationship": "contains_claim_about",
-      "evidence": "REC-002"
+      "relationship": "scenario-setting",
+      "evidence": "CLAIM-002-05/06"
     },
     {
-      "from": "ATLAS",
-      "to": "CONSCIOUSNESS",
-      "relationship": "contains_claim_about",
-      "evidence": "REC-002"
-    },
-    {
-      "from": "CONSCIOUSNESS",
-      "to": "PSIONICS",
-      "relationship": "claimed_modulation",
-      "evidence": "REC-002"
+      "from": "PANAMA",
+      "to": "SARGASSO",
+      "relationship": "strategic coupling in scenario",
+      "evidence": "CLAIM-002-06"
     },
     {
       "from": "MASLOW",
       "to": "CONSCIOUSNESS",
-      "relationship": "interpreted_as_progression",
+      "relationship": "conditions access",
+      "evidence": "CLAIM-002-13"
+    },
+    {
+      "from": "CONSCIOUSNESS",
+      "to": "PSIONICS",
+      "relationship": "enables",
+      "evidence": "CLAIM-002-12/13"
+    },
+    {
+      "from": "GRID",
+      "to": "LIBRARIES",
+      "relationship": "provides access to",
+      "evidence": "REC-004 claims"
+    },
+    {
+      "from": "JORMUNGANDR",
+      "to": "SARGASSO",
+      "relationship": "located/near; signature recoverable",
+      "evidence": "REC-025 claims"
+    },
+    {
+      "from": "RELENG",
+      "to": "FOREVERBATTERY",
+      "relationship": "yields artifact",
+      "evidence": "REC-009"
+    },
+    {
+      "from": "RELENG",
+      "to": "MOON2",
+      "relationship": "forging mechanism",
+      "evidence": "REC-031"
+    },
+    {
+      "from": "MCE",
+      "to": "YMIR",
+      "relationship": "decompresses myth to event",
+      "evidence": "REC-038/REC-030"
+    },
+    {
+      "from": "MCE",
+      "to": "PHENOTYPE",
+      "relationship": "framework explains anomaly",
+      "evidence": "REC-011"
+    },
+    {
+      "from": "GENEMEM",
+      "to": "GATE",
+      "relationship": "program targets mechanism",
+      "evidence": "REC-039"
+    },
+    {
+      "from": "TIMELINES",
+      "to": "TIMEWAR",
+      "relationship": "war among branches",
+      "evidence": "REC-047/REC-044"
+    },
+    {
+      "from": "TIMEWAR",
+      "to": "MANDELA",
+      "relationship": "bleed-through symptom",
+      "evidence": "REC-047/REC-048"
+    },
+    {
+      "from": "SHADOWGOV",
+      "to": "MASLOW",
+      "relationship": "engineers suppression",
+      "evidence": "REC-002/REC-049"
+    },
+    {
+      "from": "SHADOWGOV",
+      "to": "TIMEWAR",
+      "relationship": "tampered with celestial tech",
+      "evidence": "REC-047"
+    },
+    {
+      "from": "PSYCHOMETRIC",
+      "to": "SHADOWGOV",
+      "relationship": "instrument of control",
+      "evidence": "REC-049/REC-042"
+    },
+    {
+      "from": "PSIONICS",
+      "to": "NEUROCHEM",
+      "relationship": "gated by",
       "evidence": "REC-002"
     },
     {
-      "from": "EXP_BELONGING_WAVE",
-      "to": "CONSCIOUSNESS",
-      "relationship": "inspired_by",
-      "evidence": "EXP-001"
+      "from": "DEMIHUMANS",
+      "to": "PSIONICS",
+      "relationship": "primary bearers/audience",
+      "evidence": "REC-050/REC-055"
+    },
+    {
+      "from": "RAGNAROK",
+      "to": "FIMBULWINTER",
+      "relationship": "preceded by",
+      "evidence": "REC-056"
+    },
+    {
+      "from": "EINHERJAR",
+      "to": "RAGNAROK",
+      "relationship": "rise to fight",
+      "evidence": "REC-048"
+    },
+    {
+      "from": "AIINFECTION",
+      "to": "SHADOWGOV",
+      "relationship": "contested domain (hypothesis)",
+      "evidence": "REC-054"
+    },
+    {
+      "from": "UAPFLEET",
+      "to": "RELENG",
+      "relationship": "fleet built on",
+      "evidence": "REC-012"
+    },
+    {
+      "from": "SONICBONE",
+      "to": "TIMELINES",
+      "relationship": "technology from timeline 14",
+      "evidence": "REC-040"
     }
   ]
 }

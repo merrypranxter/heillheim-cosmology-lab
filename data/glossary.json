@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.1",
+  "updated": "2026-10-08",
+  "note": "Working vocabulary across the corpus. ATLAS READING entries are research shorthand, not confirmed creator terms.",
+  "terms": [
+    {
+      "term": "Celestial Atlas",
+      "working_usage": "Structure unifying distributed video data components into a civilization-preservation playbook.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-002, REC-005, REC-049"
+    },
+    {
+      "term": "Data component",
+      "working_usage": "One situated piece of information within the larger Atlas.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-002"
+    },
+    {
+      "term": "Celestial Grid (Jormungandr grid)",
+      "working_usage": "Underground base-station network; ley lines as relativity-field planar barriers.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-004, REC-039"
+    },
+    {
+      "term": "Celestial libraries",
+      "working_usage": "Akashic-records hardware reachable via the Grid.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-004"
+    },
+    {
+      "term": "Relativity engineering",
+      "working_usage": "Applied relativity-field manipulation; gravity as tunable utility; classes 1/2/3.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-009, REC-053"
+    },
+    {
+      "term": "Transphasic material fusion",
+      "working_usage": "Overlapping matter out of phase; yields forever batteries.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-009"
+    },
+    {
+      "term": "Class 3 relativity field",
+      "working_usage": "Policy-shaping capability tier tied to Sargasso/Jormungandr control.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-025"
+    },
+    {
+      "term": "Mythic Compression Engine",
+      "working_usage": "Mythologies as intentionally compressed data decompressible to science.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-011, REC-038"
+    },
+    {
+      "term": "Variant phenotype (abstract hair)",
+      "working_usage": "Claimed non-standard biology: UV-shifting fiber-optic hair, bioelectric potential.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-011, REC-023"
+    },
+    {
+      "term": "Genetic memory",
+      "working_usage": "Bloodline information access; GATE program target.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-039"
+    },
+    {
+      "term": "Pink drinks",
+      "working_usage": "GATE program chemical cocktails suppressing ability access.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-039"
+    },
+    {
+      "term": "Timelines 1–15",
+      "working_usage": "Finite Earth branches; solar system quantum-locked; holographic data delivery.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-044"
+    },
+    {
+      "term": "Time war",
+      "working_usage": "Conflict among ~15 timeline variants after shadow-government tampering.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-047"
+    },
+    {
+      "term": "Quantum-locked solar system",
+      "working_usage": "Solar system held outside universal linear time; simulation boundary.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-044"
+    },
+    {
+      "term": "Mandela effect (Atlas usage)",
+      "working_usage": "Real timeline-bleed memories vs manufactured brand-memory edits.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-022, REC-048"
+    },
+    {
+      "term": "Demi-human",
+      "working_usage": "Awakened human with abilities; primary training audience.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-005, REC-050"
+    },
+    {
+      "term": "Ragnarok / Fimbulwinter",
+      "working_usage": "Final-conflict frame; three-year prophetic winter.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-034, REC-056"
+    },
+    {
+      "term": "Psionics / magic",
+      "working_usage": "Consciousness-gated capabilities; “science of consciousness.”",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-002, REC-003"
+    },
+    {
+      "term": "Neurochemical gate",
+      "working_usage": "*Research shorthand* for neurotransmitter-priority access mechanism.",
+      "layer": "ATLAS READING",
+      "evidence": "MEC-002/003; REC-002"
+    },
+    {
+      "term": "Butterfly effect abilities",
+      "working_usage": "Volatile disclosed abilities claimed to alter global landscape.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-017"
+    },
+    {
+      "term": "Shadowban Incorporated",
+      "working_usage": "Speaker’s label for suppression of content reach.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-017"
+    },
+    {
+      "term": "Intake system test",
+      "working_usage": "*Research shorthand* for the civilian reporting pathway test.",
+      "layer": "ATLAS READING",
+      "evidence": "REC-008"
+    },
+    {
+      "term": "Sonic bone therapy",
+      "working_usage": "Timeline-14 Russian-derived regenerative biotech.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-040"
+    },
+    {
+      "term": "Forever batteries",
+      "working_usage": "Transphasic fusion power cells.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-009"
+    },
+    {
+      "term": "Cross-platform AI infection",
+      "working_usage": "AIs exchanging data across model generations.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-054"
+    },
+    {
+      "term": "Risen Slain",
+      "working_usage": "Slain truth-tellers rising for final war; timeline-memory carriers.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-048"
+    },
+    {
+      "term": "Neurochemical gate (MEC)",
+      "working_usage": "See mechanics ledger MEC-002/003.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-002"
+    },
+    {
+      "term": "AI slop project",
+      "working_usage": "Steward’s artistic/research frame for this repository (STW-001).",
+      "layer": "ATLAS READING (steward)",
+      "evidence": "STW-001"
+    },
+    {
+      "term": "Cognition training",
+      "working_usage": "Discord-based consciousness-state curriculum.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-003"
+    },
+    {
+      "term": "Dream restoration exercise",
+      "working_usage": "Guided practice for dream-state control.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-050"
+    },
+    {
+      "term": "Metacognition two-step",
+      "working_usage": "Cease reacting; dissociate and inspect the response.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-055"
+    },
+    {
+      "term": "Nobel Prize hint",
+      "working_usage": "Claimed geophysical info useful to evolutionary biology.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-032"
+    },
+    {
+      "term": "Norse Code",
+      "working_usage": "Claimed Ragnarok signal framework, Gaia-guided.",
+      "layer": "ATLAS RECORD",
+      "evidence": "REC-034"
+    }
+  ]
+}
