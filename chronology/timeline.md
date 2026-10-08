@@ -7,7 +7,7 @@ Statement dates and in-cosmology events, ordered as stated by the source. **"Cos
 | EVT-001 | ~717,000,000 years ago | Obliteration of Moon 1.0; Earth plunged into deep freeze (Snowball Earth era). | REC-031, REC-030 | cosmology |
 | EVT-002 | ~635,000,000 years ago | Moon 2.0 forged from asteroid-belt material via type-2 inverse gravity field and inserted into Earth orbit. | REC-031 | cosmology |
 | EVT-016 | Snowball Earth (hundreds of millions of years ago) | Ymir mapped to Snowball Earth in summary-only recordings; source order unresolved. | REC-030, REC-038 | cosmology |
-| EVT-003 | post-Chicxulub | Genesis 1 framed as compressed record of post-impact ecological recovery (MCE reading). | REC-038 | cosmology |
+| EVT-003 | post-Chicxulub | Genesis 1 interpreted as post-impact recovery in the **published explainer**. | REC-011 | cosmology |
 | EVT-004 | last glacial maximum (REC-011 explainer) | Ymir associated with this interval, **distinct** from the Snowball Earth mapping in REC-030/038. | REC-011 | cosmology |
 | EVT-005 | 1990s | Ecological collapse predictions fail because Earth’s automated UAP fleet intervened. | REC-012 | cosmology |
 | EVT-006 | 1991 | Claimed multi-agency assassination attempt in Lewis County, WA; evidence of 3-vehicle simultaneity provoked. | REC-027 | biography |
